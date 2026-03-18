@@ -1,0 +1,3602 @@
+[
+  {
+    "transaction_id": "TXN000001",
+    "customer_id": "CUST0013",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1338.35,
+    "total_amount": 1338.35,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-08 12:08:40",
+    "shipping_address": {
+      "street": "233 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "96419"
+    }
+  },
+  {
+    "transaction_id": "TXN000002",
+    "customer_id": "CUST0005",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 95.67,
+    "total_amount": 287.01,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-19 12:08:40",
+    "shipping_address": {
+      "street": "549 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "16211"
+    }
+  },
+  {
+    "transaction_id": "TXN000003",
+    "customer_id": "CUST0050",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 2,
+    "unit_price": 31.08,
+    "total_amount": 62.15,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-03-01 12:08:40",
+    "shipping_address": {
+      "street": "90 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "84026"
+    }
+  },
+  {
+    "transaction_id": "TXN000004",
+    "customer_id": "CUST0045",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 296.65,
+    "total_amount": 1186.6,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-01-06 12:08:40",
+    "shipping_address": {
+      "street": "552 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "47132"
+    }
+  },
+  {
+    "transaction_id": "TXN000005",
+    "customer_id": "CUST0038",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 90.66,
+    "total_amount": 90.66,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-10-07 12:08:40",
+    "shipping_address": {
+      "street": "138 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "50946"
+    }
+  },
+  {
+    "transaction_id": "TXN000006",
+    "customer_id": "CUST0049",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 44.04,
+    "total_amount": 220.22,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-10-02 12:08:40",
+    "shipping_address": {
+      "street": "456 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "91992"
+    }
+  },
+  {
+    "transaction_id": "TXN000007",
+    "customer_id": "CUST0004",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 31.33,
+    "total_amount": 94.0,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-12-28 12:08:40",
+    "shipping_address": {
+      "street": "410 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "88146"
+    }
+  },
+  {
+    "transaction_id": "TXN000008",
+    "customer_id": "CUST0008",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 594.26,
+    "total_amount": 594.26,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-31 12:08:40",
+    "shipping_address": {
+      "street": "184 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "11959"
+    }
+  },
+  {
+    "transaction_id": "TXN000009",
+    "customer_id": "CUST0040",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 31.32,
+    "total_amount": 31.32,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-05 12:08:40",
+    "shipping_address": {
+      "street": "191 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "36888"
+    }
+  },
+  {
+    "transaction_id": "TXN000010",
+    "customer_id": "CUST0034",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 296.19,
+    "total_amount": 592.37,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-19 12:08:40",
+    "shipping_address": {
+      "street": "592 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "28839"
+    }
+  },
+  {
+    "transaction_id": "TXN000011",
+    "customer_id": "CUST0027",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 60.35,
+    "total_amount": 60.35,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-02-06 12:08:40",
+    "shipping_address": {
+      "street": "250 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "39756"
+    }
+  },
+  {
+    "transaction_id": "TXN000012",
+    "customer_id": "CUST0037",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 5,
+    "unit_price": 95.18,
+    "total_amount": 475.88,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-01-21 12:08:40",
+    "shipping_address": {
+      "street": "565 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "81788"
+    }
+  },
+  {
+    "transaction_id": "TXN000013",
+    "customer_id": "CUST0029",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 1061.0,
+    "total_amount": 2122.0,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-07 12:08:40",
+    "shipping_address": {
+      "street": "771 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "90249"
+    }
+  },
+  {
+    "transaction_id": "TXN000014",
+    "customer_id": "CUST0042",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 64.64,
+    "total_amount": 129.28,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-09 12:08:40",
+    "shipping_address": {
+      "street": "303 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "28666"
+    }
+  },
+  {
+    "transaction_id": "TXN000015",
+    "customer_id": "CUST0014",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 21.08,
+    "total_amount": 21.08,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-10-19 12:08:40",
+    "shipping_address": {
+      "street": "368 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "15698"
+    }
+  },
+  {
+    "transaction_id": "TXN000016",
+    "customer_id": "CUST0032",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1292.3,
+    "total_amount": 1292.3,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-17 12:08:40",
+    "shipping_address": {
+      "street": "800 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "70405"
+    }
+  },
+  {
+    "transaction_id": "TXN000017",
+    "customer_id": "CUST0046",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 1460.38,
+    "total_amount": 2920.76,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-30 12:08:40",
+    "shipping_address": {
+      "street": "165 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "10793"
+    }
+  },
+  {
+    "transaction_id": "TXN000018",
+    "customer_id": "CUST0022",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 584.62,
+    "total_amount": 584.62,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-01-30 12:08:40",
+    "shipping_address": {
+      "street": "773 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "39250"
+    }
+  },
+  {
+    "transaction_id": "TXN000019",
+    "customer_id": "CUST0029",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 194.53,
+    "total_amount": 778.11,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-18 12:08:40",
+    "shipping_address": {
+      "street": "40 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "62622"
+    }
+  },
+  {
+    "transaction_id": "TXN000020",
+    "customer_id": "CUST0043",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 638.71,
+    "total_amount": 1916.14,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-23 12:08:40",
+    "shipping_address": {
+      "street": "622 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "43393"
+    }
+  },
+  {
+    "transaction_id": "TXN000021",
+    "customer_id": "CUST0039",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 40.08,
+    "total_amount": 80.17,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-05 12:08:40",
+    "shipping_address": {
+      "street": "844 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "14996"
+    }
+  },
+  {
+    "transaction_id": "TXN000022",
+    "customer_id": "CUST0029",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 417.44,
+    "total_amount": 1252.33,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-06 12:08:40",
+    "shipping_address": {
+      "street": "97 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "12913"
+    }
+  },
+  {
+    "transaction_id": "TXN000023",
+    "customer_id": "CUST0042",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 45.86,
+    "total_amount": 183.43,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-23 12:08:40",
+    "shipping_address": {
+      "street": "844 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "84513"
+    }
+  },
+  {
+    "transaction_id": "TXN000024",
+    "customer_id": "CUST0033",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 34.79,
+    "total_amount": 104.37,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-09 12:08:40",
+    "shipping_address": {
+      "street": "320 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "87892"
+    }
+  },
+  {
+    "transaction_id": "TXN000025",
+    "customer_id": "CUST0044",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 30.61,
+    "total_amount": 153.04,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-13 12:08:40",
+    "shipping_address": {
+      "street": "968 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "57070"
+    }
+  },
+  {
+    "transaction_id": "TXN000026",
+    "customer_id": "CUST0040",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 273.97,
+    "total_amount": 273.97,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-01 12:08:40",
+    "shipping_address": {
+      "street": "286 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "55666"
+    }
+  },
+  {
+    "transaction_id": "TXN000027",
+    "customer_id": "CUST0031",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 81.51,
+    "total_amount": 163.02,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-29 12:08:40",
+    "shipping_address": {
+      "street": "63 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "34974"
+    }
+  },
+  {
+    "transaction_id": "TXN000028",
+    "customer_id": "CUST0046",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 66.09,
+    "total_amount": 198.26,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "916 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "41628"
+    }
+  },
+  {
+    "transaction_id": "TXN000029",
+    "customer_id": "CUST0035",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 190.28,
+    "total_amount": 190.28,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-10 12:08:40",
+    "shipping_address": {
+      "street": "357 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "48148"
+    }
+  },
+  {
+    "transaction_id": "TXN000030",
+    "customer_id": "CUST0014",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 221.94,
+    "total_amount": 1109.72,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-11-14 12:08:40",
+    "shipping_address": {
+      "street": "753 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "28867"
+    }
+  },
+  {
+    "transaction_id": "TXN000031",
+    "customer_id": "CUST0021",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 26.12,
+    "total_amount": 78.37,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-20 12:08:40",
+    "shipping_address": {
+      "street": "835 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "14111"
+    }
+  },
+  {
+    "transaction_id": "TXN000032",
+    "customer_id": "CUST0034",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 798.3,
+    "total_amount": 2394.91,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-05 12:08:40",
+    "shipping_address": {
+      "street": "830 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "54035"
+    }
+  },
+  {
+    "transaction_id": "TXN000033",
+    "customer_id": "CUST0023",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 939.28,
+    "total_amount": 939.28,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-10-26 12:08:40",
+    "shipping_address": {
+      "street": "789 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "46716"
+    }
+  },
+  {
+    "transaction_id": "TXN000034",
+    "customer_id": "CUST0007",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 959.43,
+    "total_amount": 2878.29,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-13 12:08:40",
+    "shipping_address": {
+      "street": "613 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "67494"
+    }
+  },
+  {
+    "transaction_id": "TXN000035",
+    "customer_id": "CUST0029",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 85.66,
+    "total_amount": 256.97,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "699 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "66095"
+    }
+  },
+  {
+    "transaction_id": "TXN000036",
+    "customer_id": "CUST0018",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 96.73,
+    "total_amount": 96.73,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-09-24 12:08:40",
+    "shipping_address": {
+      "street": "259 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "25875"
+    }
+  },
+  {
+    "transaction_id": "TXN000037",
+    "customer_id": "CUST0005",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 37.04,
+    "total_amount": 111.13,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-03 12:08:40",
+    "shipping_address": {
+      "street": "886 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "63960"
+    }
+  },
+  {
+    "transaction_id": "TXN000038",
+    "customer_id": "CUST0001",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 140.06,
+    "total_amount": 560.22,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-12-18 12:08:40",
+    "shipping_address": {
+      "street": "716 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "44160"
+    }
+  },
+  {
+    "transaction_id": "TXN000039",
+    "customer_id": "CUST0043",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 49.67,
+    "total_amount": 49.67,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-09-27 12:08:40",
+    "shipping_address": {
+      "street": "395 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "27128"
+    }
+  },
+  {
+    "transaction_id": "TXN000040",
+    "customer_id": "CUST0001",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 950.63,
+    "total_amount": 1901.26,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-02 12:08:40",
+    "shipping_address": {
+      "street": "551 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "43530"
+    }
+  },
+  {
+    "transaction_id": "TXN000041",
+    "customer_id": "CUST0008",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 15.82,
+    "total_amount": 79.08,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-03-12 12:08:40",
+    "shipping_address": {
+      "street": "660 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "79242"
+    }
+  },
+  {
+    "transaction_id": "TXN000042",
+    "customer_id": "CUST0046",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 67.46,
+    "total_amount": 67.46,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-10-06 12:08:40",
+    "shipping_address": {
+      "street": "638 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "60236"
+    }
+  },
+  {
+    "transaction_id": "TXN000043",
+    "customer_id": "CUST0025",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 13.73,
+    "total_amount": 41.19,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-10 12:08:40",
+    "shipping_address": {
+      "street": "894 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "94084"
+    }
+  },
+  {
+    "transaction_id": "TXN000044",
+    "customer_id": "CUST0019",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 1133.99,
+    "total_amount": 3401.97,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-21 12:08:40",
+    "shipping_address": {
+      "street": "878 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "44765"
+    }
+  },
+  {
+    "transaction_id": "TXN000045",
+    "customer_id": "CUST0035",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 26.35,
+    "total_amount": 105.39,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-18 12:08:40",
+    "shipping_address": {
+      "street": "990 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "49589"
+    }
+  },
+  {
+    "transaction_id": "TXN000046",
+    "customer_id": "CUST0046",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 27.63,
+    "total_amount": 110.53,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-27 12:08:40",
+    "shipping_address": {
+      "street": "836 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "58695"
+    }
+  },
+  {
+    "transaction_id": "TXN000047",
+    "customer_id": "CUST0024",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 164.17,
+    "total_amount": 164.17,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-10-08 12:08:40",
+    "shipping_address": {
+      "street": "855 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "40029"
+    }
+  },
+  {
+    "transaction_id": "TXN000048",
+    "customer_id": "CUST0024",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 920.28,
+    "total_amount": 4601.41,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-12 12:08:40",
+    "shipping_address": {
+      "street": "956 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "57753"
+    }
+  },
+  {
+    "transaction_id": "TXN000049",
+    "customer_id": "CUST0033",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 45.14,
+    "total_amount": 225.7,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-16 12:08:40",
+    "shipping_address": {
+      "street": "101 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "75585"
+    }
+  },
+  {
+    "transaction_id": "TXN000050",
+    "customer_id": "CUST0006",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 31.06,
+    "total_amount": 93.19,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-12-10 12:08:40",
+    "shipping_address": {
+      "street": "334 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "83175"
+    }
+  },
+  {
+    "transaction_id": "TXN000051",
+    "customer_id": "CUST0027",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 25.29,
+    "total_amount": 50.58,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-01-28 12:08:40",
+    "shipping_address": {
+      "street": "157 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "77378"
+    }
+  },
+  {
+    "transaction_id": "TXN000052",
+    "customer_id": "CUST0019",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 15.82,
+    "total_amount": 47.46,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-09 12:08:40",
+    "shipping_address": {
+      "street": "486 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "74480"
+    }
+  },
+  {
+    "transaction_id": "TXN000053",
+    "customer_id": "CUST0020",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 18.01,
+    "total_amount": 18.01,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-15 12:08:40",
+    "shipping_address": {
+      "street": "64 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "76541"
+    }
+  },
+  {
+    "transaction_id": "TXN000054",
+    "customer_id": "CUST0005",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 21.57,
+    "total_amount": 21.57,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-18 12:08:40",
+    "shipping_address": {
+      "street": "745 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "54458"
+    }
+  },
+  {
+    "transaction_id": "TXN000055",
+    "customer_id": "CUST0047",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 39.44,
+    "total_amount": 39.44,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-01 12:08:40",
+    "shipping_address": {
+      "street": "8 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "92627"
+    }
+  },
+  {
+    "transaction_id": "TXN000056",
+    "customer_id": "CUST0025",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 87.61,
+    "total_amount": 262.84,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-21 12:08:40",
+    "shipping_address": {
+      "street": "85 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "27727"
+    }
+  },
+  {
+    "transaction_id": "TXN000057",
+    "customer_id": "CUST0031",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 477.55,
+    "total_amount": 477.55,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-09 12:08:40",
+    "shipping_address": {
+      "street": "226 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "13762"
+    }
+  },
+  {
+    "transaction_id": "TXN000058",
+    "customer_id": "CUST0014",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 91.17,
+    "total_amount": 182.34,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-16 12:08:40",
+    "shipping_address": {
+      "street": "252 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "96857"
+    }
+  },
+  {
+    "transaction_id": "TXN000059",
+    "customer_id": "CUST0048",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 17.77,
+    "total_amount": 71.06,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-01-02 12:08:40",
+    "shipping_address": {
+      "street": "205 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "35293"
+    }
+  },
+  {
+    "transaction_id": "TXN000060",
+    "customer_id": "CUST0005",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 49.54,
+    "total_amount": 247.7,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-14 12:08:40",
+    "shipping_address": {
+      "street": "973 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "41015"
+    }
+  },
+  {
+    "transaction_id": "TXN000061",
+    "customer_id": "CUST0040",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 827.03,
+    "total_amount": 827.03,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-10-11 12:08:40",
+    "shipping_address": {
+      "street": "66 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "57191"
+    }
+  },
+  {
+    "transaction_id": "TXN000062",
+    "customer_id": "CUST0048",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 910.89,
+    "total_amount": 910.89,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-09-20 12:08:40",
+    "shipping_address": {
+      "street": "811 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "10170"
+    }
+  },
+  {
+    "transaction_id": "TXN000063",
+    "customer_id": "CUST0031",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 30.33,
+    "total_amount": 121.31,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-10-30 12:08:40",
+    "shipping_address": {
+      "street": "899 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "85333"
+    }
+  },
+  {
+    "transaction_id": "TXN000064",
+    "customer_id": "CUST0007",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 51.76,
+    "total_amount": 51.76,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-20 12:08:40",
+    "shipping_address": {
+      "street": "201 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "46662"
+    }
+  },
+  {
+    "transaction_id": "TXN000065",
+    "customer_id": "CUST0045",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 546.07,
+    "total_amount": 2730.33,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-15 12:08:40",
+    "shipping_address": {
+      "street": "421 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "46426"
+    }
+  },
+  {
+    "transaction_id": "TXN000066",
+    "customer_id": "CUST0006",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 652.71,
+    "total_amount": 3263.53,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-15 12:08:40",
+    "shipping_address": {
+      "street": "838 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "71338"
+    }
+  },
+  {
+    "transaction_id": "TXN000067",
+    "customer_id": "CUST0005",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 1190.24,
+    "total_amount": 5951.2,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-23 12:08:40",
+    "shipping_address": {
+      "street": "833 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "29776"
+    }
+  },
+  {
+    "transaction_id": "TXN000068",
+    "customer_id": "CUST0033",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 5,
+    "unit_price": 49.09,
+    "total_amount": 245.44,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-10 12:08:40",
+    "shipping_address": {
+      "street": "645 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "63008"
+    }
+  },
+  {
+    "transaction_id": "TXN000069",
+    "customer_id": "CUST0013",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 36.22,
+    "total_amount": 36.22,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-21 12:08:40",
+    "shipping_address": {
+      "street": "128 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "20508"
+    }
+  },
+  {
+    "transaction_id": "TXN000070",
+    "customer_id": "CUST0015",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 21.3,
+    "total_amount": 42.61,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-01-21 12:08:40",
+    "shipping_address": {
+      "street": "102 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "98644"
+    }
+  },
+  {
+    "transaction_id": "TXN000071",
+    "customer_id": "CUST0034",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 23.55,
+    "total_amount": 70.65,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-12-13 12:08:40",
+    "shipping_address": {
+      "street": "227 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "13304"
+    }
+  },
+  {
+    "transaction_id": "TXN000072",
+    "customer_id": "CUST0022",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 48.57,
+    "total_amount": 145.72,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-28 12:08:40",
+    "shipping_address": {
+      "street": "544 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "66348"
+    }
+  },
+  {
+    "transaction_id": "TXN000073",
+    "customer_id": "CUST0028",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 789.17,
+    "total_amount": 789.17,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-03 12:08:40",
+    "shipping_address": {
+      "street": "748 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "93855"
+    }
+  },
+  {
+    "transaction_id": "TXN000074",
+    "customer_id": "CUST0019",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 41.88,
+    "total_amount": 209.38,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-01-14 12:08:40",
+    "shipping_address": {
+      "street": "69 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "73449"
+    }
+  },
+  {
+    "transaction_id": "TXN000075",
+    "customer_id": "CUST0012",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 112.03,
+    "total_amount": 224.07,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-03-10 12:08:40",
+    "shipping_address": {
+      "street": "665 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "25100"
+    }
+  },
+  {
+    "transaction_id": "TXN000076",
+    "customer_id": "CUST0015",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 46.86,
+    "total_amount": 187.43,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-11-03 12:08:40",
+    "shipping_address": {
+      "street": "695 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "84999"
+    }
+  },
+  {
+    "transaction_id": "TXN000077",
+    "customer_id": "CUST0046",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 774.08,
+    "total_amount": 1548.16,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-29 12:08:40",
+    "shipping_address": {
+      "street": "775 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "96303"
+    }
+  },
+  {
+    "transaction_id": "TXN000078",
+    "customer_id": "CUST0007",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 898.05,
+    "total_amount": 3592.18,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-05 12:08:40",
+    "shipping_address": {
+      "street": "373 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "40055"
+    }
+  },
+  {
+    "transaction_id": "TXN000079",
+    "customer_id": "CUST0022",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 966.89,
+    "total_amount": 1933.77,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-31 12:08:40",
+    "shipping_address": {
+      "street": "120 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "78374"
+    }
+  },
+  {
+    "transaction_id": "TXN000080",
+    "customer_id": "CUST0025",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 3,
+    "unit_price": 118.36,
+    "total_amount": 355.08,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-02-26 12:08:40",
+    "shipping_address": {
+      "street": "894 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "46011"
+    }
+  },
+  {
+    "transaction_id": "TXN000081",
+    "customer_id": "CUST0023",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 561.22,
+    "total_amount": 2806.09,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-10 12:08:40",
+    "shipping_address": {
+      "street": "101 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "48048"
+    }
+  },
+  {
+    "transaction_id": "TXN000082",
+    "customer_id": "CUST0001",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 1776.34,
+    "total_amount": 3552.68,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-20 12:08:40",
+    "shipping_address": {
+      "street": "75 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "91274"
+    }
+  },
+  {
+    "transaction_id": "TXN000083",
+    "customer_id": "CUST0019",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 39.17,
+    "total_amount": 78.33,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-23 12:08:40",
+    "shipping_address": {
+      "street": "562 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "86635"
+    }
+  },
+  {
+    "transaction_id": "TXN000084",
+    "customer_id": "CUST0023",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 25.18,
+    "total_amount": 75.53,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-21 12:08:40",
+    "shipping_address": {
+      "street": "500 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "14948"
+    }
+  },
+  {
+    "transaction_id": "TXN000085",
+    "customer_id": "CUST0008",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 33.89,
+    "total_amount": 101.68,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-13 12:08:40",
+    "shipping_address": {
+      "street": "50 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "28004"
+    }
+  },
+  {
+    "transaction_id": "TXN000086",
+    "customer_id": "CUST0012",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 393.98,
+    "total_amount": 787.96,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-10 12:08:40",
+    "shipping_address": {
+      "street": "800 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "47030"
+    }
+  },
+  {
+    "transaction_id": "TXN000087",
+    "customer_id": "CUST0030",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 112.67,
+    "total_amount": 338.02,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-05 12:08:40",
+    "shipping_address": {
+      "street": "19 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "51218"
+    }
+  },
+  {
+    "transaction_id": "TXN000088",
+    "customer_id": "CUST0049",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 62.29,
+    "total_amount": 62.29,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-13 12:08:40",
+    "shipping_address": {
+      "street": "313 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "89810"
+    }
+  },
+  {
+    "transaction_id": "TXN000089",
+    "customer_id": "CUST0033",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 13.93,
+    "total_amount": 13.93,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-03 12:08:40",
+    "shipping_address": {
+      "street": "786 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "40585"
+    }
+  },
+  {
+    "transaction_id": "TXN000090",
+    "customer_id": "CUST0006",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 39.08,
+    "total_amount": 117.25,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-26 12:08:40",
+    "shipping_address": {
+      "street": "932 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "27302"
+    }
+  },
+  {
+    "transaction_id": "TXN000091",
+    "customer_id": "CUST0047",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 47.71,
+    "total_amount": 238.53,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-12-30 12:08:40",
+    "shipping_address": {
+      "street": "885 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "71007"
+    }
+  },
+  {
+    "transaction_id": "TXN000092",
+    "customer_id": "CUST0011",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 33.92,
+    "total_amount": 135.7,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-22 12:08:40",
+    "shipping_address": {
+      "street": "20 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "97694"
+    }
+  },
+  {
+    "transaction_id": "TXN000093",
+    "customer_id": "CUST0026",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 20.58,
+    "total_amount": 102.89,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-01 12:08:40",
+    "shipping_address": {
+      "street": "997 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "41855"
+    }
+  },
+  {
+    "transaction_id": "TXN000094",
+    "customer_id": "CUST0019",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 30.71,
+    "total_amount": 153.54,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "971 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "86023"
+    }
+  },
+  {
+    "transaction_id": "TXN000095",
+    "customer_id": "CUST0034",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 27.61,
+    "total_amount": 55.21,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-12 12:08:40",
+    "shipping_address": {
+      "street": "560 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "69793"
+    }
+  },
+  {
+    "transaction_id": "TXN000096",
+    "customer_id": "CUST0005",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 677.84,
+    "total_amount": 3389.21,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-01-09 12:08:40",
+    "shipping_address": {
+      "street": "867 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "87772"
+    }
+  },
+  {
+    "transaction_id": "TXN000097",
+    "customer_id": "CUST0005",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 33.51,
+    "total_amount": 100.54,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-01-07 12:08:40",
+    "shipping_address": {
+      "street": "265 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "61174"
+    }
+  },
+  {
+    "transaction_id": "TXN000098",
+    "customer_id": "CUST0040",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 287.0,
+    "total_amount": 287.0,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-31 12:08:40",
+    "shipping_address": {
+      "street": "867 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "44429"
+    }
+  },
+  {
+    "transaction_id": "TXN000099",
+    "customer_id": "CUST0040",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 1136.0,
+    "total_amount": 4544.01,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-18 12:08:40",
+    "shipping_address": {
+      "street": "720 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "82062"
+    }
+  },
+  {
+    "transaction_id": "TXN000100",
+    "customer_id": "CUST0035",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 49.66,
+    "total_amount": 49.66,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-01-28 12:08:40",
+    "shipping_address": {
+      "street": "904 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "93306"
+    }
+  },
+  {
+    "transaction_id": "TXN000101",
+    "customer_id": "CUST0009",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 195.67,
+    "total_amount": 782.67,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-12 12:08:40",
+    "shipping_address": {
+      "street": "152 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "34071"
+    }
+  },
+  {
+    "transaction_id": "TXN000102",
+    "customer_id": "CUST0023",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 623.92,
+    "total_amount": 623.92,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-28 12:08:40",
+    "shipping_address": {
+      "street": "549 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "64824"
+    }
+  },
+  {
+    "transaction_id": "TXN000103",
+    "customer_id": "CUST0017",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 24.7,
+    "total_amount": 98.8,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-09-24 12:08:40",
+    "shipping_address": {
+      "street": "866 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "26331"
+    }
+  },
+  {
+    "transaction_id": "TXN000104",
+    "customer_id": "CUST0043",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1905.2,
+    "total_amount": 1905.2,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2026-02-17 12:08:40",
+    "shipping_address": {
+      "street": "151 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "38061"
+    }
+  },
+  {
+    "transaction_id": "TXN000105",
+    "customer_id": "CUST0007",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 292.1,
+    "total_amount": 1168.4,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-09-17 12:08:40",
+    "shipping_address": {
+      "street": "162 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "26265"
+    }
+  },
+  {
+    "transaction_id": "TXN000106",
+    "customer_id": "CUST0007",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 194.51,
+    "total_amount": 778.04,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-12 12:08:40",
+    "shipping_address": {
+      "street": "127 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "30311"
+    }
+  },
+  {
+    "transaction_id": "TXN000107",
+    "customer_id": "CUST0010",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 46.7,
+    "total_amount": 140.11,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-07 12:08:40",
+    "shipping_address": {
+      "street": "188 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "33273"
+    }
+  },
+  {
+    "transaction_id": "TXN000108",
+    "customer_id": "CUST0005",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 226.69,
+    "total_amount": 226.69,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-11-07 12:08:40",
+    "shipping_address": {
+      "street": "289 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "96418"
+    }
+  },
+  {
+    "transaction_id": "TXN000109",
+    "customer_id": "CUST0003",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 80.94,
+    "total_amount": 323.75,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2025-12-12 12:08:40",
+    "shipping_address": {
+      "street": "207 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "31886"
+    }
+  },
+  {
+    "transaction_id": "TXN000110",
+    "customer_id": "CUST0025",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 2,
+    "unit_price": 17.99,
+    "total_amount": 35.99,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-06 12:08:40",
+    "shipping_address": {
+      "street": "522 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "37733"
+    }
+  },
+  {
+    "transaction_id": "TXN000111",
+    "customer_id": "CUST0013",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 1515.56,
+    "total_amount": 7577.81,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-12-21 12:08:40",
+    "shipping_address": {
+      "street": "1 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "48711"
+    }
+  },
+  {
+    "transaction_id": "TXN000112",
+    "customer_id": "CUST0011",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 177.56,
+    "total_amount": 177.56,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-08 12:08:40",
+    "shipping_address": {
+      "street": "930 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "29190"
+    }
+  },
+  {
+    "transaction_id": "TXN000113",
+    "customer_id": "CUST0020",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 62.66,
+    "total_amount": 125.31,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-26 12:08:40",
+    "shipping_address": {
+      "street": "122 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "24208"
+    }
+  },
+  {
+    "transaction_id": "TXN000114",
+    "customer_id": "CUST0020",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 756.45,
+    "total_amount": 3782.25,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-17 12:08:40",
+    "shipping_address": {
+      "street": "77 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "90030"
+    }
+  },
+  {
+    "transaction_id": "TXN000115",
+    "customer_id": "CUST0041",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 38.06,
+    "total_amount": 152.23,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-11 12:08:40",
+    "shipping_address": {
+      "street": "508 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "92194"
+    }
+  },
+  {
+    "transaction_id": "TXN000116",
+    "customer_id": "CUST0021",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 1435.53,
+    "total_amount": 7177.63,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-10-21 12:08:40",
+    "shipping_address": {
+      "street": "648 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "40757"
+    }
+  },
+  {
+    "transaction_id": "TXN000117",
+    "customer_id": "CUST0016",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 904.31,
+    "total_amount": 904.31,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-14 12:08:40",
+    "shipping_address": {
+      "street": "683 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "11899"
+    }
+  },
+  {
+    "transaction_id": "TXN000118",
+    "customer_id": "CUST0009",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 165.34,
+    "total_amount": 165.34,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-10-03 12:08:40",
+    "shipping_address": {
+      "street": "529 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "83625"
+    }
+  },
+  {
+    "transaction_id": "TXN000119",
+    "customer_id": "CUST0025",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 37.96,
+    "total_amount": 151.84,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-24 12:08:40",
+    "shipping_address": {
+      "street": "252 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "73552"
+    }
+  },
+  {
+    "transaction_id": "TXN000120",
+    "customer_id": "CUST0026",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 579.38,
+    "total_amount": 2317.52,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "466 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "46776"
+    }
+  },
+  {
+    "transaction_id": "TXN000121",
+    "customer_id": "CUST0022",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 25.36,
+    "total_amount": 50.73,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-10-22 12:08:40",
+    "shipping_address": {
+      "street": "291 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "95121"
+    }
+  },
+  {
+    "transaction_id": "TXN000122",
+    "customer_id": "CUST0022",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 328.5,
+    "total_amount": 656.99,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-03-02 12:08:40",
+    "shipping_address": {
+      "street": "747 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "44086"
+    }
+  },
+  {
+    "transaction_id": "TXN000123",
+    "customer_id": "CUST0012",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1012.64,
+    "total_amount": 1012.64,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-02 12:08:40",
+    "shipping_address": {
+      "street": "805 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "34599"
+    }
+  },
+  {
+    "transaction_id": "TXN000124",
+    "customer_id": "CUST0037",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 94.15,
+    "total_amount": 94.15,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-20 12:08:40",
+    "shipping_address": {
+      "street": "68 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "10353"
+    }
+  },
+  {
+    "transaction_id": "TXN000125",
+    "customer_id": "CUST0034",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 753.46,
+    "total_amount": 3013.83,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-22 12:08:40",
+    "shipping_address": {
+      "street": "250 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "31237"
+    }
+  },
+  {
+    "transaction_id": "TXN000126",
+    "customer_id": "CUST0028",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 143.32,
+    "total_amount": 573.29,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-09-22 12:08:40",
+    "shipping_address": {
+      "street": "741 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "13427"
+    }
+  },
+  {
+    "transaction_id": "TXN000127",
+    "customer_id": "CUST0037",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 35.97,
+    "total_amount": 107.9,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-20 12:08:40",
+    "shipping_address": {
+      "street": "470 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "15307"
+    }
+  },
+  {
+    "transaction_id": "TXN000128",
+    "customer_id": "CUST0017",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 28.59,
+    "total_amount": 57.18,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-02 12:08:40",
+    "shipping_address": {
+      "street": "65 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "32438"
+    }
+  },
+  {
+    "transaction_id": "TXN000129",
+    "customer_id": "CUST0016",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 2,
+    "unit_price": 32.83,
+    "total_amount": 65.66,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2026-02-23 12:08:40",
+    "shipping_address": {
+      "street": "863 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "86673"
+    }
+  },
+  {
+    "transaction_id": "TXN000130",
+    "customer_id": "CUST0005",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 918.63,
+    "total_amount": 2755.88,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-01-12 12:08:40",
+    "shipping_address": {
+      "street": "585 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "52790"
+    }
+  },
+  {
+    "transaction_id": "TXN000131",
+    "customer_id": "CUST0004",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 1,
+    "unit_price": 23.83,
+    "total_amount": 23.83,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-02-27 12:08:40",
+    "shipping_address": {
+      "street": "273 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "33134"
+    }
+  },
+  {
+    "transaction_id": "TXN000132",
+    "customer_id": "CUST0023",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 250.78,
+    "total_amount": 1003.13,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-12-01 12:08:40",
+    "shipping_address": {
+      "street": "629 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "23565"
+    }
+  },
+  {
+    "transaction_id": "TXN000133",
+    "customer_id": "CUST0034",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 16.26,
+    "total_amount": 32.52,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-22 12:08:40",
+    "shipping_address": {
+      "street": "856 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "62692"
+    }
+  },
+  {
+    "transaction_id": "TXN000134",
+    "customer_id": "CUST0011",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1695.48,
+    "total_amount": 1695.48,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-05 12:08:40",
+    "shipping_address": {
+      "street": "569 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "75449"
+    }
+  },
+  {
+    "transaction_id": "TXN000135",
+    "customer_id": "CUST0011",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 1543.92,
+    "total_amount": 3087.84,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-24 12:08:40",
+    "shipping_address": {
+      "street": "99 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "79259"
+    }
+  },
+  {
+    "transaction_id": "TXN000136",
+    "customer_id": "CUST0038",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 100.38,
+    "total_amount": 200.76,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-03 12:08:40",
+    "shipping_address": {
+      "street": "738 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "91199"
+    }
+  },
+  {
+    "transaction_id": "TXN000137",
+    "customer_id": "CUST0037",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 5,
+    "unit_price": 20.25,
+    "total_amount": 101.26,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-10-24 12:08:40",
+    "shipping_address": {
+      "street": "860 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "14878"
+    }
+  },
+  {
+    "transaction_id": "TXN000138",
+    "customer_id": "CUST0012",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 3,
+    "unit_price": 168.49,
+    "total_amount": 505.48,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-03-11 12:08:40",
+    "shipping_address": {
+      "street": "725 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "41867"
+    }
+  },
+  {
+    "transaction_id": "TXN000139",
+    "customer_id": "CUST0041",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 748.68,
+    "total_amount": 748.68,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-20 12:08:40",
+    "shipping_address": {
+      "street": "943 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "58375"
+    }
+  },
+  {
+    "transaction_id": "TXN000140",
+    "customer_id": "CUST0042",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 76.52,
+    "total_amount": 229.56,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-14 12:08:40",
+    "shipping_address": {
+      "street": "519 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "41977"
+    }
+  },
+  {
+    "transaction_id": "TXN000141",
+    "customer_id": "CUST0013",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 30.14,
+    "total_amount": 60.29,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2026-02-12 12:08:40",
+    "shipping_address": {
+      "street": "40 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "31006"
+    }
+  },
+  {
+    "transaction_id": "TXN000142",
+    "customer_id": "CUST0012",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1129.86,
+    "total_amount": 1129.86,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-01 12:08:40",
+    "shipping_address": {
+      "street": "346 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "97518"
+    }
+  },
+  {
+    "transaction_id": "TXN000143",
+    "customer_id": "CUST0002",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 1946.09,
+    "total_amount": 7784.38,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-09-17 12:08:40",
+    "shipping_address": {
+      "street": "653 Main St",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "13277"
+    }
+  },
+  {
+    "transaction_id": "TXN000144",
+    "customer_id": "CUST0019",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 34.37,
+    "total_amount": 171.83,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-25 12:08:40",
+    "shipping_address": {
+      "street": "552 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "34216"
+    }
+  },
+  {
+    "transaction_id": "TXN000145",
+    "customer_id": "CUST0040",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 22.55,
+    "total_amount": 67.64,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-24 12:08:40",
+    "shipping_address": {
+      "street": "228 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "12665"
+    }
+  },
+  {
+    "transaction_id": "TXN000146",
+    "customer_id": "CUST0003",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 14.05,
+    "total_amount": 56.2,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-12 12:08:40",
+    "shipping_address": {
+      "street": "340 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "96792"
+    }
+  },
+  {
+    "transaction_id": "TXN000147",
+    "customer_id": "CUST0023",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 5,
+    "unit_price": 71.09,
+    "total_amount": 355.47,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-03-10 12:08:40",
+    "shipping_address": {
+      "street": "803 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "99236"
+    }
+  },
+  {
+    "transaction_id": "TXN000148",
+    "customer_id": "CUST0002",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 1437.39,
+    "total_amount": 4312.18,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-03-01 12:08:40",
+    "shipping_address": {
+      "street": "439 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "98690"
+    }
+  },
+  {
+    "transaction_id": "TXN000149",
+    "customer_id": "CUST0048",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 5,
+    "unit_price": 187.25,
+    "total_amount": 936.27,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-01-19 12:08:40",
+    "shipping_address": {
+      "street": "277 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "78678"
+    }
+  },
+  {
+    "transaction_id": "TXN000150",
+    "customer_id": "CUST0023",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 245.05,
+    "total_amount": 980.21,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-24 12:08:40",
+    "shipping_address": {
+      "street": "980 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "59781"
+    }
+  },
+  {
+    "transaction_id": "TXN000151",
+    "customer_id": "CUST0046",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 84.98,
+    "total_amount": 254.93,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-12-20 12:08:40",
+    "shipping_address": {
+      "street": "486 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "43596"
+    }
+  },
+  {
+    "transaction_id": "TXN000152",
+    "customer_id": "CUST0030",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 49.01,
+    "total_amount": 98.02,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-05 12:08:40",
+    "shipping_address": {
+      "street": "684 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "71162"
+    }
+  },
+  {
+    "transaction_id": "TXN000153",
+    "customer_id": "CUST0030",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 512.0,
+    "total_amount": 512.0,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-09 12:08:40",
+    "shipping_address": {
+      "street": "19 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "67331"
+    }
+  },
+  {
+    "transaction_id": "TXN000154",
+    "customer_id": "CUST0017",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 5,
+    "unit_price": 16.56,
+    "total_amount": 82.79,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-09-26 12:08:40",
+    "shipping_address": {
+      "street": "693 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "50960"
+    }
+  },
+  {
+    "transaction_id": "TXN000155",
+    "customer_id": "CUST0037",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 52.22,
+    "total_amount": 261.09,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-03-12 12:08:40",
+    "shipping_address": {
+      "street": "105 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "19190"
+    }
+  },
+  {
+    "transaction_id": "TXN000156",
+    "customer_id": "CUST0037",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 29.41,
+    "total_amount": 88.23,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2026-01-05 12:08:40",
+    "shipping_address": {
+      "street": "670 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "88757"
+    }
+  },
+  {
+    "transaction_id": "TXN000157",
+    "customer_id": "CUST0041",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 129.19,
+    "total_amount": 516.76,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-26 12:08:40",
+    "shipping_address": {
+      "street": "725 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "80935"
+    }
+  },
+  {
+    "transaction_id": "TXN000158",
+    "customer_id": "CUST0043",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 476.53,
+    "total_amount": 953.06,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-09-26 12:08:40",
+    "shipping_address": {
+      "street": "343 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "84932"
+    }
+  },
+  {
+    "transaction_id": "TXN000159",
+    "customer_id": "CUST0030",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 214.32,
+    "total_amount": 428.64,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-27 12:08:40",
+    "shipping_address": {
+      "street": "236 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "10293"
+    }
+  },
+  {
+    "transaction_id": "TXN000160",
+    "customer_id": "CUST0033",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 3,
+    "unit_price": 182.29,
+    "total_amount": 546.87,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-13 12:08:40",
+    "shipping_address": {
+      "street": "103 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "82439"
+    }
+  },
+  {
+    "transaction_id": "TXN000161",
+    "customer_id": "CUST0025",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 547.44,
+    "total_amount": 2737.21,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-23 12:08:40",
+    "shipping_address": {
+      "street": "845 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "75547"
+    }
+  },
+  {
+    "transaction_id": "TXN000162",
+    "customer_id": "CUST0011",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 29.13,
+    "total_amount": 29.13,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "372 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "88238"
+    }
+  },
+  {
+    "transaction_id": "TXN000163",
+    "customer_id": "CUST0029",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 1,
+    "unit_price": 33.95,
+    "total_amount": 33.95,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-20 12:08:40",
+    "shipping_address": {
+      "street": "744 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "56973"
+    }
+  },
+  {
+    "transaction_id": "TXN000164",
+    "customer_id": "CUST0023",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 5,
+    "unit_price": 37.22,
+    "total_amount": 186.1,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-03-05 12:08:40",
+    "shipping_address": {
+      "street": "818 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "56256"
+    }
+  },
+  {
+    "transaction_id": "TXN000165",
+    "customer_id": "CUST0002",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 798.53,
+    "total_amount": 1597.06,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-27 12:08:40",
+    "shipping_address": {
+      "street": "707 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "48798"
+    }
+  },
+  {
+    "transaction_id": "TXN000166",
+    "customer_id": "CUST0008",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 1187.62,
+    "total_amount": 5938.1,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-11 12:08:40",
+    "shipping_address": {
+      "street": "488 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "14317"
+    }
+  },
+  {
+    "transaction_id": "TXN000167",
+    "customer_id": "CUST0018",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 638.16,
+    "total_amount": 1276.31,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2026-02-18 12:08:40",
+    "shipping_address": {
+      "street": "702 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "37058"
+    }
+  },
+  {
+    "transaction_id": "TXN000168",
+    "customer_id": "CUST0028",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 975.97,
+    "total_amount": 4879.87,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2026-03-05 12:08:40",
+    "shipping_address": {
+      "street": "893 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "97913"
+    }
+  },
+  {
+    "transaction_id": "TXN000169",
+    "customer_id": "CUST0003",
+    "product_name": "Jeans",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 36.17,
+    "total_amount": 144.66,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-01-29 12:08:40",
+    "shipping_address": {
+      "street": "389 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "78842"
+    }
+  },
+  {
+    "transaction_id": "TXN000170",
+    "customer_id": "CUST0039",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 3,
+    "unit_price": 33.57,
+    "total_amount": 100.71,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-08 12:08:40",
+    "shipping_address": {
+      "street": "437 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "89538"
+    }
+  },
+  {
+    "transaction_id": "TXN000171",
+    "customer_id": "CUST0032",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 87.09,
+    "total_amount": 174.19,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2026-02-26 12:08:40",
+    "shipping_address": {
+      "street": "723 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "68014"
+    }
+  },
+  {
+    "transaction_id": "TXN000172",
+    "customer_id": "CUST0050",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 34.79,
+    "total_amount": 139.16,
+    "payment_method": "Cash",
+    "status": "Cancelled",
+    "transaction_date": "2025-11-11 12:08:40",
+    "shipping_address": {
+      "street": "548 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "44049"
+    }
+  },
+  {
+    "transaction_id": "TXN000173",
+    "customer_id": "CUST0031",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 105.47,
+    "total_amount": 105.47,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-16 12:08:40",
+    "shipping_address": {
+      "street": "859 Main St",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "81636"
+    }
+  },
+  {
+    "transaction_id": "TXN000174",
+    "customer_id": "CUST0013",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 5,
+    "unit_price": 25.6,
+    "total_amount": 127.98,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-10-18 12:08:40",
+    "shipping_address": {
+      "street": "68 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "78643"
+    }
+  },
+  {
+    "transaction_id": "TXN000175",
+    "customer_id": "CUST0034",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 1101.41,
+    "total_amount": 2202.83,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-17 12:08:40",
+    "shipping_address": {
+      "street": "226 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "83543"
+    }
+  },
+  {
+    "transaction_id": "TXN000176",
+    "customer_id": "CUST0031",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 3,
+    "unit_price": 236.6,
+    "total_amount": 709.8,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-11-30 12:08:40",
+    "shipping_address": {
+      "street": "959 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "86486"
+    }
+  },
+  {
+    "transaction_id": "TXN000177",
+    "customer_id": "CUST0017",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 78.49,
+    "total_amount": 313.96,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-10-07 12:08:40",
+    "shipping_address": {
+      "street": "471 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "66073"
+    }
+  },
+  {
+    "transaction_id": "TXN000178",
+    "customer_id": "CUST0001",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 50.51,
+    "total_amount": 252.55,
+    "payment_method": "Debit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-03-09 12:08:40",
+    "shipping_address": {
+      "street": "531 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "84672"
+    }
+  },
+  {
+    "transaction_id": "TXN000179",
+    "customer_id": "CUST0023",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 16.57,
+    "total_amount": 49.71,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-08 12:08:40",
+    "shipping_address": {
+      "street": "976 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "86885"
+    }
+  },
+  {
+    "transaction_id": "TXN000180",
+    "customer_id": "CUST0012",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1185.71,
+    "total_amount": 1185.71,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-04 12:08:40",
+    "shipping_address": {
+      "street": "925 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "27157"
+    }
+  },
+  {
+    "transaction_id": "TXN000181",
+    "customer_id": "CUST0026",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 5,
+    "unit_price": 23.21,
+    "total_amount": 116.06,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-11-27 12:08:40",
+    "shipping_address": {
+      "street": "853 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "16574"
+    }
+  },
+  {
+    "transaction_id": "TXN000182",
+    "customer_id": "CUST0043",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 22.13,
+    "total_amount": 88.52,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-16 12:08:40",
+    "shipping_address": {
+      "street": "948 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "74724"
+    }
+  },
+  {
+    "transaction_id": "TXN000183",
+    "customer_id": "CUST0049",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 4,
+    "unit_price": 20.97,
+    "total_amount": 83.89,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-04 12:08:40",
+    "shipping_address": {
+      "street": "857 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "27021"
+    }
+  },
+  {
+    "transaction_id": "TXN000184",
+    "customer_id": "CUST0028",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 880.04,
+    "total_amount": 3520.17,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-23 12:08:40",
+    "shipping_address": {
+      "street": "596 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "53927"
+    }
+  },
+  {
+    "transaction_id": "TXN000185",
+    "customer_id": "CUST0024",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 404.17,
+    "total_amount": 404.17,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-11-19 12:08:40",
+    "shipping_address": {
+      "street": "876 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "43869"
+    }
+  },
+  {
+    "transaction_id": "TXN000186",
+    "customer_id": "CUST0024",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 2,
+    "unit_price": 61.32,
+    "total_amount": 122.63,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-09-27 12:08:40",
+    "shipping_address": {
+      "street": "185 Main St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "66113"
+    }
+  },
+  {
+    "transaction_id": "TXN000187",
+    "customer_id": "CUST0031",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 37.04,
+    "total_amount": 148.14,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-12-17 12:08:40",
+    "shipping_address": {
+      "street": "240 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "17403"
+    }
+  },
+  {
+    "transaction_id": "TXN000188",
+    "customer_id": "CUST0004",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 2,
+    "unit_price": 45.89,
+    "total_amount": 91.79,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-11-17 12:08:40",
+    "shipping_address": {
+      "street": "504 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "82221"
+    }
+  },
+  {
+    "transaction_id": "TXN000189",
+    "customer_id": "CUST0003",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 175.18,
+    "total_amount": 700.73,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2025-10-24 12:08:40",
+    "shipping_address": {
+      "street": "106 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "64281"
+    }
+  },
+  {
+    "transaction_id": "TXN000190",
+    "customer_id": "CUST0003",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 180.96,
+    "total_amount": 723.85,
+    "payment_method": "Cash",
+    "status": "Completed",
+    "transaction_date": "2025-10-14 12:08:40",
+    "shipping_address": {
+      "street": "218 Main St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "49798"
+    }
+  },
+  {
+    "transaction_id": "TXN000191",
+    "customer_id": "CUST0011",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 156.47,
+    "total_amount": 782.34,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-26 12:08:40",
+    "shipping_address": {
+      "street": "366 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "12655"
+    }
+  },
+  {
+    "transaction_id": "TXN000192",
+    "customer_id": "CUST0035",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 1,
+    "unit_price": 80.96,
+    "total_amount": 80.96,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-02-23 12:08:40",
+    "shipping_address": {
+      "street": "505 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "90819"
+    }
+  },
+  {
+    "transaction_id": "TXN000193",
+    "customer_id": "CUST0043",
+    "product_name": "Book",
+    "category": "Media",
+    "quantity": 4,
+    "unit_price": 31.46,
+    "total_amount": 125.83,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-04 12:08:40",
+    "shipping_address": {
+      "street": "136 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "31987"
+    }
+  },
+  {
+    "transaction_id": "TXN000194",
+    "customer_id": "CUST0028",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unit_price": 1277.24,
+    "total_amount": 1277.24,
+    "payment_method": "Cash",
+    "status": "Pending",
+    "transaction_date": "2025-10-13 12:08:40",
+    "shipping_address": {
+      "street": "718 Main St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "95097"
+    }
+  },
+  {
+    "transaction_id": "TXN000195",
+    "customer_id": "CUST0039",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "quantity": 4,
+    "unit_price": 71.92,
+    "total_amount": 287.69,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-12-10 12:08:40",
+    "shipping_address": {
+      "street": "506 Main St",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "23324"
+    }
+  },
+  {
+    "transaction_id": "TXN000196",
+    "customer_id": "CUST0038",
+    "product_name": "Coffee Maker",
+    "category": "Home",
+    "quantity": 4,
+    "unit_price": 148.53,
+    "total_amount": 594.14,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "transaction_date": "2026-02-18 12:08:40",
+    "shipping_address": {
+      "street": "118 Main St",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "91760"
+    }
+  },
+  {
+    "transaction_id": "TXN000197",
+    "customer_id": "CUST0048",
+    "product_name": "T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "unit_price": 25.44,
+    "total_amount": 76.33,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-30 12:08:40",
+    "shipping_address": {
+      "street": "476 Main St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "87780"
+    }
+  },
+  {
+    "transaction_id": "TXN000198",
+    "customer_id": "CUST0015",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 698.3,
+    "total_amount": 3491.52,
+    "payment_method": "Credit Card",
+    "status": "Cancelled",
+    "transaction_date": "2026-02-08 12:08:40",
+    "shipping_address": {
+      "street": "613 Main St",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "13189"
+    }
+  },
+  {
+    "transaction_id": "TXN000199",
+    "customer_id": "CUST0037",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 2,
+    "unit_price": 821.66,
+    "total_amount": 1643.33,
+    "payment_method": "PayPal",
+    "status": "Cancelled",
+    "transaction_date": "2025-10-29 12:08:40",
+    "shipping_address": {
+      "street": "182 Main St",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "97978"
+    }
+  },
+  {
+    "transaction_id": "TXN000200",
+    "customer_id": "CUST0014",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "unit_price": 505.47,
+    "total_amount": 2527.37,
+    "payment_method": "PayPal",
+    "status": "Pending",
+    "transaction_date": "2025-12-30 12:08:40",
+    "shipping_address": {
+      "street": "748 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "30103"
+    }
+  }
+]

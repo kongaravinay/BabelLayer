@@ -1,0 +1,5402 @@
+[
+  {
+    "pos_transaction_id": "POS-4632352",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7741",
+    "amount_usd": 1508.37,
+    "timestamp": "2023-10-22T00:00:00Z",
+    "terminal_id": "TERM-955",
+    "auth_code": "B93JSR"
+  },
+  {
+    "pos_transaction_id": "POS-6610612",
+    "merchant_name": "Netflix",
+    "card_last_four": "4078",
+    "amount_usd": 1894.03,
+    "timestamp": "2024-05-07T00:00:00Z",
+    "terminal_id": "TERM-747",
+    "auth_code": "6YXMQN"
+  },
+  {
+    "pos_transaction_id": "POS-1912398",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8612",
+    "amount_usd": 966.77,
+    "timestamp": "2023-10-12T00:00:00Z",
+    "terminal_id": "TERM-140",
+    "auth_code": "LHA8OQ"
+  },
+  {
+    "pos_transaction_id": "POS-3853815",
+    "merchant_name": "Shell",
+    "card_last_four": "6617",
+    "amount_usd": 427.34,
+    "timestamp": "2024-05-24T00:00:00Z",
+    "terminal_id": "TERM-261",
+    "auth_code": "Q0HIZO"
+  },
+  {
+    "pos_transaction_id": "POS-3139046",
+    "merchant_name": "Shell",
+    "card_last_four": "1956",
+    "amount_usd": 851.83,
+    "timestamp": "2023-11-27T00:00:00Z",
+    "terminal_id": "TERM-903",
+    "auth_code": "HTQ6YE"
+  },
+  {
+    "pos_transaction_id": "POS-1047648",
+    "merchant_name": "Walmart",
+    "card_last_four": "5260",
+    "amount_usd": 1791.66,
+    "timestamp": "2024-04-19T00:00:00Z",
+    "terminal_id": "TERM-520",
+    "auth_code": "JR78IC"
+  },
+  {
+    "pos_transaction_id": "POS-5951639",
+    "merchant_name": "Walmart",
+    "card_last_four": "9870",
+    "amount_usd": 631.42,
+    "timestamp": "2024-10-31T00:00:00Z",
+    "terminal_id": "TERM-269",
+    "auth_code": "CVDB6Y"
+  },
+  {
+    "pos_transaction_id": "POS-5634712",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4545",
+    "amount_usd": 436.41,
+    "timestamp": "2023-02-10T00:00:00Z",
+    "terminal_id": "TERM-472",
+    "auth_code": "1VBU6I"
+  },
+  {
+    "pos_transaction_id": "POS-1688291",
+    "merchant_name": "Lyft",
+    "card_last_four": "7699",
+    "amount_usd": 1394.05,
+    "timestamp": "2024-06-04T00:00:00Z",
+    "terminal_id": "TERM-156",
+    "auth_code": "075OKS"
+  },
+  {
+    "pos_transaction_id": "POS-6492112",
+    "merchant_name": "Netflix",
+    "card_last_four": "5967",
+    "amount_usd": 311.83,
+    "timestamp": "2025-02-04T00:00:00Z",
+    "terminal_id": "TERM-459",
+    "auth_code": "GQOMMY"
+  },
+  {
+    "pos_transaction_id": "POS-6229759",
+    "merchant_name": "Target",
+    "card_last_four": "3873",
+    "amount_usd": 989.03,
+    "timestamp": "2024-08-23T00:00:00Z",
+    "terminal_id": "TERM-449",
+    "auth_code": "AVFMZ3"
+  },
+  {
+    "pos_transaction_id": "POS-5686200",
+    "merchant_name": "Target",
+    "card_last_four": "4064",
+    "amount_usd": 1526.3,
+    "timestamp": "2024-10-01T00:00:00Z",
+    "terminal_id": "TERM-277",
+    "auth_code": "DNW6GS"
+  },
+  {
+    "pos_transaction_id": "POS-5607199",
+    "merchant_name": "Uber",
+    "card_last_four": "9970",
+    "amount_usd": 900.7,
+    "timestamp": "2023-07-29T00:00:00Z",
+    "terminal_id": "TERM-805",
+    "auth_code": "K00ZXQ"
+  },
+  {
+    "pos_transaction_id": "POS-8539730",
+    "merchant_name": "Uber",
+    "card_last_four": "4611",
+    "amount_usd": 241.29,
+    "timestamp": "2025-10-18T00:00:00Z",
+    "terminal_id": "TERM-359",
+    "auth_code": "BVSZHF"
+  },
+  {
+    "pos_transaction_id": "POS-2140636",
+    "merchant_name": "Apple",
+    "card_last_four": "6536",
+    "amount_usd": 1278.97,
+    "timestamp": "2024-04-14T00:00:00Z",
+    "terminal_id": "TERM-308",
+    "auth_code": "HQW69X"
+  },
+  {
+    "pos_transaction_id": "POS-2046824",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8117",
+    "amount_usd": 641.24,
+    "timestamp": "2024-03-21T00:00:00Z",
+    "terminal_id": "TERM-649",
+    "auth_code": "MF5PM7"
+  },
+  {
+    "pos_transaction_id": "POS-2138038",
+    "merchant_name": "Shell",
+    "card_last_four": "9017",
+    "amount_usd": 438.97,
+    "timestamp": "2025-03-06T00:00:00Z",
+    "terminal_id": "TERM-129",
+    "auth_code": "XZ1797"
+  },
+  {
+    "pos_transaction_id": "POS-6233885",
+    "merchant_name": "Lyft",
+    "card_last_four": "3078",
+    "amount_usd": 1888.9,
+    "timestamp": "2024-07-03T00:00:00Z",
+    "terminal_id": "TERM-636",
+    "auth_code": "4HTOWQ"
+  },
+  {
+    "pos_transaction_id": "POS-6315761",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2287",
+    "amount_usd": 199.19,
+    "timestamp": "2023-02-18T00:00:00Z",
+    "terminal_id": "TERM-833",
+    "auth_code": "M1NDRK"
+  },
+  {
+    "pos_transaction_id": "POS-9744144",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7244",
+    "amount_usd": 1771.25,
+    "timestamp": "2023-09-09T00:00:00Z",
+    "terminal_id": "TERM-188",
+    "auth_code": "NSAR0P"
+  },
+  {
+    "pos_transaction_id": "POS-8654288",
+    "merchant_name": "Amazon",
+    "card_last_four": "2297",
+    "amount_usd": 1458.73,
+    "timestamp": "2023-09-16T00:00:00Z",
+    "terminal_id": "TERM-524",
+    "auth_code": "SXMOXJ"
+  },
+  {
+    "pos_transaction_id": "POS-7548936",
+    "merchant_name": "Amazon",
+    "card_last_four": "7132",
+    "amount_usd": 1278.37,
+    "timestamp": "2023-05-04T00:00:00Z",
+    "terminal_id": "TERM-170",
+    "auth_code": "2O1RVM"
+  },
+  {
+    "pos_transaction_id": "POS-6598537",
+    "merchant_name": "Target",
+    "card_last_four": "7643",
+    "amount_usd": 1752.76,
+    "timestamp": "2024-05-20T00:00:00Z",
+    "terminal_id": "TERM-906",
+    "auth_code": "E7C3KQ"
+  },
+  {
+    "pos_transaction_id": "POS-3197727",
+    "merchant_name": "Lyft",
+    "card_last_four": "5051",
+    "amount_usd": 347.05,
+    "timestamp": "2023-01-03T00:00:00Z",
+    "terminal_id": "TERM-823",
+    "auth_code": "D7Z2E8"
+  },
+  {
+    "pos_transaction_id": "POS-3350328",
+    "merchant_name": "Walmart",
+    "card_last_four": "3964",
+    "amount_usd": 480.95,
+    "timestamp": "2025-01-18T00:00:00Z",
+    "terminal_id": "TERM-136",
+    "auth_code": "3HKW1W"
+  },
+  {
+    "pos_transaction_id": "POS-7873836",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5116",
+    "amount_usd": 1910.34,
+    "timestamp": "2024-10-26T00:00:00Z",
+    "terminal_id": "TERM-309",
+    "auth_code": "95P1CC"
+  },
+  {
+    "pos_transaction_id": "POS-7628708",
+    "merchant_name": "Costco",
+    "card_last_four": "2092",
+    "amount_usd": 1581.11,
+    "timestamp": "2024-07-27T00:00:00Z",
+    "terminal_id": "TERM-637",
+    "auth_code": "Y105XU"
+  },
+  {
+    "pos_transaction_id": "POS-9968056",
+    "merchant_name": "Costco",
+    "card_last_four": "6731",
+    "amount_usd": 40.97,
+    "timestamp": "2025-10-10T00:00:00Z",
+    "terminal_id": "TERM-427",
+    "auth_code": "KKWDD9"
+  },
+  {
+    "pos_transaction_id": "POS-7023223",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8262",
+    "amount_usd": 8.12,
+    "timestamp": "2023-11-01T00:00:00Z",
+    "terminal_id": "TERM-691",
+    "auth_code": "UG3IX2"
+  },
+  {
+    "pos_transaction_id": "POS-5669097",
+    "merchant_name": "Home Depot",
+    "card_last_four": "1103",
+    "amount_usd": 899.71,
+    "timestamp": "2024-12-01T00:00:00Z",
+    "terminal_id": "TERM-974",
+    "auth_code": "O1RX4N"
+  },
+  {
+    "pos_transaction_id": "POS-5530167",
+    "merchant_name": "Costco",
+    "card_last_four": "7701",
+    "amount_usd": 1097.11,
+    "timestamp": "2023-09-24T00:00:00Z",
+    "terminal_id": "TERM-213",
+    "auth_code": "GKL7IW"
+  },
+  {
+    "pos_transaction_id": "POS-8860429",
+    "merchant_name": "Target",
+    "card_last_four": "1369",
+    "amount_usd": 1637.08,
+    "timestamp": "2023-01-18T00:00:00Z",
+    "terminal_id": "TERM-551",
+    "auth_code": "140M9J"
+  },
+  {
+    "pos_transaction_id": "POS-1908859",
+    "merchant_name": "Target",
+    "card_last_four": "3165",
+    "amount_usd": 324.07,
+    "timestamp": "2024-09-09T00:00:00Z",
+    "terminal_id": "TERM-837",
+    "auth_code": "RNAD9P"
+  },
+  {
+    "pos_transaction_id": "POS-9135262",
+    "merchant_name": "Target",
+    "card_last_four": "6500",
+    "amount_usd": 354.5,
+    "timestamp": "2025-06-07T00:00:00Z",
+    "terminal_id": "TERM-704",
+    "auth_code": "G03JJ5"
+  },
+  {
+    "pos_transaction_id": "POS-1641541",
+    "merchant_name": "McDonalds",
+    "card_last_four": "8209",
+    "amount_usd": 978.08,
+    "timestamp": "2023-09-09T00:00:00Z",
+    "terminal_id": "TERM-756",
+    "auth_code": "F0A1UA"
+  },
+  {
+    "pos_transaction_id": "POS-5642024",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4275",
+    "amount_usd": 1668.81,
+    "timestamp": "2024-03-03T00:00:00Z",
+    "terminal_id": "TERM-601",
+    "auth_code": "DYSGP0"
+  },
+  {
+    "pos_transaction_id": "POS-5522703",
+    "merchant_name": "Target",
+    "card_last_four": "4753",
+    "amount_usd": 920.94,
+    "timestamp": "2024-12-09T00:00:00Z",
+    "terminal_id": "TERM-344",
+    "auth_code": "MYUQ99"
+  },
+  {
+    "pos_transaction_id": "POS-9727523",
+    "merchant_name": "Uber",
+    "card_last_four": "9350",
+    "amount_usd": 1678.6,
+    "timestamp": "2025-05-08T00:00:00Z",
+    "terminal_id": "TERM-766",
+    "auth_code": "X7GFL4"
+  },
+  {
+    "pos_transaction_id": "POS-6647996",
+    "merchant_name": "Amazon",
+    "card_last_four": "4018",
+    "amount_usd": 1914.27,
+    "timestamp": "2024-03-28T00:00:00Z",
+    "terminal_id": "TERM-286",
+    "auth_code": "QQXXAI"
+  },
+  {
+    "pos_transaction_id": "POS-9256927",
+    "merchant_name": "Walmart",
+    "card_last_four": "4599",
+    "amount_usd": 1855.69,
+    "timestamp": "2024-06-05T00:00:00Z",
+    "terminal_id": "TERM-109",
+    "auth_code": "M55Z0F"
+  },
+  {
+    "pos_transaction_id": "POS-2384233",
+    "merchant_name": "Lyft",
+    "card_last_four": "3624",
+    "amount_usd": 1957.79,
+    "timestamp": "2024-01-09T00:00:00Z",
+    "terminal_id": "TERM-146",
+    "auth_code": "BKWH8E"
+  },
+  {
+    "pos_transaction_id": "POS-4149796",
+    "merchant_name": "Costco",
+    "card_last_four": "9929",
+    "amount_usd": 957.67,
+    "timestamp": "2023-04-07T00:00:00Z",
+    "terminal_id": "TERM-315",
+    "auth_code": "TN1H42"
+  },
+  {
+    "pos_transaction_id": "POS-2626995",
+    "merchant_name": "Shell",
+    "card_last_four": "7739",
+    "amount_usd": 480.53,
+    "timestamp": "2023-09-14T00:00:00Z",
+    "terminal_id": "TERM-303",
+    "auth_code": "OOK1OM"
+  },
+  {
+    "pos_transaction_id": "POS-6103567",
+    "merchant_name": "Uber",
+    "card_last_four": "2161",
+    "amount_usd": 1211.91,
+    "timestamp": "2025-02-07T00:00:00Z",
+    "terminal_id": "TERM-591",
+    "auth_code": "T54EHX"
+  },
+  {
+    "pos_transaction_id": "POS-5928424",
+    "merchant_name": "Shell",
+    "card_last_four": "6255",
+    "amount_usd": 496.01,
+    "timestamp": "2024-09-26T00:00:00Z",
+    "terminal_id": "TERM-265",
+    "auth_code": "VRG4U5"
+  },
+  {
+    "pos_transaction_id": "POS-4506276",
+    "merchant_name": "Walmart",
+    "card_last_four": "9249",
+    "amount_usd": 1295.0,
+    "timestamp": "2023-11-16T00:00:00Z",
+    "terminal_id": "TERM-637",
+    "auth_code": "XD8OIK"
+  },
+  {
+    "pos_transaction_id": "POS-1581962",
+    "merchant_name": "Uber",
+    "card_last_four": "2338",
+    "amount_usd": 195.71,
+    "timestamp": "2025-11-14T00:00:00Z",
+    "terminal_id": "TERM-365",
+    "auth_code": "0NGVQA"
+  },
+  {
+    "pos_transaction_id": "POS-5347886",
+    "merchant_name": "Lyft",
+    "card_last_four": "2864",
+    "amount_usd": 142.24,
+    "timestamp": "2024-12-30T00:00:00Z",
+    "terminal_id": "TERM-790",
+    "auth_code": "7JB5NJ"
+  },
+  {
+    "pos_transaction_id": "POS-7656217",
+    "merchant_name": "Shell",
+    "card_last_four": "2566",
+    "amount_usd": 1954.48,
+    "timestamp": "2025-10-08T00:00:00Z",
+    "terminal_id": "TERM-534",
+    "auth_code": "RXXJVA"
+  },
+  {
+    "pos_transaction_id": "POS-4785697",
+    "merchant_name": "Shell",
+    "card_last_four": "2660",
+    "amount_usd": 401.41,
+    "timestamp": "2024-12-31T00:00:00Z",
+    "terminal_id": "TERM-354",
+    "auth_code": "JNFUHY"
+  },
+  {
+    "pos_transaction_id": "POS-8079274",
+    "merchant_name": "Shell",
+    "card_last_four": "2779",
+    "amount_usd": 669.98,
+    "timestamp": "2024-10-28T00:00:00Z",
+    "terminal_id": "TERM-644",
+    "auth_code": "FZ54V9"
+  },
+  {
+    "pos_transaction_id": "POS-7729577",
+    "merchant_name": "Amazon",
+    "card_last_four": "6605",
+    "amount_usd": 1135.57,
+    "timestamp": "2025-09-24T00:00:00Z",
+    "terminal_id": "TERM-558",
+    "auth_code": "O0N1DJ"
+  },
+  {
+    "pos_transaction_id": "POS-4861168",
+    "merchant_name": "Starbucks",
+    "card_last_four": "5231",
+    "amount_usd": 196.15,
+    "timestamp": "2024-03-23T00:00:00Z",
+    "terminal_id": "TERM-491",
+    "auth_code": "RUN01S"
+  },
+  {
+    "pos_transaction_id": "POS-7234856",
+    "merchant_name": "Lyft",
+    "card_last_four": "3703",
+    "amount_usd": 1695.57,
+    "timestamp": "2023-11-03T00:00:00Z",
+    "terminal_id": "TERM-203",
+    "auth_code": "3XIRHM"
+  },
+  {
+    "pos_transaction_id": "POS-1800148",
+    "merchant_name": "Netflix",
+    "card_last_four": "4681",
+    "amount_usd": 169.01,
+    "timestamp": "2023-11-23T00:00:00Z",
+    "terminal_id": "TERM-851",
+    "auth_code": "COXPY5"
+  },
+  {
+    "pos_transaction_id": "POS-8516440",
+    "merchant_name": "Netflix",
+    "card_last_four": "8157",
+    "amount_usd": 1667.66,
+    "timestamp": "2024-06-23T00:00:00Z",
+    "terminal_id": "TERM-561",
+    "auth_code": "HACDDW"
+  },
+  {
+    "pos_transaction_id": "POS-2923357",
+    "merchant_name": "Lyft",
+    "card_last_four": "9987",
+    "amount_usd": 1970.35,
+    "timestamp": "2024-05-29T00:00:00Z",
+    "terminal_id": "TERM-503",
+    "auth_code": "1R8CZQ"
+  },
+  {
+    "pos_transaction_id": "POS-2910968",
+    "merchant_name": "Shell",
+    "card_last_four": "4740",
+    "amount_usd": 1440.44,
+    "timestamp": "2023-04-27T00:00:00Z",
+    "terminal_id": "TERM-669",
+    "auth_code": "YJ3MJU"
+  },
+  {
+    "pos_transaction_id": "POS-9962505",
+    "merchant_name": "Lyft",
+    "card_last_four": "6216",
+    "amount_usd": 1313.61,
+    "timestamp": "2024-09-04T00:00:00Z",
+    "terminal_id": "TERM-224",
+    "auth_code": "46KOLF"
+  },
+  {
+    "pos_transaction_id": "POS-6205899",
+    "merchant_name": "Amazon",
+    "card_last_four": "5860",
+    "amount_usd": 716.39,
+    "timestamp": "2025-06-28T00:00:00Z",
+    "terminal_id": "TERM-271",
+    "auth_code": "4SL42U"
+  },
+  {
+    "pos_transaction_id": "POS-8720795",
+    "merchant_name": "Amazon",
+    "card_last_four": "2888",
+    "amount_usd": 99.86,
+    "timestamp": "2024-03-23T00:00:00Z",
+    "terminal_id": "TERM-341",
+    "auth_code": "MYIDUE"
+  },
+  {
+    "pos_transaction_id": "POS-6224230",
+    "merchant_name": "Lyft",
+    "card_last_four": "3939",
+    "amount_usd": 511.18,
+    "timestamp": "2023-03-02T00:00:00Z",
+    "terminal_id": "TERM-137",
+    "auth_code": "4E5FWJ"
+  },
+  {
+    "pos_transaction_id": "POS-3998009",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4735",
+    "amount_usd": 201.33,
+    "timestamp": "2025-07-26T00:00:00Z",
+    "terminal_id": "TERM-442",
+    "auth_code": "BCTP4J"
+  },
+  {
+    "pos_transaction_id": "POS-7023597",
+    "merchant_name": "Lyft",
+    "card_last_four": "8355",
+    "amount_usd": 1197.94,
+    "timestamp": "2023-09-22T00:00:00Z",
+    "terminal_id": "TERM-318",
+    "auth_code": "LY3NFX"
+  },
+  {
+    "pos_transaction_id": "POS-4728141",
+    "merchant_name": "Shell",
+    "card_last_four": "9205",
+    "amount_usd": 560.53,
+    "timestamp": "2023-11-22T00:00:00Z",
+    "terminal_id": "TERM-645",
+    "auth_code": "SR8XT2"
+  },
+  {
+    "pos_transaction_id": "POS-9697211",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5627",
+    "amount_usd": 152.65,
+    "timestamp": "2024-08-01T00:00:00Z",
+    "terminal_id": "TERM-279",
+    "auth_code": "CIUBVX"
+  },
+  {
+    "pos_transaction_id": "POS-1710495",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7420",
+    "amount_usd": 293.28,
+    "timestamp": "2025-10-20T00:00:00Z",
+    "terminal_id": "TERM-246",
+    "auth_code": "IFJ8HD"
+  },
+  {
+    "pos_transaction_id": "POS-9695148",
+    "merchant_name": "Netflix",
+    "card_last_four": "8769",
+    "amount_usd": 116.5,
+    "timestamp": "2024-05-18T00:00:00Z",
+    "terminal_id": "TERM-428",
+    "auth_code": "Q6P4SR"
+  },
+  {
+    "pos_transaction_id": "POS-6072618",
+    "merchant_name": "Netflix",
+    "card_last_four": "9075",
+    "amount_usd": 1927.83,
+    "timestamp": "2025-02-04T00:00:00Z",
+    "terminal_id": "TERM-856",
+    "auth_code": "2UJENV"
+  },
+  {
+    "pos_transaction_id": "POS-5107261",
+    "merchant_name": "Netflix",
+    "card_last_four": "6774",
+    "amount_usd": 810.45,
+    "timestamp": "2025-11-19T00:00:00Z",
+    "terminal_id": "TERM-145",
+    "auth_code": "E3ST1Q"
+  },
+  {
+    "pos_transaction_id": "POS-9836828",
+    "merchant_name": "Uber",
+    "card_last_four": "6454",
+    "amount_usd": 462.4,
+    "timestamp": "2025-06-19T00:00:00Z",
+    "terminal_id": "TERM-240",
+    "auth_code": "LQMHHI"
+  },
+  {
+    "pos_transaction_id": "POS-2272107",
+    "merchant_name": "Uber",
+    "card_last_four": "4416",
+    "amount_usd": 252.65,
+    "timestamp": "2025-03-11T00:00:00Z",
+    "terminal_id": "TERM-849",
+    "auth_code": "A27YOE"
+  },
+  {
+    "pos_transaction_id": "POS-8354796",
+    "merchant_name": "Lyft",
+    "card_last_four": "5675",
+    "amount_usd": 1968.55,
+    "timestamp": "2025-01-30T00:00:00Z",
+    "terminal_id": "TERM-988",
+    "auth_code": "88GOH0"
+  },
+  {
+    "pos_transaction_id": "POS-4667366",
+    "merchant_name": "Apple",
+    "card_last_four": "2303",
+    "amount_usd": 935.15,
+    "timestamp": "2023-01-18T00:00:00Z",
+    "terminal_id": "TERM-663",
+    "auth_code": "PTTQ82"
+  },
+  {
+    "pos_transaction_id": "POS-1659515",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7779",
+    "amount_usd": 676.36,
+    "timestamp": "2023-10-28T00:00:00Z",
+    "terminal_id": "TERM-434",
+    "auth_code": "NPHN1O"
+  },
+  {
+    "pos_transaction_id": "POS-4503988",
+    "merchant_name": "Uber",
+    "card_last_four": "3342",
+    "amount_usd": 1592.76,
+    "timestamp": "2023-08-21T00:00:00Z",
+    "terminal_id": "TERM-930",
+    "auth_code": "FG468G"
+  },
+  {
+    "pos_transaction_id": "POS-4873995",
+    "merchant_name": "Apple",
+    "card_last_four": "9994",
+    "amount_usd": 1630.32,
+    "timestamp": "2023-04-27T00:00:00Z",
+    "terminal_id": "TERM-131",
+    "auth_code": "KTUZH0"
+  },
+  {
+    "pos_transaction_id": "POS-3926496",
+    "merchant_name": "Costco",
+    "card_last_four": "4291",
+    "amount_usd": 670.97,
+    "timestamp": "2023-07-09T00:00:00Z",
+    "terminal_id": "TERM-558",
+    "auth_code": "4U7HRQ"
+  },
+  {
+    "pos_transaction_id": "POS-1114757",
+    "merchant_name": "Walmart",
+    "card_last_four": "3928",
+    "amount_usd": 1201.1,
+    "timestamp": "2024-12-11T00:00:00Z",
+    "terminal_id": "TERM-703",
+    "auth_code": "3WW5CH"
+  },
+  {
+    "pos_transaction_id": "POS-5795040",
+    "merchant_name": "Shell",
+    "card_last_four": "8770",
+    "amount_usd": 1764.79,
+    "timestamp": "2023-01-30T00:00:00Z",
+    "terminal_id": "TERM-830",
+    "auth_code": "ATL77Z"
+  },
+  {
+    "pos_transaction_id": "POS-2356092",
+    "merchant_name": "Costco",
+    "card_last_four": "3546",
+    "amount_usd": 1077.57,
+    "timestamp": "2023-06-10T00:00:00Z",
+    "terminal_id": "TERM-301",
+    "auth_code": "5OPLI4"
+  },
+  {
+    "pos_transaction_id": "POS-4762524",
+    "merchant_name": "Walmart",
+    "card_last_four": "4908",
+    "amount_usd": 1098.08,
+    "timestamp": "2025-06-05T00:00:00Z",
+    "terminal_id": "TERM-804",
+    "auth_code": "AY7U37"
+  },
+  {
+    "pos_transaction_id": "POS-4334079",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7628",
+    "amount_usd": 141.25,
+    "timestamp": "2025-07-22T00:00:00Z",
+    "terminal_id": "TERM-836",
+    "auth_code": "7KYCKN"
+  },
+  {
+    "pos_transaction_id": "POS-2463519",
+    "merchant_name": "Lyft",
+    "card_last_four": "6235",
+    "amount_usd": 1072.34,
+    "timestamp": "2025-05-11T00:00:00Z",
+    "terminal_id": "TERM-617",
+    "auth_code": "ECO8VX"
+  },
+  {
+    "pos_transaction_id": "POS-4093525",
+    "merchant_name": "Target",
+    "card_last_four": "4865",
+    "amount_usd": 127.92,
+    "timestamp": "2023-11-06T00:00:00Z",
+    "terminal_id": "TERM-735",
+    "auth_code": "RSZ5ZS"
+  },
+  {
+    "pos_transaction_id": "POS-3469376",
+    "merchant_name": "Amazon",
+    "card_last_four": "2052",
+    "amount_usd": 1813.46,
+    "timestamp": "2024-03-06T00:00:00Z",
+    "terminal_id": "TERM-139",
+    "auth_code": "9U2Y7R"
+  },
+  {
+    "pos_transaction_id": "POS-3481667",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3321",
+    "amount_usd": 1308.15,
+    "timestamp": "2024-04-15T00:00:00Z",
+    "terminal_id": "TERM-969",
+    "auth_code": "Y3K0S2"
+  },
+  {
+    "pos_transaction_id": "POS-6183858",
+    "merchant_name": "Starbucks",
+    "card_last_four": "3025",
+    "amount_usd": 12.76,
+    "timestamp": "2023-07-05T00:00:00Z",
+    "terminal_id": "TERM-648",
+    "auth_code": "H1JFIK"
+  },
+  {
+    "pos_transaction_id": "POS-6034623",
+    "merchant_name": "Walmart",
+    "card_last_four": "9125",
+    "amount_usd": 1002.84,
+    "timestamp": "2024-06-30T00:00:00Z",
+    "terminal_id": "TERM-662",
+    "auth_code": "J0BHEY"
+  },
+  {
+    "pos_transaction_id": "POS-2368914",
+    "merchant_name": "Amazon",
+    "card_last_four": "2077",
+    "amount_usd": 748.99,
+    "timestamp": "2024-01-24T00:00:00Z",
+    "terminal_id": "TERM-170",
+    "auth_code": "VDKIV1"
+  },
+  {
+    "pos_transaction_id": "POS-5023747",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2486",
+    "amount_usd": 57.27,
+    "timestamp": "2023-12-25T00:00:00Z",
+    "terminal_id": "TERM-865",
+    "auth_code": "59KMLY"
+  },
+  {
+    "pos_transaction_id": "POS-2784853",
+    "merchant_name": "Amazon",
+    "card_last_four": "7169",
+    "amount_usd": 1525.4,
+    "timestamp": "2024-02-21T00:00:00Z",
+    "terminal_id": "TERM-533",
+    "auth_code": "4K68Q2"
+  },
+  {
+    "pos_transaction_id": "POS-7962906",
+    "merchant_name": "Walmart",
+    "card_last_four": "8684",
+    "amount_usd": 1852.62,
+    "timestamp": "2025-06-03T00:00:00Z",
+    "terminal_id": "TERM-748",
+    "auth_code": "TZUP0A"
+  },
+  {
+    "pos_transaction_id": "POS-9261250",
+    "merchant_name": "Shell",
+    "card_last_four": "9946",
+    "amount_usd": 1257.16,
+    "timestamp": "2023-12-15T00:00:00Z",
+    "terminal_id": "TERM-159",
+    "auth_code": "8Y6C0S"
+  },
+  {
+    "pos_transaction_id": "POS-6772800",
+    "merchant_name": "Uber",
+    "card_last_four": "3932",
+    "amount_usd": 423.99,
+    "timestamp": "2023-11-04T00:00:00Z",
+    "terminal_id": "TERM-496",
+    "auth_code": "MEOF46"
+  },
+  {
+    "pos_transaction_id": "POS-3549937",
+    "merchant_name": "Netflix",
+    "card_last_four": "9418",
+    "amount_usd": 53.27,
+    "timestamp": "2024-10-17T00:00:00Z",
+    "terminal_id": "TERM-143",
+    "auth_code": "L673JU"
+  },
+  {
+    "pos_transaction_id": "POS-1722755",
+    "merchant_name": "Netflix",
+    "card_last_four": "5924",
+    "amount_usd": 1286.78,
+    "timestamp": "2025-02-03T00:00:00Z",
+    "terminal_id": "TERM-700",
+    "auth_code": "0XD0AJ"
+  },
+  {
+    "pos_transaction_id": "POS-5744954",
+    "merchant_name": "Apple",
+    "card_last_four": "4451",
+    "amount_usd": 1679.55,
+    "timestamp": "2023-04-12T00:00:00Z",
+    "terminal_id": "TERM-636",
+    "auth_code": "3U3LEI"
+  },
+  {
+    "pos_transaction_id": "POS-9761244",
+    "merchant_name": "Starbucks",
+    "card_last_four": "5842",
+    "amount_usd": 232.2,
+    "timestamp": "2023-12-05T00:00:00Z",
+    "terminal_id": "TERM-336",
+    "auth_code": "YLX5YC"
+  },
+  {
+    "pos_transaction_id": "POS-9058407",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8808",
+    "amount_usd": 31.13,
+    "timestamp": "2024-03-17T00:00:00Z",
+    "terminal_id": "TERM-245",
+    "auth_code": "IHTH24"
+  },
+  {
+    "pos_transaction_id": "POS-3917963",
+    "merchant_name": "Apple",
+    "card_last_four": "6082",
+    "amount_usd": 1338.79,
+    "timestamp": "2025-06-13T00:00:00Z",
+    "terminal_id": "TERM-859",
+    "auth_code": "32RBS4"
+  },
+  {
+    "pos_transaction_id": "POS-4383623",
+    "merchant_name": "Target",
+    "card_last_four": "9315",
+    "amount_usd": 1990.56,
+    "timestamp": "2025-12-23T00:00:00Z",
+    "terminal_id": "TERM-973",
+    "auth_code": "BDDI4H"
+  },
+  {
+    "pos_transaction_id": "POS-2884108",
+    "merchant_name": "Home Depot",
+    "card_last_four": "9241",
+    "amount_usd": 1145.07,
+    "timestamp": "2024-09-15T00:00:00Z",
+    "terminal_id": "TERM-960",
+    "auth_code": "LML0XW"
+  },
+  {
+    "pos_transaction_id": "POS-4285902",
+    "merchant_name": "Costco",
+    "card_last_four": "1924",
+    "amount_usd": 545.18,
+    "timestamp": "2024-04-21T00:00:00Z",
+    "terminal_id": "TERM-116",
+    "auth_code": "H5X4ZT"
+  },
+  {
+    "pos_transaction_id": "POS-9403406",
+    "merchant_name": "Walmart",
+    "card_last_four": "6903",
+    "amount_usd": 1325.62,
+    "timestamp": "2023-06-16T00:00:00Z",
+    "terminal_id": "TERM-458",
+    "auth_code": "IA5EF8"
+  },
+  {
+    "pos_transaction_id": "POS-5630385",
+    "merchant_name": "Uber",
+    "card_last_four": "2032",
+    "amount_usd": 1930.23,
+    "timestamp": "2023-03-10T00:00:00Z",
+    "terminal_id": "TERM-770",
+    "auth_code": "4JI7IC"
+  },
+  {
+    "pos_transaction_id": "POS-9897984",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6781",
+    "amount_usd": 673.19,
+    "timestamp": "2024-02-24T00:00:00Z",
+    "terminal_id": "TERM-894",
+    "auth_code": "T5CFEW"
+  },
+  {
+    "pos_transaction_id": "POS-7278243",
+    "merchant_name": "Costco",
+    "card_last_four": "9912",
+    "amount_usd": 1413.67,
+    "timestamp": "2023-02-06T00:00:00Z",
+    "terminal_id": "TERM-873",
+    "auth_code": "R3Y5FV"
+  },
+  {
+    "pos_transaction_id": "POS-4562678",
+    "merchant_name": "Target",
+    "card_last_four": "5587",
+    "amount_usd": 793.01,
+    "timestamp": "2023-05-14T00:00:00Z",
+    "terminal_id": "TERM-177",
+    "auth_code": "TY5VJE"
+  },
+  {
+    "pos_transaction_id": "POS-1748016",
+    "merchant_name": "Walmart",
+    "card_last_four": "5347",
+    "amount_usd": 82.22,
+    "timestamp": "2023-12-09T00:00:00Z",
+    "terminal_id": "TERM-564",
+    "auth_code": "VSIAQQ"
+  },
+  {
+    "pos_transaction_id": "POS-8065883",
+    "merchant_name": "Lyft",
+    "card_last_four": "1981",
+    "amount_usd": 200.89,
+    "timestamp": "2023-06-04T00:00:00Z",
+    "terminal_id": "TERM-131",
+    "auth_code": "U2HD72"
+  },
+  {
+    "pos_transaction_id": "POS-8221154",
+    "merchant_name": "Costco",
+    "card_last_four": "3868",
+    "amount_usd": 191.57,
+    "timestamp": "2024-09-24T00:00:00Z",
+    "terminal_id": "TERM-468",
+    "auth_code": "H1425L"
+  },
+  {
+    "pos_transaction_id": "POS-9293202",
+    "merchant_name": "Shell",
+    "card_last_four": "3150",
+    "amount_usd": 1634.61,
+    "timestamp": "2023-07-28T00:00:00Z",
+    "terminal_id": "TERM-944",
+    "auth_code": "TDGXJA"
+  },
+  {
+    "pos_transaction_id": "POS-1552074",
+    "merchant_name": "Target",
+    "card_last_four": "6124",
+    "amount_usd": 1148.17,
+    "timestamp": "2023-04-07T00:00:00Z",
+    "terminal_id": "TERM-605",
+    "auth_code": "4MTTMX"
+  },
+  {
+    "pos_transaction_id": "POS-3439090",
+    "merchant_name": "Netflix",
+    "card_last_four": "8748",
+    "amount_usd": 1906.31,
+    "timestamp": "2024-01-14T00:00:00Z",
+    "terminal_id": "TERM-373",
+    "auth_code": "AYVNX9"
+  },
+  {
+    "pos_transaction_id": "POS-5381969",
+    "merchant_name": "Target",
+    "card_last_four": "4750",
+    "amount_usd": 693.48,
+    "timestamp": "2025-11-24T00:00:00Z",
+    "terminal_id": "TERM-743",
+    "auth_code": "UYZFPG"
+  },
+  {
+    "pos_transaction_id": "POS-3340183",
+    "merchant_name": "Netflix",
+    "card_last_four": "9364",
+    "amount_usd": 594.61,
+    "timestamp": "2024-09-09T00:00:00Z",
+    "terminal_id": "TERM-496",
+    "auth_code": "Z7Z5RX"
+  },
+  {
+    "pos_transaction_id": "POS-9135589",
+    "merchant_name": "Lyft",
+    "card_last_four": "7816",
+    "amount_usd": 1224.64,
+    "timestamp": "2024-01-18T00:00:00Z",
+    "terminal_id": "TERM-959",
+    "auth_code": "34W4FM"
+  },
+  {
+    "pos_transaction_id": "POS-7154382",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8623",
+    "amount_usd": 12.15,
+    "timestamp": "2023-06-14T00:00:00Z",
+    "terminal_id": "TERM-357",
+    "auth_code": "35G0AH"
+  },
+  {
+    "pos_transaction_id": "POS-2872664",
+    "merchant_name": "Shell",
+    "card_last_four": "9380",
+    "amount_usd": 1659.66,
+    "timestamp": "2024-07-11T00:00:00Z",
+    "terminal_id": "TERM-807",
+    "auth_code": "OQKIR8"
+  },
+  {
+    "pos_transaction_id": "POS-5415092",
+    "merchant_name": "Lyft",
+    "card_last_four": "1185",
+    "amount_usd": 286.42,
+    "timestamp": "2023-08-17T00:00:00Z",
+    "terminal_id": "TERM-121",
+    "auth_code": "IAT22H"
+  },
+  {
+    "pos_transaction_id": "POS-2178284",
+    "merchant_name": "Walmart",
+    "card_last_four": "5909",
+    "amount_usd": 25.91,
+    "timestamp": "2023-07-05T00:00:00Z",
+    "terminal_id": "TERM-452",
+    "auth_code": "NUTPCO"
+  },
+  {
+    "pos_transaction_id": "POS-5233733",
+    "merchant_name": "Netflix",
+    "card_last_four": "6007",
+    "amount_usd": 1479.23,
+    "timestamp": "2024-03-16T00:00:00Z",
+    "terminal_id": "TERM-394",
+    "auth_code": "ICH77W"
+  },
+  {
+    "pos_transaction_id": "POS-6648123",
+    "merchant_name": "Shell",
+    "card_last_four": "1344",
+    "amount_usd": 1585.76,
+    "timestamp": "2025-09-07T00:00:00Z",
+    "terminal_id": "TERM-251",
+    "auth_code": "6TTTDO"
+  },
+  {
+    "pos_transaction_id": "POS-8670074",
+    "merchant_name": "Lyft",
+    "card_last_four": "2396",
+    "amount_usd": 1162.86,
+    "timestamp": "2024-04-22T00:00:00Z",
+    "terminal_id": "TERM-434",
+    "auth_code": "YT1R23"
+  },
+  {
+    "pos_transaction_id": "POS-3047500",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7239",
+    "amount_usd": 447.3,
+    "timestamp": "2025-09-19T00:00:00Z",
+    "terminal_id": "TERM-451",
+    "auth_code": "KTPSO1"
+  },
+  {
+    "pos_transaction_id": "POS-3973148",
+    "merchant_name": "Amazon",
+    "card_last_four": "4428",
+    "amount_usd": 1914.66,
+    "timestamp": "2025-06-28T00:00:00Z",
+    "terminal_id": "TERM-270",
+    "auth_code": "HIFECV"
+  },
+  {
+    "pos_transaction_id": "POS-3359000",
+    "merchant_name": "Apple",
+    "card_last_four": "5792",
+    "amount_usd": 57.8,
+    "timestamp": "2024-05-04T00:00:00Z",
+    "terminal_id": "TERM-488",
+    "auth_code": "MTWJUB"
+  },
+  {
+    "pos_transaction_id": "POS-5158286",
+    "merchant_name": "Walmart",
+    "card_last_four": "1477",
+    "amount_usd": 1015.95,
+    "timestamp": "2024-04-27T00:00:00Z",
+    "terminal_id": "TERM-616",
+    "auth_code": "MKTALY"
+  },
+  {
+    "pos_transaction_id": "POS-5247280",
+    "merchant_name": "Costco",
+    "card_last_four": "9457",
+    "amount_usd": 1044.41,
+    "timestamp": "2023-07-10T00:00:00Z",
+    "terminal_id": "TERM-280",
+    "auth_code": "RR1JUV"
+  },
+  {
+    "pos_transaction_id": "POS-5698885",
+    "merchant_name": "Apple",
+    "card_last_four": "2493",
+    "amount_usd": 1068.76,
+    "timestamp": "2024-06-14T00:00:00Z",
+    "terminal_id": "TERM-756",
+    "auth_code": "18CH5K"
+  },
+  {
+    "pos_transaction_id": "POS-7818900",
+    "merchant_name": "Target",
+    "card_last_four": "2174",
+    "amount_usd": 1444.81,
+    "timestamp": "2023-03-20T00:00:00Z",
+    "terminal_id": "TERM-518",
+    "auth_code": "DHJG0Q"
+  },
+  {
+    "pos_transaction_id": "POS-6395745",
+    "merchant_name": "Shell",
+    "card_last_four": "6687",
+    "amount_usd": 1510.1,
+    "timestamp": "2023-12-12T00:00:00Z",
+    "terminal_id": "TERM-868",
+    "auth_code": "YGWEJ4"
+  },
+  {
+    "pos_transaction_id": "POS-8773747",
+    "merchant_name": "Apple",
+    "card_last_four": "2814",
+    "amount_usd": 1989.11,
+    "timestamp": "2024-12-24T00:00:00Z",
+    "terminal_id": "TERM-157",
+    "auth_code": "06UFX7"
+  },
+  {
+    "pos_transaction_id": "POS-8193722",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6908",
+    "amount_usd": 274.11,
+    "timestamp": "2024-01-22T00:00:00Z",
+    "terminal_id": "TERM-749",
+    "auth_code": "NDJVS4"
+  },
+  {
+    "pos_transaction_id": "POS-8512751",
+    "merchant_name": "Starbucks",
+    "card_last_four": "6195",
+    "amount_usd": 1315.72,
+    "timestamp": "2024-01-05T00:00:00Z",
+    "terminal_id": "TERM-381",
+    "auth_code": "NM6XV9"
+  },
+  {
+    "pos_transaction_id": "POS-9184627",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4118",
+    "amount_usd": 1966.26,
+    "timestamp": "2023-02-06T00:00:00Z",
+    "terminal_id": "TERM-586",
+    "auth_code": "32O4H1"
+  },
+  {
+    "pos_transaction_id": "POS-9312337",
+    "merchant_name": "Walmart",
+    "card_last_four": "3961",
+    "amount_usd": 197.09,
+    "timestamp": "2024-04-17T00:00:00Z",
+    "terminal_id": "TERM-503",
+    "auth_code": "IRXC9T"
+  },
+  {
+    "pos_transaction_id": "POS-5317147",
+    "merchant_name": "Target",
+    "card_last_four": "9835",
+    "amount_usd": 1846.68,
+    "timestamp": "2023-02-12T00:00:00Z",
+    "terminal_id": "TERM-501",
+    "auth_code": "HIBOY7"
+  },
+  {
+    "pos_transaction_id": "POS-5720323",
+    "merchant_name": "Apple",
+    "card_last_four": "5328",
+    "amount_usd": 1366.28,
+    "timestamp": "2025-10-15T00:00:00Z",
+    "terminal_id": "TERM-717",
+    "auth_code": "HOI8DA"
+  },
+  {
+    "pos_transaction_id": "POS-5997694",
+    "merchant_name": "Amazon",
+    "card_last_four": "3735",
+    "amount_usd": 1823.34,
+    "timestamp": "2024-05-21T00:00:00Z",
+    "terminal_id": "TERM-619",
+    "auth_code": "V22W1Y"
+  },
+  {
+    "pos_transaction_id": "POS-5471496",
+    "merchant_name": "Uber",
+    "card_last_four": "7408",
+    "amount_usd": 559.98,
+    "timestamp": "2024-02-21T00:00:00Z",
+    "terminal_id": "TERM-924",
+    "auth_code": "27NW3M"
+  },
+  {
+    "pos_transaction_id": "POS-3748556",
+    "merchant_name": "Walmart",
+    "card_last_four": "6319",
+    "amount_usd": 582.82,
+    "timestamp": "2025-03-08T00:00:00Z",
+    "terminal_id": "TERM-821",
+    "auth_code": "2EO48T"
+  },
+  {
+    "pos_transaction_id": "POS-7870258",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8825",
+    "amount_usd": 123.96,
+    "timestamp": "2023-11-20T00:00:00Z",
+    "terminal_id": "TERM-313",
+    "auth_code": "PUOPGF"
+  },
+  {
+    "pos_transaction_id": "POS-8513598",
+    "merchant_name": "Shell",
+    "card_last_four": "5537",
+    "amount_usd": 1622.87,
+    "timestamp": "2025-07-26T00:00:00Z",
+    "terminal_id": "TERM-405",
+    "auth_code": "JRG1M6"
+  },
+  {
+    "pos_transaction_id": "POS-7497988",
+    "merchant_name": "Uber",
+    "card_last_four": "8477",
+    "amount_usd": 1196.81,
+    "timestamp": "2025-06-25T00:00:00Z",
+    "terminal_id": "TERM-812",
+    "auth_code": "PQF3IO"
+  },
+  {
+    "pos_transaction_id": "POS-7726120",
+    "merchant_name": "Costco",
+    "card_last_four": "1632",
+    "amount_usd": 78.19,
+    "timestamp": "2023-04-13T00:00:00Z",
+    "terminal_id": "TERM-576",
+    "auth_code": "V8GZX3"
+  },
+  {
+    "pos_transaction_id": "POS-8950534",
+    "merchant_name": "Netflix",
+    "card_last_four": "9038",
+    "amount_usd": 1509.8,
+    "timestamp": "2023-06-06T00:00:00Z",
+    "terminal_id": "TERM-780",
+    "auth_code": "W5HGD8"
+  },
+  {
+    "pos_transaction_id": "POS-7443037",
+    "merchant_name": "Target",
+    "card_last_four": "7276",
+    "amount_usd": 1285.78,
+    "timestamp": "2023-07-31T00:00:00Z",
+    "terminal_id": "TERM-981",
+    "auth_code": "URH0EB"
+  },
+  {
+    "pos_transaction_id": "POS-4560120",
+    "merchant_name": "Starbucks",
+    "card_last_four": "5916",
+    "amount_usd": 1561.76,
+    "timestamp": "2025-08-04T00:00:00Z",
+    "terminal_id": "TERM-521",
+    "auth_code": "S3AWQY"
+  },
+  {
+    "pos_transaction_id": "POS-3746334",
+    "merchant_name": "Uber",
+    "card_last_four": "4835",
+    "amount_usd": 1706.05,
+    "timestamp": "2025-07-24T00:00:00Z",
+    "terminal_id": "TERM-508",
+    "auth_code": "17XNOF"
+  },
+  {
+    "pos_transaction_id": "POS-8464077",
+    "merchant_name": "Uber",
+    "card_last_four": "3174",
+    "amount_usd": 1139.45,
+    "timestamp": "2023-03-25T00:00:00Z",
+    "terminal_id": "TERM-652",
+    "auth_code": "9NX50R"
+  },
+  {
+    "pos_transaction_id": "POS-4870003",
+    "merchant_name": "Uber",
+    "card_last_four": "7146",
+    "amount_usd": 771.98,
+    "timestamp": "2025-05-25T00:00:00Z",
+    "terminal_id": "TERM-984",
+    "auth_code": "NROA2N"
+  },
+  {
+    "pos_transaction_id": "POS-5308952",
+    "merchant_name": "Amazon",
+    "card_last_four": "5517",
+    "amount_usd": 229.37,
+    "timestamp": "2023-01-23T00:00:00Z",
+    "terminal_id": "TERM-300",
+    "auth_code": "8ISBCL"
+  },
+  {
+    "pos_transaction_id": "POS-3198758",
+    "merchant_name": "Amazon",
+    "card_last_four": "8686",
+    "amount_usd": 1194.89,
+    "timestamp": "2023-11-02T00:00:00Z",
+    "terminal_id": "TERM-609",
+    "auth_code": "RXUS0Y"
+  },
+  {
+    "pos_transaction_id": "POS-9665254",
+    "merchant_name": "Target",
+    "card_last_four": "7122",
+    "amount_usd": 829.08,
+    "timestamp": "2023-09-11T00:00:00Z",
+    "terminal_id": "TERM-170",
+    "auth_code": "OJ5TA6"
+  },
+  {
+    "pos_transaction_id": "POS-3428541",
+    "merchant_name": "Target",
+    "card_last_four": "3941",
+    "amount_usd": 1359.18,
+    "timestamp": "2023-02-23T00:00:00Z",
+    "terminal_id": "TERM-401",
+    "auth_code": "4P9ODZ"
+  },
+  {
+    "pos_transaction_id": "POS-8262829",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7704",
+    "amount_usd": 1985.63,
+    "timestamp": "2025-01-06T00:00:00Z",
+    "terminal_id": "TERM-969",
+    "auth_code": "O93KH3"
+  },
+  {
+    "pos_transaction_id": "POS-4307231",
+    "merchant_name": "Uber",
+    "card_last_four": "3876",
+    "amount_usd": 396.23,
+    "timestamp": "2024-02-16T00:00:00Z",
+    "terminal_id": "TERM-789",
+    "auth_code": "0JWZGO"
+  },
+  {
+    "pos_transaction_id": "POS-8636719",
+    "merchant_name": "McDonalds",
+    "card_last_four": "5175",
+    "amount_usd": 1152.44,
+    "timestamp": "2023-06-09T00:00:00Z",
+    "terminal_id": "TERM-474",
+    "auth_code": "Q9KP4U"
+  },
+  {
+    "pos_transaction_id": "POS-1927483",
+    "merchant_name": "Lyft",
+    "card_last_four": "8487",
+    "amount_usd": 52.64,
+    "timestamp": "2024-06-20T00:00:00Z",
+    "terminal_id": "TERM-932",
+    "auth_code": "7KF1EJ"
+  },
+  {
+    "pos_transaction_id": "POS-6492580",
+    "merchant_name": "Target",
+    "card_last_four": "7764",
+    "amount_usd": 919.16,
+    "timestamp": "2025-03-06T00:00:00Z",
+    "terminal_id": "TERM-708",
+    "auth_code": "36DV7Z"
+  },
+  {
+    "pos_transaction_id": "POS-1730211",
+    "merchant_name": "Apple",
+    "card_last_four": "4806",
+    "amount_usd": 1759.52,
+    "timestamp": "2025-04-19T00:00:00Z",
+    "terminal_id": "TERM-217",
+    "auth_code": "0B77UQ"
+  },
+  {
+    "pos_transaction_id": "POS-1779833",
+    "merchant_name": "Amazon",
+    "card_last_four": "3931",
+    "amount_usd": 321.14,
+    "timestamp": "2025-02-23T00:00:00Z",
+    "terminal_id": "TERM-125",
+    "auth_code": "XIZLES"
+  },
+  {
+    "pos_transaction_id": "POS-5164731",
+    "merchant_name": "Shell",
+    "card_last_four": "6235",
+    "amount_usd": 362.17,
+    "timestamp": "2023-10-07T00:00:00Z",
+    "terminal_id": "TERM-130",
+    "auth_code": "VD98XO"
+  },
+  {
+    "pos_transaction_id": "POS-3480833",
+    "merchant_name": "Home Depot",
+    "card_last_four": "1379",
+    "amount_usd": 339.54,
+    "timestamp": "2023-08-11T00:00:00Z",
+    "terminal_id": "TERM-364",
+    "auth_code": "9XAJCG"
+  },
+  {
+    "pos_transaction_id": "POS-6591834",
+    "merchant_name": "Starbucks",
+    "card_last_four": "6703",
+    "amount_usd": 319.39,
+    "timestamp": "2025-04-04T00:00:00Z",
+    "terminal_id": "TERM-811",
+    "auth_code": "LQOOWH"
+  },
+  {
+    "pos_transaction_id": "POS-6428734",
+    "merchant_name": "Amazon",
+    "card_last_four": "3895",
+    "amount_usd": 815.81,
+    "timestamp": "2024-09-12T00:00:00Z",
+    "terminal_id": "TERM-623",
+    "auth_code": "73N9F8"
+  },
+  {
+    "pos_transaction_id": "POS-2666465",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4219",
+    "amount_usd": 1710.5,
+    "timestamp": "2024-01-28T00:00:00Z",
+    "terminal_id": "TERM-515",
+    "auth_code": "DIGSNT"
+  },
+  {
+    "pos_transaction_id": "POS-8596721",
+    "merchant_name": "Amazon",
+    "card_last_four": "1349",
+    "amount_usd": 829.67,
+    "timestamp": "2024-08-16T00:00:00Z",
+    "terminal_id": "TERM-689",
+    "auth_code": "0TTE2R"
+  },
+  {
+    "pos_transaction_id": "POS-5326066",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1964",
+    "amount_usd": 990.4,
+    "timestamp": "2023-05-03T00:00:00Z",
+    "terminal_id": "TERM-772",
+    "auth_code": "DXJTW5"
+  },
+  {
+    "pos_transaction_id": "POS-9934326",
+    "merchant_name": "Netflix",
+    "card_last_four": "8651",
+    "amount_usd": 1029.98,
+    "timestamp": "2025-02-27T00:00:00Z",
+    "terminal_id": "TERM-651",
+    "auth_code": "7GDXQ4"
+  },
+  {
+    "pos_transaction_id": "POS-6642939",
+    "merchant_name": "Costco",
+    "card_last_four": "9869",
+    "amount_usd": 1486.45,
+    "timestamp": "2023-03-18T00:00:00Z",
+    "terminal_id": "TERM-440",
+    "auth_code": "CYYWH1"
+  },
+  {
+    "pos_transaction_id": "POS-8575349",
+    "merchant_name": "Lyft",
+    "card_last_four": "1881",
+    "amount_usd": 460.54,
+    "timestamp": "2024-01-05T00:00:00Z",
+    "terminal_id": "TERM-861",
+    "auth_code": "602H7A"
+  },
+  {
+    "pos_transaction_id": "POS-5241058",
+    "merchant_name": "Walmart",
+    "card_last_four": "5197",
+    "amount_usd": 1335.73,
+    "timestamp": "2023-03-04T00:00:00Z",
+    "terminal_id": "TERM-932",
+    "auth_code": "GX6Y0X"
+  },
+  {
+    "pos_transaction_id": "POS-6046602",
+    "merchant_name": "Walmart",
+    "card_last_four": "1130",
+    "amount_usd": 1645.07,
+    "timestamp": "2024-10-01T00:00:00Z",
+    "terminal_id": "TERM-884",
+    "auth_code": "EHFA6Z"
+  },
+  {
+    "pos_transaction_id": "POS-7111452",
+    "merchant_name": "Netflix",
+    "card_last_four": "7146",
+    "amount_usd": 348.96,
+    "timestamp": "2025-03-03T00:00:00Z",
+    "terminal_id": "TERM-810",
+    "auth_code": "GIUSWK"
+  },
+  {
+    "pos_transaction_id": "POS-2564615",
+    "merchant_name": "Walmart",
+    "card_last_four": "5664",
+    "amount_usd": 876.48,
+    "timestamp": "2023-12-09T00:00:00Z",
+    "terminal_id": "TERM-389",
+    "auth_code": "OL6HZD"
+  },
+  {
+    "pos_transaction_id": "POS-2828767",
+    "merchant_name": "Shell",
+    "card_last_four": "7877",
+    "amount_usd": 140.89,
+    "timestamp": "2024-05-27T00:00:00Z",
+    "terminal_id": "TERM-294",
+    "auth_code": "5GIEUU"
+  },
+  {
+    "pos_transaction_id": "POS-5239407",
+    "merchant_name": "Apple",
+    "card_last_four": "7529",
+    "amount_usd": 1981.38,
+    "timestamp": "2023-11-12T00:00:00Z",
+    "terminal_id": "TERM-573",
+    "auth_code": "JIWHB1"
+  },
+  {
+    "pos_transaction_id": "POS-9736106",
+    "merchant_name": "Starbucks",
+    "card_last_four": "3028",
+    "amount_usd": 1711.83,
+    "timestamp": "2025-02-24T00:00:00Z",
+    "terminal_id": "TERM-259",
+    "auth_code": "RJO4RL"
+  },
+  {
+    "pos_transaction_id": "POS-4811403",
+    "merchant_name": "Target",
+    "card_last_four": "7289",
+    "amount_usd": 388.67,
+    "timestamp": "2023-08-28T00:00:00Z",
+    "terminal_id": "TERM-826",
+    "auth_code": "A4YD2L"
+  },
+  {
+    "pos_transaction_id": "POS-3211701",
+    "merchant_name": "Target",
+    "card_last_four": "9263",
+    "amount_usd": 405.07,
+    "timestamp": "2023-04-23T00:00:00Z",
+    "terminal_id": "TERM-704",
+    "auth_code": "FCI5BY"
+  },
+  {
+    "pos_transaction_id": "POS-4633583",
+    "merchant_name": "Lyft",
+    "card_last_four": "9425",
+    "amount_usd": 819.91,
+    "timestamp": "2023-03-27T00:00:00Z",
+    "terminal_id": "TERM-116",
+    "auth_code": "RWGOSG"
+  },
+  {
+    "pos_transaction_id": "POS-6620001",
+    "merchant_name": "Walmart",
+    "card_last_four": "3264",
+    "amount_usd": 1147.38,
+    "timestamp": "2024-07-15T00:00:00Z",
+    "terminal_id": "TERM-946",
+    "auth_code": "EPYF0L"
+  },
+  {
+    "pos_transaction_id": "POS-9375570",
+    "merchant_name": "Uber",
+    "card_last_four": "4965",
+    "amount_usd": 239.81,
+    "timestamp": "2025-02-24T00:00:00Z",
+    "terminal_id": "TERM-995",
+    "auth_code": "B8RP8Z"
+  },
+  {
+    "pos_transaction_id": "POS-8401253",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6924",
+    "amount_usd": 1438.02,
+    "timestamp": "2025-12-31T00:00:00Z",
+    "terminal_id": "TERM-863",
+    "auth_code": "DTB9O4"
+  },
+  {
+    "pos_transaction_id": "POS-6334268",
+    "merchant_name": "Target",
+    "card_last_four": "3047",
+    "amount_usd": 211.71,
+    "timestamp": "2024-12-14T00:00:00Z",
+    "terminal_id": "TERM-813",
+    "auth_code": "31HODN"
+  },
+  {
+    "pos_transaction_id": "POS-8917834",
+    "merchant_name": "Home Depot",
+    "card_last_four": "6528",
+    "amount_usd": 1227.14,
+    "timestamp": "2025-03-11T00:00:00Z",
+    "terminal_id": "TERM-872",
+    "auth_code": "DJE8EF"
+  },
+  {
+    "pos_transaction_id": "POS-2125855",
+    "merchant_name": "Amazon",
+    "card_last_four": "5424",
+    "amount_usd": 337.93,
+    "timestamp": "2025-11-30T00:00:00Z",
+    "terminal_id": "TERM-317",
+    "auth_code": "TYWJWL"
+  },
+  {
+    "pos_transaction_id": "POS-5865504",
+    "merchant_name": "Shell",
+    "card_last_four": "1705",
+    "amount_usd": 1612.29,
+    "timestamp": "2025-01-02T00:00:00Z",
+    "terminal_id": "TERM-431",
+    "auth_code": "LT5V48"
+  },
+  {
+    "pos_transaction_id": "POS-7492583",
+    "merchant_name": "Uber",
+    "card_last_four": "1824",
+    "amount_usd": 612.55,
+    "timestamp": "2023-03-31T00:00:00Z",
+    "terminal_id": "TERM-693",
+    "auth_code": "2RT8UK"
+  },
+  {
+    "pos_transaction_id": "POS-5696840",
+    "merchant_name": "Amazon",
+    "card_last_four": "7481",
+    "amount_usd": 78.51,
+    "timestamp": "2024-09-15T00:00:00Z",
+    "terminal_id": "TERM-907",
+    "auth_code": "N1BWVB"
+  },
+  {
+    "pos_transaction_id": "POS-2766442",
+    "merchant_name": "Uber",
+    "card_last_four": "9624",
+    "amount_usd": 1148.09,
+    "timestamp": "2023-09-29T00:00:00Z",
+    "terminal_id": "TERM-118",
+    "auth_code": "GA1QGT"
+  },
+  {
+    "pos_transaction_id": "POS-2516882",
+    "merchant_name": "Shell",
+    "card_last_four": "4765",
+    "amount_usd": 40.96,
+    "timestamp": "2025-10-27T00:00:00Z",
+    "terminal_id": "TERM-693",
+    "auth_code": "HHN6QM"
+  },
+  {
+    "pos_transaction_id": "POS-3293630",
+    "merchant_name": "Shell",
+    "card_last_four": "4835",
+    "amount_usd": 1081.95,
+    "timestamp": "2025-10-07T00:00:00Z",
+    "terminal_id": "TERM-203",
+    "auth_code": "ZF4QW2"
+  },
+  {
+    "pos_transaction_id": "POS-7270697",
+    "merchant_name": "Costco",
+    "card_last_four": "5072",
+    "amount_usd": 280.66,
+    "timestamp": "2023-10-21T00:00:00Z",
+    "terminal_id": "TERM-466",
+    "auth_code": "SU212Y"
+  },
+  {
+    "pos_transaction_id": "POS-2325039",
+    "merchant_name": "McDonalds",
+    "card_last_four": "3831",
+    "amount_usd": 972.96,
+    "timestamp": "2024-09-14T00:00:00Z",
+    "terminal_id": "TERM-281",
+    "auth_code": "EE3D44"
+  },
+  {
+    "pos_transaction_id": "POS-6051327",
+    "merchant_name": "Lyft",
+    "card_last_four": "5449",
+    "amount_usd": 620.77,
+    "timestamp": "2024-10-29T00:00:00Z",
+    "terminal_id": "TERM-626",
+    "auth_code": "1AY1ZA"
+  },
+  {
+    "pos_transaction_id": "POS-7524206",
+    "merchant_name": "Netflix",
+    "card_last_four": "2533",
+    "amount_usd": 1760.32,
+    "timestamp": "2023-05-25T00:00:00Z",
+    "terminal_id": "TERM-606",
+    "auth_code": "D6RU0I"
+  },
+  {
+    "pos_transaction_id": "POS-2599446",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5973",
+    "amount_usd": 1268.94,
+    "timestamp": "2024-11-16T00:00:00Z",
+    "terminal_id": "TERM-907",
+    "auth_code": "OQ5GLI"
+  },
+  {
+    "pos_transaction_id": "POS-6005569",
+    "merchant_name": "Amazon",
+    "card_last_four": "5649",
+    "amount_usd": 607.49,
+    "timestamp": "2023-12-31T00:00:00Z",
+    "terminal_id": "TERM-120",
+    "auth_code": "DCU889"
+  },
+  {
+    "pos_transaction_id": "POS-6207306",
+    "merchant_name": "Costco",
+    "card_last_four": "7552",
+    "amount_usd": 139.63,
+    "timestamp": "2024-02-25T00:00:00Z",
+    "terminal_id": "TERM-445",
+    "auth_code": "NBFAI6"
+  },
+  {
+    "pos_transaction_id": "POS-8294070",
+    "merchant_name": "Netflix",
+    "card_last_four": "7960",
+    "amount_usd": 856.3,
+    "timestamp": "2025-12-19T00:00:00Z",
+    "terminal_id": "TERM-549",
+    "auth_code": "MK6831"
+  },
+  {
+    "pos_transaction_id": "POS-7422334",
+    "merchant_name": "Costco",
+    "card_last_four": "4379",
+    "amount_usd": 1527.5,
+    "timestamp": "2024-02-17T00:00:00Z",
+    "terminal_id": "TERM-254",
+    "auth_code": "BK0O4G"
+  },
+  {
+    "pos_transaction_id": "POS-9810276",
+    "merchant_name": "Apple",
+    "card_last_four": "1544",
+    "amount_usd": 135.42,
+    "timestamp": "2023-01-04T00:00:00Z",
+    "terminal_id": "TERM-411",
+    "auth_code": "N7Q82Z"
+  },
+  {
+    "pos_transaction_id": "POS-4832347",
+    "merchant_name": "Uber",
+    "card_last_four": "3120",
+    "amount_usd": 533.81,
+    "timestamp": "2025-09-02T00:00:00Z",
+    "terminal_id": "TERM-499",
+    "auth_code": "Q2D82K"
+  },
+  {
+    "pos_transaction_id": "POS-1483418",
+    "merchant_name": "Netflix",
+    "card_last_four": "9474",
+    "amount_usd": 1468.18,
+    "timestamp": "2024-11-14T00:00:00Z",
+    "terminal_id": "TERM-343",
+    "auth_code": "FJHOU4"
+  },
+  {
+    "pos_transaction_id": "POS-8512880",
+    "merchant_name": "Lyft",
+    "card_last_four": "9038",
+    "amount_usd": 426.72,
+    "timestamp": "2024-09-16T00:00:00Z",
+    "terminal_id": "TERM-252",
+    "auth_code": "IF5VZV"
+  },
+  {
+    "pos_transaction_id": "POS-5143212",
+    "merchant_name": "Costco",
+    "card_last_four": "3264",
+    "amount_usd": 612.24,
+    "timestamp": "2023-06-27T00:00:00Z",
+    "terminal_id": "TERM-105",
+    "auth_code": "7COWKA"
+  },
+  {
+    "pos_transaction_id": "POS-3508613",
+    "merchant_name": "Apple",
+    "card_last_four": "5133",
+    "amount_usd": 1845.79,
+    "timestamp": "2025-03-22T00:00:00Z",
+    "terminal_id": "TERM-127",
+    "auth_code": "7ZOMSN"
+  },
+  {
+    "pos_transaction_id": "POS-2589937",
+    "merchant_name": "Costco",
+    "card_last_four": "5530",
+    "amount_usd": 1933.46,
+    "timestamp": "2025-05-29T00:00:00Z",
+    "terminal_id": "TERM-743",
+    "auth_code": "1YC1UB"
+  },
+  {
+    "pos_transaction_id": "POS-7575459",
+    "merchant_name": "Target",
+    "card_last_four": "2365",
+    "amount_usd": 1199.52,
+    "timestamp": "2024-10-17T00:00:00Z",
+    "terminal_id": "TERM-376",
+    "auth_code": "RB0CFD"
+  },
+  {
+    "pos_transaction_id": "POS-7987605",
+    "merchant_name": "Shell",
+    "card_last_four": "7147",
+    "amount_usd": 310.79,
+    "timestamp": "2023-10-27T00:00:00Z",
+    "terminal_id": "TERM-172",
+    "auth_code": "5BOI5A"
+  },
+  {
+    "pos_transaction_id": "POS-6126720",
+    "merchant_name": "Apple",
+    "card_last_four": "7445",
+    "amount_usd": 1786.44,
+    "timestamp": "2023-11-25T00:00:00Z",
+    "terminal_id": "TERM-806",
+    "auth_code": "A71H4W"
+  },
+  {
+    "pos_transaction_id": "POS-9873881",
+    "merchant_name": "Costco",
+    "card_last_four": "8572",
+    "amount_usd": 568.51,
+    "timestamp": "2025-09-11T00:00:00Z",
+    "terminal_id": "TERM-485",
+    "auth_code": "NZ2R06"
+  },
+  {
+    "pos_transaction_id": "POS-6119210",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3887",
+    "amount_usd": 1789.24,
+    "timestamp": "2024-01-15T00:00:00Z",
+    "terminal_id": "TERM-272",
+    "auth_code": "RLYGTR"
+  },
+  {
+    "pos_transaction_id": "POS-2778061",
+    "merchant_name": "Target",
+    "card_last_four": "9268",
+    "amount_usd": 290.1,
+    "timestamp": "2025-04-24T00:00:00Z",
+    "terminal_id": "TERM-208",
+    "auth_code": "F4U5TQ"
+  },
+  {
+    "pos_transaction_id": "POS-9472672",
+    "merchant_name": "Walmart",
+    "card_last_four": "6105",
+    "amount_usd": 1386.36,
+    "timestamp": "2024-08-09T00:00:00Z",
+    "terminal_id": "TERM-138",
+    "auth_code": "OTGQOD"
+  },
+  {
+    "pos_transaction_id": "POS-5937499",
+    "merchant_name": "Amazon",
+    "card_last_four": "7969",
+    "amount_usd": 944.93,
+    "timestamp": "2023-01-22T00:00:00Z",
+    "terminal_id": "TERM-292",
+    "auth_code": "F27SJC"
+  },
+  {
+    "pos_transaction_id": "POS-3679593",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8539",
+    "amount_usd": 149.39,
+    "timestamp": "2025-02-14T00:00:00Z",
+    "terminal_id": "TERM-496",
+    "auth_code": "MOG4Z2"
+  },
+  {
+    "pos_transaction_id": "POS-6317241",
+    "merchant_name": "Walmart",
+    "card_last_four": "3987",
+    "amount_usd": 52.2,
+    "timestamp": "2025-05-08T00:00:00Z",
+    "terminal_id": "TERM-369",
+    "auth_code": "D2S0S5"
+  },
+  {
+    "pos_transaction_id": "POS-8794203",
+    "merchant_name": "Apple",
+    "card_last_four": "1127",
+    "amount_usd": 228.06,
+    "timestamp": "2024-09-05T00:00:00Z",
+    "terminal_id": "TERM-695",
+    "auth_code": "NEA0XG"
+  },
+  {
+    "pos_transaction_id": "POS-9247321",
+    "merchant_name": "Amazon",
+    "card_last_four": "7554",
+    "amount_usd": 742.98,
+    "timestamp": "2023-09-15T00:00:00Z",
+    "terminal_id": "TERM-349",
+    "auth_code": "YC3TLN"
+  },
+  {
+    "pos_transaction_id": "POS-4383378",
+    "merchant_name": "Shell",
+    "card_last_four": "5827",
+    "amount_usd": 1725.49,
+    "timestamp": "2023-10-09T00:00:00Z",
+    "terminal_id": "TERM-474",
+    "auth_code": "XCVAM2"
+  },
+  {
+    "pos_transaction_id": "POS-4675165",
+    "merchant_name": "Home Depot",
+    "card_last_four": "6800",
+    "amount_usd": 1678.02,
+    "timestamp": "2025-05-01T00:00:00Z",
+    "terminal_id": "TERM-472",
+    "auth_code": "E3B4C3"
+  },
+  {
+    "pos_transaction_id": "POS-1367824",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7539",
+    "amount_usd": 1285.62,
+    "timestamp": "2023-06-29T00:00:00Z",
+    "terminal_id": "TERM-882",
+    "auth_code": "ONSUUX"
+  },
+  {
+    "pos_transaction_id": "POS-9454062",
+    "merchant_name": "Walmart",
+    "card_last_four": "6519",
+    "amount_usd": 1988.93,
+    "timestamp": "2024-03-08T00:00:00Z",
+    "terminal_id": "TERM-741",
+    "auth_code": "SF83CD"
+  },
+  {
+    "pos_transaction_id": "POS-7551170",
+    "merchant_name": "McDonalds",
+    "card_last_four": "1709",
+    "amount_usd": 322.25,
+    "timestamp": "2025-04-23T00:00:00Z",
+    "terminal_id": "TERM-651",
+    "auth_code": "V7G5DW"
+  },
+  {
+    "pos_transaction_id": "POS-6869740",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2548",
+    "amount_usd": 1653.42,
+    "timestamp": "2025-03-17T00:00:00Z",
+    "terminal_id": "TERM-593",
+    "auth_code": "T8779Y"
+  },
+  {
+    "pos_transaction_id": "POS-7441211",
+    "merchant_name": "Walmart",
+    "card_last_four": "2129",
+    "amount_usd": 632.55,
+    "timestamp": "2024-01-21T00:00:00Z",
+    "terminal_id": "TERM-671",
+    "auth_code": "H8NX1K"
+  },
+  {
+    "pos_transaction_id": "POS-5743599",
+    "merchant_name": "Apple",
+    "card_last_four": "5619",
+    "amount_usd": 458.19,
+    "timestamp": "2024-02-07T00:00:00Z",
+    "terminal_id": "TERM-338",
+    "auth_code": "KF7Q0J"
+  },
+  {
+    "pos_transaction_id": "POS-7639235",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2057",
+    "amount_usd": 218.75,
+    "timestamp": "2024-11-29T00:00:00Z",
+    "terminal_id": "TERM-436",
+    "auth_code": "7OX67V"
+  },
+  {
+    "pos_transaction_id": "POS-6156838",
+    "merchant_name": "Lyft",
+    "card_last_four": "1942",
+    "amount_usd": 740.75,
+    "timestamp": "2025-02-23T00:00:00Z",
+    "terminal_id": "TERM-623",
+    "auth_code": "RPA18Q"
+  },
+  {
+    "pos_transaction_id": "POS-7389783",
+    "merchant_name": "Walmart",
+    "card_last_four": "5657",
+    "amount_usd": 1498.25,
+    "timestamp": "2023-11-19T00:00:00Z",
+    "terminal_id": "TERM-582",
+    "auth_code": "IQ7ZFV"
+  },
+  {
+    "pos_transaction_id": "POS-9325224",
+    "merchant_name": "Costco",
+    "card_last_four": "1205",
+    "amount_usd": 224.54,
+    "timestamp": "2023-10-02T00:00:00Z",
+    "terminal_id": "TERM-701",
+    "auth_code": "6P2VON"
+  },
+  {
+    "pos_transaction_id": "POS-2773295",
+    "merchant_name": "Apple",
+    "card_last_four": "5786",
+    "amount_usd": 1749.63,
+    "timestamp": "2023-11-09T00:00:00Z",
+    "terminal_id": "TERM-768",
+    "auth_code": "OU6TJ2"
+  },
+  {
+    "pos_transaction_id": "POS-5963335",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4708",
+    "amount_usd": 1377.52,
+    "timestamp": "2025-05-17T00:00:00Z",
+    "terminal_id": "TERM-123",
+    "auth_code": "Y5J3N6"
+  },
+  {
+    "pos_transaction_id": "POS-6826095",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8446",
+    "amount_usd": 394.81,
+    "timestamp": "2024-12-25T00:00:00Z",
+    "terminal_id": "TERM-985",
+    "auth_code": "CWZUVQ"
+  },
+  {
+    "pos_transaction_id": "POS-9882113",
+    "merchant_name": "Walmart",
+    "card_last_four": "6632",
+    "amount_usd": 1859.63,
+    "timestamp": "2023-09-26T00:00:00Z",
+    "terminal_id": "TERM-185",
+    "auth_code": "GA9W42"
+  },
+  {
+    "pos_transaction_id": "POS-4617410",
+    "merchant_name": "Uber",
+    "card_last_four": "2479",
+    "amount_usd": 789.19,
+    "timestamp": "2025-04-04T00:00:00Z",
+    "terminal_id": "TERM-746",
+    "auth_code": "1KVH1U"
+  },
+  {
+    "pos_transaction_id": "POS-9781620",
+    "merchant_name": "Apple",
+    "card_last_four": "7281",
+    "amount_usd": 733.59,
+    "timestamp": "2025-03-16T00:00:00Z",
+    "terminal_id": "TERM-518",
+    "auth_code": "K4D2C7"
+  },
+  {
+    "pos_transaction_id": "POS-4808142",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1638",
+    "amount_usd": 1162.31,
+    "timestamp": "2024-12-30T00:00:00Z",
+    "terminal_id": "TERM-210",
+    "auth_code": "9UWPWM"
+  },
+  {
+    "pos_transaction_id": "POS-9144350",
+    "merchant_name": "Shell",
+    "card_last_four": "7867",
+    "amount_usd": 1901.29,
+    "timestamp": "2023-06-28T00:00:00Z",
+    "terminal_id": "TERM-941",
+    "auth_code": "23CBEV"
+  },
+  {
+    "pos_transaction_id": "POS-4063483",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7804",
+    "amount_usd": 1241.66,
+    "timestamp": "2025-02-23T00:00:00Z",
+    "terminal_id": "TERM-529",
+    "auth_code": "7F12S4"
+  },
+  {
+    "pos_transaction_id": "POS-4601855",
+    "merchant_name": "Target",
+    "card_last_four": "3912",
+    "amount_usd": 759.18,
+    "timestamp": "2024-05-04T00:00:00Z",
+    "terminal_id": "TERM-312",
+    "auth_code": "9HU2GG"
+  },
+  {
+    "pos_transaction_id": "POS-2196185",
+    "merchant_name": "Target",
+    "card_last_four": "1756",
+    "amount_usd": 90.32,
+    "timestamp": "2025-10-21T00:00:00Z",
+    "terminal_id": "TERM-584",
+    "auth_code": "UWFQ98"
+  },
+  {
+    "pos_transaction_id": "POS-6062055",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8678",
+    "amount_usd": 1611.72,
+    "timestamp": "2023-06-26T00:00:00Z",
+    "terminal_id": "TERM-115",
+    "auth_code": "CW8HYV"
+  },
+  {
+    "pos_transaction_id": "POS-6985595",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2287",
+    "amount_usd": 1757.04,
+    "timestamp": "2024-06-07T00:00:00Z",
+    "terminal_id": "TERM-491",
+    "auth_code": "JAYMAX"
+  },
+  {
+    "pos_transaction_id": "POS-6826000",
+    "merchant_name": "Target",
+    "card_last_four": "9989",
+    "amount_usd": 663.93,
+    "timestamp": "2025-03-16T00:00:00Z",
+    "terminal_id": "TERM-305",
+    "auth_code": "BJNZSO"
+  },
+  {
+    "pos_transaction_id": "POS-4059235",
+    "merchant_name": "Target",
+    "card_last_four": "3482",
+    "amount_usd": 1724.75,
+    "timestamp": "2024-11-18T00:00:00Z",
+    "terminal_id": "TERM-986",
+    "auth_code": "0B17MY"
+  },
+  {
+    "pos_transaction_id": "POS-8579640",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2889",
+    "amount_usd": 594.51,
+    "timestamp": "2025-09-06T00:00:00Z",
+    "terminal_id": "TERM-238",
+    "auth_code": "WCXA78"
+  },
+  {
+    "pos_transaction_id": "POS-7351284",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8654",
+    "amount_usd": 1696.11,
+    "timestamp": "2023-01-03T00:00:00Z",
+    "terminal_id": "TERM-277",
+    "auth_code": "CRK0P9"
+  },
+  {
+    "pos_transaction_id": "POS-3027565",
+    "merchant_name": "Apple",
+    "card_last_four": "7353",
+    "amount_usd": 284.18,
+    "timestamp": "2023-02-26T00:00:00Z",
+    "terminal_id": "TERM-182",
+    "auth_code": "8RFBOM"
+  },
+  {
+    "pos_transaction_id": "POS-7664647",
+    "merchant_name": "Shell",
+    "card_last_four": "9837",
+    "amount_usd": 5.52,
+    "timestamp": "2024-04-07T00:00:00Z",
+    "terminal_id": "TERM-860",
+    "auth_code": "YZOOTY"
+  },
+  {
+    "pos_transaction_id": "POS-8078680",
+    "merchant_name": "McDonalds",
+    "card_last_four": "3681",
+    "amount_usd": 335.01,
+    "timestamp": "2024-04-05T00:00:00Z",
+    "terminal_id": "TERM-256",
+    "auth_code": "84BNCA"
+  },
+  {
+    "pos_transaction_id": "POS-4986460",
+    "merchant_name": "Amazon",
+    "card_last_four": "6955",
+    "amount_usd": 49.96,
+    "timestamp": "2023-07-25T00:00:00Z",
+    "terminal_id": "TERM-684",
+    "auth_code": "73VJT6"
+  },
+  {
+    "pos_transaction_id": "POS-2204950",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5359",
+    "amount_usd": 793.66,
+    "timestamp": "2025-12-20T00:00:00Z",
+    "terminal_id": "TERM-875",
+    "auth_code": "Y1FZK9"
+  },
+  {
+    "pos_transaction_id": "POS-6075069",
+    "merchant_name": "Costco",
+    "card_last_four": "6091",
+    "amount_usd": 624.01,
+    "timestamp": "2025-08-17T00:00:00Z",
+    "terminal_id": "TERM-917",
+    "auth_code": "E83N4D"
+  },
+  {
+    "pos_transaction_id": "POS-4117654",
+    "merchant_name": "Walmart",
+    "card_last_four": "4645",
+    "amount_usd": 341.32,
+    "timestamp": "2025-03-26T00:00:00Z",
+    "terminal_id": "TERM-341",
+    "auth_code": "VGNEY4"
+  },
+  {
+    "pos_transaction_id": "POS-7452084",
+    "merchant_name": "Walmart",
+    "card_last_four": "1653",
+    "amount_usd": 1528.3,
+    "timestamp": "2025-09-16T00:00:00Z",
+    "terminal_id": "TERM-237",
+    "auth_code": "2O4SAU"
+  },
+  {
+    "pos_transaction_id": "POS-7349961",
+    "merchant_name": "Lyft",
+    "card_last_four": "8798",
+    "amount_usd": 1357.65,
+    "timestamp": "2023-11-04T00:00:00Z",
+    "terminal_id": "TERM-993",
+    "auth_code": "ZX0W4T"
+  },
+  {
+    "pos_transaction_id": "POS-1310881",
+    "merchant_name": "Starbucks",
+    "card_last_four": "6597",
+    "amount_usd": 1253.75,
+    "timestamp": "2023-05-07T00:00:00Z",
+    "terminal_id": "TERM-189",
+    "auth_code": "O64VC7"
+  },
+  {
+    "pos_transaction_id": "POS-5547791",
+    "merchant_name": "Target",
+    "card_last_four": "1542",
+    "amount_usd": 175.98,
+    "timestamp": "2023-01-21T00:00:00Z",
+    "terminal_id": "TERM-674",
+    "auth_code": "NCMRD1"
+  },
+  {
+    "pos_transaction_id": "POS-7602991",
+    "merchant_name": "Shell",
+    "card_last_four": "7735",
+    "amount_usd": 983.07,
+    "timestamp": "2025-06-17T00:00:00Z",
+    "terminal_id": "TERM-290",
+    "auth_code": "GDS70Z"
+  },
+  {
+    "pos_transaction_id": "POS-6238601",
+    "merchant_name": "Walmart",
+    "card_last_four": "1894",
+    "amount_usd": 192.78,
+    "timestamp": "2025-11-23T00:00:00Z",
+    "terminal_id": "TERM-792",
+    "auth_code": "U2UVZF"
+  },
+  {
+    "pos_transaction_id": "POS-3989026",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5445",
+    "amount_usd": 510.35,
+    "timestamp": "2024-06-25T00:00:00Z",
+    "terminal_id": "TERM-977",
+    "auth_code": "JZO764"
+  },
+  {
+    "pos_transaction_id": "POS-3146793",
+    "merchant_name": "Target",
+    "card_last_four": "1863",
+    "amount_usd": 1751.52,
+    "timestamp": "2023-12-29T00:00:00Z",
+    "terminal_id": "TERM-602",
+    "auth_code": "3ZJTCG"
+  },
+  {
+    "pos_transaction_id": "POS-6846412",
+    "merchant_name": "Shell",
+    "card_last_four": "2946",
+    "amount_usd": 589.96,
+    "timestamp": "2023-12-11T00:00:00Z",
+    "terminal_id": "TERM-280",
+    "auth_code": "22ZGM0"
+  },
+  {
+    "pos_transaction_id": "POS-2293040",
+    "merchant_name": "Netflix",
+    "card_last_four": "3865",
+    "amount_usd": 111.85,
+    "timestamp": "2024-12-05T00:00:00Z",
+    "terminal_id": "TERM-753",
+    "auth_code": "BO3QSS"
+  },
+  {
+    "pos_transaction_id": "POS-4350838",
+    "merchant_name": "Shell",
+    "card_last_four": "4669",
+    "amount_usd": 1922.78,
+    "timestamp": "2023-08-16T00:00:00Z",
+    "terminal_id": "TERM-835",
+    "auth_code": "L5FJ65"
+  },
+  {
+    "pos_transaction_id": "POS-8789247",
+    "merchant_name": "Amazon",
+    "card_last_four": "4658",
+    "amount_usd": 862.18,
+    "timestamp": "2025-01-03T00:00:00Z",
+    "terminal_id": "TERM-682",
+    "auth_code": "1ULA02"
+  },
+  {
+    "pos_transaction_id": "POS-3636231",
+    "merchant_name": "Uber",
+    "card_last_four": "1030",
+    "amount_usd": 1399.74,
+    "timestamp": "2025-09-08T00:00:00Z",
+    "terminal_id": "TERM-825",
+    "auth_code": "PU0T56"
+  },
+  {
+    "pos_transaction_id": "POS-8340295",
+    "merchant_name": "Target",
+    "card_last_four": "2407",
+    "amount_usd": 1299.21,
+    "timestamp": "2023-05-23T00:00:00Z",
+    "terminal_id": "TERM-333",
+    "auth_code": "RGPCRN"
+  },
+  {
+    "pos_transaction_id": "POS-4034866",
+    "merchant_name": "Apple",
+    "card_last_four": "1876",
+    "amount_usd": 302.99,
+    "timestamp": "2025-08-30T00:00:00Z",
+    "terminal_id": "TERM-848",
+    "auth_code": "KBFFAH"
+  },
+  {
+    "pos_transaction_id": "POS-4131388",
+    "merchant_name": "Amazon",
+    "card_last_four": "2419",
+    "amount_usd": 608.37,
+    "timestamp": "2024-02-27T00:00:00Z",
+    "terminal_id": "TERM-331",
+    "auth_code": "W4I364"
+  },
+  {
+    "pos_transaction_id": "POS-5159284",
+    "merchant_name": "Walmart",
+    "card_last_four": "2122",
+    "amount_usd": 1413.9,
+    "timestamp": "2024-11-05T00:00:00Z",
+    "terminal_id": "TERM-628",
+    "auth_code": "VIRIIQ"
+  },
+  {
+    "pos_transaction_id": "POS-8916748",
+    "merchant_name": "Target",
+    "card_last_four": "9669",
+    "amount_usd": 901.4,
+    "timestamp": "2025-11-29T00:00:00Z",
+    "terminal_id": "TERM-572",
+    "auth_code": "C69BFI"
+  },
+  {
+    "pos_transaction_id": "POS-7696086",
+    "merchant_name": "Netflix",
+    "card_last_four": "1368",
+    "amount_usd": 1483.43,
+    "timestamp": "2025-08-18T00:00:00Z",
+    "terminal_id": "TERM-107",
+    "auth_code": "A730WK"
+  },
+  {
+    "pos_transaction_id": "POS-8662907",
+    "merchant_name": "Home Depot",
+    "card_last_four": "1564",
+    "amount_usd": 1213.04,
+    "timestamp": "2025-08-01T00:00:00Z",
+    "terminal_id": "TERM-573",
+    "auth_code": "TNN41W"
+  },
+  {
+    "pos_transaction_id": "POS-4157899",
+    "merchant_name": "Netflix",
+    "card_last_four": "6286",
+    "amount_usd": 1703.28,
+    "timestamp": "2023-05-15T00:00:00Z",
+    "terminal_id": "TERM-169",
+    "auth_code": "I5QXJY"
+  },
+  {
+    "pos_transaction_id": "POS-3037536",
+    "merchant_name": "Uber",
+    "card_last_four": "6875",
+    "amount_usd": 506.25,
+    "timestamp": "2024-11-17T00:00:00Z",
+    "terminal_id": "TERM-274",
+    "auth_code": "YHJGZX"
+  },
+  {
+    "pos_transaction_id": "POS-6558397",
+    "merchant_name": "Walmart",
+    "card_last_four": "1152",
+    "amount_usd": 1051.5,
+    "timestamp": "2025-01-12T00:00:00Z",
+    "terminal_id": "TERM-720",
+    "auth_code": "F3P96X"
+  },
+  {
+    "pos_transaction_id": "POS-9983037",
+    "merchant_name": "Shell",
+    "card_last_four": "4987",
+    "amount_usd": 161.31,
+    "timestamp": "2024-07-14T00:00:00Z",
+    "terminal_id": "TERM-716",
+    "auth_code": "425VK3"
+  },
+  {
+    "pos_transaction_id": "POS-8525692",
+    "merchant_name": "Lyft",
+    "card_last_four": "3207",
+    "amount_usd": 1648.96,
+    "timestamp": "2023-01-23T00:00:00Z",
+    "terminal_id": "TERM-446",
+    "auth_code": "J59L81"
+  },
+  {
+    "pos_transaction_id": "POS-8548846",
+    "merchant_name": "McDonalds",
+    "card_last_four": "9796",
+    "amount_usd": 450.19,
+    "timestamp": "2023-08-31T00:00:00Z",
+    "terminal_id": "TERM-294",
+    "auth_code": "EQC4E4"
+  },
+  {
+    "pos_transaction_id": "POS-8165915",
+    "merchant_name": "Target",
+    "card_last_four": "2870",
+    "amount_usd": 1949.03,
+    "timestamp": "2023-08-31T00:00:00Z",
+    "terminal_id": "TERM-632",
+    "auth_code": "U2J9P1"
+  },
+  {
+    "pos_transaction_id": "POS-2510177",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2455",
+    "amount_usd": 1613.19,
+    "timestamp": "2024-02-17T00:00:00Z",
+    "terminal_id": "TERM-992",
+    "auth_code": "5ZYCKE"
+  },
+  {
+    "pos_transaction_id": "POS-9279488",
+    "merchant_name": "Amazon",
+    "card_last_four": "5438",
+    "amount_usd": 1807.77,
+    "timestamp": "2023-02-08T00:00:00Z",
+    "terminal_id": "TERM-449",
+    "auth_code": "EYKUG0"
+  },
+  {
+    "pos_transaction_id": "POS-8143228",
+    "merchant_name": "Walmart",
+    "card_last_four": "1224",
+    "amount_usd": 230.08,
+    "timestamp": "2025-02-18T00:00:00Z",
+    "terminal_id": "TERM-768",
+    "auth_code": "JS89FL"
+  },
+  {
+    "pos_transaction_id": "POS-7863718",
+    "merchant_name": "Apple",
+    "card_last_four": "2955",
+    "amount_usd": 1199.38,
+    "timestamp": "2024-07-04T00:00:00Z",
+    "terminal_id": "TERM-163",
+    "auth_code": "N6XK96"
+  },
+  {
+    "pos_transaction_id": "POS-9875949",
+    "merchant_name": "Apple",
+    "card_last_four": "6778",
+    "amount_usd": 386.06,
+    "timestamp": "2023-02-20T00:00:00Z",
+    "terminal_id": "TERM-646",
+    "auth_code": "XUFJHY"
+  },
+  {
+    "pos_transaction_id": "POS-2903366",
+    "merchant_name": "Costco",
+    "card_last_four": "4125",
+    "amount_usd": 453.63,
+    "timestamp": "2025-01-09T00:00:00Z",
+    "terminal_id": "TERM-832",
+    "auth_code": "70NJEG"
+  },
+  {
+    "pos_transaction_id": "POS-4680734",
+    "merchant_name": "Shell",
+    "card_last_four": "6832",
+    "amount_usd": 247.49,
+    "timestamp": "2025-04-30T00:00:00Z",
+    "terminal_id": "TERM-731",
+    "auth_code": "RSH73R"
+  },
+  {
+    "pos_transaction_id": "POS-1898234",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4768",
+    "amount_usd": 1848.04,
+    "timestamp": "2023-11-20T00:00:00Z",
+    "terminal_id": "TERM-609",
+    "auth_code": "4STJQE"
+  },
+  {
+    "pos_transaction_id": "POS-8138196",
+    "merchant_name": "Shell",
+    "card_last_four": "7819",
+    "amount_usd": 564.44,
+    "timestamp": "2025-02-08T00:00:00Z",
+    "terminal_id": "TERM-463",
+    "auth_code": "MHV9SA"
+  },
+  {
+    "pos_transaction_id": "POS-5468465",
+    "merchant_name": "Apple",
+    "card_last_four": "8087",
+    "amount_usd": 1871.09,
+    "timestamp": "2024-02-21T00:00:00Z",
+    "terminal_id": "TERM-511",
+    "auth_code": "KNJ4AO"
+  },
+  {
+    "pos_transaction_id": "POS-3508082",
+    "merchant_name": "Shell",
+    "card_last_four": "4551",
+    "amount_usd": 323.89,
+    "timestamp": "2024-09-06T00:00:00Z",
+    "terminal_id": "TERM-293",
+    "auth_code": "OI58BD"
+  },
+  {
+    "pos_transaction_id": "POS-3933600",
+    "merchant_name": "Walmart",
+    "card_last_four": "4109",
+    "amount_usd": 1135.87,
+    "timestamp": "2025-09-29T00:00:00Z",
+    "terminal_id": "TERM-844",
+    "auth_code": "GAFZ38"
+  },
+  {
+    "pos_transaction_id": "POS-8506599",
+    "merchant_name": "Target",
+    "card_last_four": "4325",
+    "amount_usd": 1074.3,
+    "timestamp": "2024-11-30T00:00:00Z",
+    "terminal_id": "TERM-783",
+    "auth_code": "E0C3CD"
+  },
+  {
+    "pos_transaction_id": "POS-8234120",
+    "merchant_name": "Lyft",
+    "card_last_four": "5435",
+    "amount_usd": 1952.13,
+    "timestamp": "2024-05-14T00:00:00Z",
+    "terminal_id": "TERM-806",
+    "auth_code": "OLT2N6"
+  },
+  {
+    "pos_transaction_id": "POS-6207948",
+    "merchant_name": "Amazon",
+    "card_last_four": "5854",
+    "amount_usd": 1288.5,
+    "timestamp": "2025-11-14T00:00:00Z",
+    "terminal_id": "TERM-599",
+    "auth_code": "IB3STV"
+  },
+  {
+    "pos_transaction_id": "POS-2072919",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4665",
+    "amount_usd": 365.91,
+    "timestamp": "2024-08-23T00:00:00Z",
+    "terminal_id": "TERM-639",
+    "auth_code": "LO7I8P"
+  },
+  {
+    "pos_transaction_id": "POS-4083096",
+    "merchant_name": "Costco",
+    "card_last_four": "6498",
+    "amount_usd": 294.47,
+    "timestamp": "2023-01-11T00:00:00Z",
+    "terminal_id": "TERM-845",
+    "auth_code": "2RUE6E"
+  },
+  {
+    "pos_transaction_id": "POS-9968671",
+    "merchant_name": "Uber",
+    "card_last_four": "2137",
+    "amount_usd": 496.51,
+    "timestamp": "2023-12-24T00:00:00Z",
+    "terminal_id": "TERM-932",
+    "auth_code": "ZCFDA6"
+  },
+  {
+    "pos_transaction_id": "POS-2468815",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8532",
+    "amount_usd": 1996.67,
+    "timestamp": "2025-12-02T00:00:00Z",
+    "terminal_id": "TERM-740",
+    "auth_code": "UYZNI6"
+  },
+  {
+    "pos_transaction_id": "POS-5287997",
+    "merchant_name": "Apple",
+    "card_last_four": "8378",
+    "amount_usd": 808.55,
+    "timestamp": "2023-03-14T00:00:00Z",
+    "terminal_id": "TERM-627",
+    "auth_code": "S0H2N4"
+  },
+  {
+    "pos_transaction_id": "POS-6450136",
+    "merchant_name": "Netflix",
+    "card_last_four": "3549",
+    "amount_usd": 1221.37,
+    "timestamp": "2024-07-14T00:00:00Z",
+    "terminal_id": "TERM-364",
+    "auth_code": "OH5RI7"
+  },
+  {
+    "pos_transaction_id": "POS-4736736",
+    "merchant_name": "Home Depot",
+    "card_last_four": "1112",
+    "amount_usd": 545.56,
+    "timestamp": "2023-03-27T00:00:00Z",
+    "terminal_id": "TERM-201",
+    "auth_code": "NO5I9G"
+  },
+  {
+    "pos_transaction_id": "POS-1783783",
+    "merchant_name": "Walmart",
+    "card_last_four": "3060",
+    "amount_usd": 1267.2,
+    "timestamp": "2024-05-21T00:00:00Z",
+    "terminal_id": "TERM-926",
+    "auth_code": "WDK1DE"
+  },
+  {
+    "pos_transaction_id": "POS-3251528",
+    "merchant_name": "Amazon",
+    "card_last_four": "8997",
+    "amount_usd": 1327.9,
+    "timestamp": "2024-12-05T00:00:00Z",
+    "terminal_id": "TERM-614",
+    "auth_code": "DRXDNO"
+  },
+  {
+    "pos_transaction_id": "POS-4966235",
+    "merchant_name": "Apple",
+    "card_last_four": "1727",
+    "amount_usd": 987.69,
+    "timestamp": "2025-05-05T00:00:00Z",
+    "terminal_id": "TERM-746",
+    "auth_code": "JYXR1Q"
+  },
+  {
+    "pos_transaction_id": "POS-2360198",
+    "merchant_name": "Starbucks",
+    "card_last_four": "4866",
+    "amount_usd": 748.1,
+    "timestamp": "2025-01-22T00:00:00Z",
+    "terminal_id": "TERM-345",
+    "auth_code": "4MJ0EY"
+  },
+  {
+    "pos_transaction_id": "POS-8687292",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7340",
+    "amount_usd": 72.12,
+    "timestamp": "2024-09-07T00:00:00Z",
+    "terminal_id": "TERM-725",
+    "auth_code": "R26UU6"
+  },
+  {
+    "pos_transaction_id": "POS-3585930",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2767",
+    "amount_usd": 1213.35,
+    "timestamp": "2023-07-06T00:00:00Z",
+    "terminal_id": "TERM-482",
+    "auth_code": "TNKT5W"
+  },
+  {
+    "pos_transaction_id": "POS-1951566",
+    "merchant_name": "Amazon",
+    "card_last_four": "6092",
+    "amount_usd": 1907.32,
+    "timestamp": "2024-08-31T00:00:00Z",
+    "terminal_id": "TERM-719",
+    "auth_code": "2MAJUJ"
+  },
+  {
+    "pos_transaction_id": "POS-6266330",
+    "merchant_name": "McDonalds",
+    "card_last_four": "8648",
+    "amount_usd": 1915.14,
+    "timestamp": "2024-07-11T00:00:00Z",
+    "terminal_id": "TERM-469",
+    "auth_code": "N61FKB"
+  },
+  {
+    "pos_transaction_id": "POS-6500518",
+    "merchant_name": "Target",
+    "card_last_four": "3928",
+    "amount_usd": 1225.13,
+    "timestamp": "2023-06-17T00:00:00Z",
+    "terminal_id": "TERM-400",
+    "auth_code": "ADAPV3"
+  },
+  {
+    "pos_transaction_id": "POS-1389991",
+    "merchant_name": "Walmart",
+    "card_last_four": "3421",
+    "amount_usd": 1491.16,
+    "timestamp": "2023-12-16T00:00:00Z",
+    "terminal_id": "TERM-570",
+    "auth_code": "EGVIGA"
+  },
+  {
+    "pos_transaction_id": "POS-5984788",
+    "merchant_name": "Walmart",
+    "card_last_four": "9971",
+    "amount_usd": 1308.49,
+    "timestamp": "2023-10-09T00:00:00Z",
+    "terminal_id": "TERM-574",
+    "auth_code": "QSHDZ8"
+  },
+  {
+    "pos_transaction_id": "POS-4488387",
+    "merchant_name": "Amazon",
+    "card_last_four": "8486",
+    "amount_usd": 452.56,
+    "timestamp": "2023-11-02T00:00:00Z",
+    "terminal_id": "TERM-604",
+    "auth_code": "DH0SQU"
+  },
+  {
+    "pos_transaction_id": "POS-7036897",
+    "merchant_name": "Costco",
+    "card_last_four": "6955",
+    "amount_usd": 1815.52,
+    "timestamp": "2025-11-18T00:00:00Z",
+    "terminal_id": "TERM-266",
+    "auth_code": "LLILWW"
+  },
+  {
+    "pos_transaction_id": "POS-3011982",
+    "merchant_name": "Shell",
+    "card_last_four": "5427",
+    "amount_usd": 211.65,
+    "timestamp": "2024-11-28T00:00:00Z",
+    "terminal_id": "TERM-398",
+    "auth_code": "I7KTEK"
+  },
+  {
+    "pos_transaction_id": "POS-9601069",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7625",
+    "amount_usd": 1461.5,
+    "timestamp": "2023-01-05T00:00:00Z",
+    "terminal_id": "TERM-536",
+    "auth_code": "4X7K0N"
+  },
+  {
+    "pos_transaction_id": "POS-7403910",
+    "merchant_name": "Uber",
+    "card_last_four": "4147",
+    "amount_usd": 497.2,
+    "timestamp": "2023-04-13T00:00:00Z",
+    "terminal_id": "TERM-608",
+    "auth_code": "LRYD88"
+  },
+  {
+    "pos_transaction_id": "POS-1016764",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4310",
+    "amount_usd": 1146.05,
+    "timestamp": "2025-12-19T00:00:00Z",
+    "terminal_id": "TERM-633",
+    "auth_code": "KJALZX"
+  },
+  {
+    "pos_transaction_id": "POS-6771074",
+    "merchant_name": "Costco",
+    "card_last_four": "8907",
+    "amount_usd": 92.78,
+    "timestamp": "2025-03-07T00:00:00Z",
+    "terminal_id": "TERM-987",
+    "auth_code": "7R05VM"
+  },
+  {
+    "pos_transaction_id": "POS-4949586",
+    "merchant_name": "Shell",
+    "card_last_four": "1888",
+    "amount_usd": 711.52,
+    "timestamp": "2025-03-22T00:00:00Z",
+    "terminal_id": "TERM-943",
+    "auth_code": "SJ9GNJ"
+  },
+  {
+    "pos_transaction_id": "POS-1887311",
+    "merchant_name": "Walmart",
+    "card_last_four": "5520",
+    "amount_usd": 355.64,
+    "timestamp": "2025-10-01T00:00:00Z",
+    "terminal_id": "TERM-703",
+    "auth_code": "MIHUNI"
+  },
+  {
+    "pos_transaction_id": "POS-3593660",
+    "merchant_name": "Walmart",
+    "card_last_four": "3018",
+    "amount_usd": 58.63,
+    "timestamp": "2023-03-14T00:00:00Z",
+    "terminal_id": "TERM-454",
+    "auth_code": "KUBW7W"
+  },
+  {
+    "pos_transaction_id": "POS-1441351",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6889",
+    "amount_usd": 375.95,
+    "timestamp": "2025-03-07T00:00:00Z",
+    "terminal_id": "TERM-413",
+    "auth_code": "WHWOP7"
+  },
+  {
+    "pos_transaction_id": "POS-3085158",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7159",
+    "amount_usd": 1732.1,
+    "timestamp": "2024-09-26T00:00:00Z",
+    "terminal_id": "TERM-482",
+    "auth_code": "0R84UJ"
+  },
+  {
+    "pos_transaction_id": "POS-5962273",
+    "merchant_name": "Costco",
+    "card_last_four": "7820",
+    "amount_usd": 1999.34,
+    "timestamp": "2024-11-20T00:00:00Z",
+    "terminal_id": "TERM-924",
+    "auth_code": "HC99HZ"
+  },
+  {
+    "pos_transaction_id": "POS-1786099",
+    "merchant_name": "Netflix",
+    "card_last_four": "3037",
+    "amount_usd": 235.97,
+    "timestamp": "2023-06-02T00:00:00Z",
+    "terminal_id": "TERM-141",
+    "auth_code": "HRG08T"
+  },
+  {
+    "pos_transaction_id": "POS-8484986",
+    "merchant_name": "Home Depot",
+    "card_last_four": "9183",
+    "amount_usd": 1565.22,
+    "timestamp": "2023-03-10T00:00:00Z",
+    "terminal_id": "TERM-672",
+    "auth_code": "V3DUO1"
+  },
+  {
+    "pos_transaction_id": "POS-1182174",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7820",
+    "amount_usd": 1724.56,
+    "timestamp": "2025-07-16T00:00:00Z",
+    "terminal_id": "TERM-540",
+    "auth_code": "SS737P"
+  },
+  {
+    "pos_transaction_id": "POS-4587039",
+    "merchant_name": "Costco",
+    "card_last_four": "9723",
+    "amount_usd": 132.99,
+    "timestamp": "2023-03-08T00:00:00Z",
+    "terminal_id": "TERM-284",
+    "auth_code": "R2VB4J"
+  },
+  {
+    "pos_transaction_id": "POS-6115111",
+    "merchant_name": "Costco",
+    "card_last_four": "4771",
+    "amount_usd": 559.53,
+    "timestamp": "2025-01-07T00:00:00Z",
+    "terminal_id": "TERM-736",
+    "auth_code": "SSRI5I"
+  },
+  {
+    "pos_transaction_id": "POS-4601615",
+    "merchant_name": "Apple",
+    "card_last_four": "3915",
+    "amount_usd": 1959.24,
+    "timestamp": "2024-10-10T00:00:00Z",
+    "terminal_id": "TERM-838",
+    "auth_code": "SD61XN"
+  },
+  {
+    "pos_transaction_id": "POS-7932509",
+    "merchant_name": "Target",
+    "card_last_four": "1290",
+    "amount_usd": 71.51,
+    "timestamp": "2024-07-30T00:00:00Z",
+    "terminal_id": "TERM-286",
+    "auth_code": "4BA6VN"
+  },
+  {
+    "pos_transaction_id": "POS-2015712",
+    "merchant_name": "Walmart",
+    "card_last_four": "9047",
+    "amount_usd": 459.0,
+    "timestamp": "2025-03-27T00:00:00Z",
+    "terminal_id": "TERM-463",
+    "auth_code": "LNMMWD"
+  },
+  {
+    "pos_transaction_id": "POS-7323344",
+    "merchant_name": "Walmart",
+    "card_last_four": "5929",
+    "amount_usd": 319.28,
+    "timestamp": "2025-08-13T00:00:00Z",
+    "terminal_id": "TERM-910",
+    "auth_code": "PKIR1A"
+  },
+  {
+    "pos_transaction_id": "POS-2506474",
+    "merchant_name": "Walmart",
+    "card_last_four": "1260",
+    "amount_usd": 1003.04,
+    "timestamp": "2024-06-10T00:00:00Z",
+    "terminal_id": "TERM-154",
+    "auth_code": "WG56WH"
+  },
+  {
+    "pos_transaction_id": "POS-8995434",
+    "merchant_name": "Starbucks",
+    "card_last_four": "9619",
+    "amount_usd": 1185.69,
+    "timestamp": "2024-10-20T00:00:00Z",
+    "terminal_id": "TERM-514",
+    "auth_code": "JNR0DR"
+  },
+  {
+    "pos_transaction_id": "POS-1112125",
+    "merchant_name": "Shell",
+    "card_last_four": "4782",
+    "amount_usd": 884.14,
+    "timestamp": "2023-05-24T00:00:00Z",
+    "terminal_id": "TERM-466",
+    "auth_code": "ON6R8G"
+  },
+  {
+    "pos_transaction_id": "POS-2244606",
+    "merchant_name": "Uber",
+    "card_last_four": "1991",
+    "amount_usd": 51.41,
+    "timestamp": "2024-09-21T00:00:00Z",
+    "terminal_id": "TERM-951",
+    "auth_code": "3BAJA2"
+  },
+  {
+    "pos_transaction_id": "POS-8537051",
+    "merchant_name": "Apple",
+    "card_last_four": "7152",
+    "amount_usd": 1584.06,
+    "timestamp": "2023-09-29T00:00:00Z",
+    "terminal_id": "TERM-498",
+    "auth_code": "89EYN1"
+  },
+  {
+    "pos_transaction_id": "POS-5963463",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2821",
+    "amount_usd": 195.19,
+    "timestamp": "2025-08-25T00:00:00Z",
+    "terminal_id": "TERM-849",
+    "auth_code": "SSGR09"
+  },
+  {
+    "pos_transaction_id": "POS-5253048",
+    "merchant_name": "Lyft",
+    "card_last_four": "3433",
+    "amount_usd": 156.5,
+    "timestamp": "2025-09-22T00:00:00Z",
+    "terminal_id": "TERM-826",
+    "auth_code": "WB0K4U"
+  },
+  {
+    "pos_transaction_id": "POS-4398899",
+    "merchant_name": "McDonalds",
+    "card_last_four": "8862",
+    "amount_usd": 222.32,
+    "timestamp": "2023-06-26T00:00:00Z",
+    "terminal_id": "TERM-171",
+    "auth_code": "WSKV4W"
+  },
+  {
+    "pos_transaction_id": "POS-3562721",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4858",
+    "amount_usd": 1380.21,
+    "timestamp": "2023-06-04T00:00:00Z",
+    "terminal_id": "TERM-804",
+    "auth_code": "3QVDM6"
+  },
+  {
+    "pos_transaction_id": "POS-1053482",
+    "merchant_name": "Uber",
+    "card_last_four": "8628",
+    "amount_usd": 479.26,
+    "timestamp": "2024-12-05T00:00:00Z",
+    "terminal_id": "TERM-883",
+    "auth_code": "H6VSB4"
+  },
+  {
+    "pos_transaction_id": "POS-3709770",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5488",
+    "amount_usd": 1682.48,
+    "timestamp": "2025-11-18T00:00:00Z",
+    "terminal_id": "TERM-706",
+    "auth_code": "T0RKQX"
+  },
+  {
+    "pos_transaction_id": "POS-6135403",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7387",
+    "amount_usd": 1758.07,
+    "timestamp": "2024-07-22T00:00:00Z",
+    "terminal_id": "TERM-925",
+    "auth_code": "XNRU4U"
+  },
+  {
+    "pos_transaction_id": "POS-2654169",
+    "merchant_name": "Walmart",
+    "card_last_four": "1236",
+    "amount_usd": 141.61,
+    "timestamp": "2024-05-25T00:00:00Z",
+    "terminal_id": "TERM-896",
+    "auth_code": "N4Z9WD"
+  },
+  {
+    "pos_transaction_id": "POS-9934588",
+    "merchant_name": "Walmart",
+    "card_last_four": "3686",
+    "amount_usd": 391.62,
+    "timestamp": "2024-12-28T00:00:00Z",
+    "terminal_id": "TERM-916",
+    "auth_code": "9UOBX9"
+  },
+  {
+    "pos_transaction_id": "POS-3485442",
+    "merchant_name": "Costco",
+    "card_last_four": "7085",
+    "amount_usd": 203.14,
+    "timestamp": "2024-04-20T00:00:00Z",
+    "terminal_id": "TERM-352",
+    "auth_code": "XLFLJY"
+  },
+  {
+    "pos_transaction_id": "POS-7066590",
+    "merchant_name": "Apple",
+    "card_last_four": "1315",
+    "amount_usd": 418.86,
+    "timestamp": "2024-08-09T00:00:00Z",
+    "terminal_id": "TERM-580",
+    "auth_code": "OXC3D1"
+  },
+  {
+    "pos_transaction_id": "POS-3656630",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8697",
+    "amount_usd": 108.65,
+    "timestamp": "2024-03-15T00:00:00Z",
+    "terminal_id": "TERM-592",
+    "auth_code": "GSKJ8P"
+  },
+  {
+    "pos_transaction_id": "POS-5625514",
+    "merchant_name": "Home Depot",
+    "card_last_four": "6625",
+    "amount_usd": 1361.56,
+    "timestamp": "2025-06-16T00:00:00Z",
+    "terminal_id": "TERM-950",
+    "auth_code": "15E71I"
+  },
+  {
+    "pos_transaction_id": "POS-1084922",
+    "merchant_name": "Walmart",
+    "card_last_four": "7659",
+    "amount_usd": 678.05,
+    "timestamp": "2024-02-01T00:00:00Z",
+    "terminal_id": "TERM-368",
+    "auth_code": "4QNT8N"
+  },
+  {
+    "pos_transaction_id": "POS-8058237",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6786",
+    "amount_usd": 672.19,
+    "timestamp": "2023-05-31T00:00:00Z",
+    "terminal_id": "TERM-788",
+    "auth_code": "72FUJC"
+  },
+  {
+    "pos_transaction_id": "POS-8284204",
+    "merchant_name": "Amazon",
+    "card_last_four": "2863",
+    "amount_usd": 960.86,
+    "timestamp": "2024-03-19T00:00:00Z",
+    "terminal_id": "TERM-195",
+    "auth_code": "KR45GY"
+  },
+  {
+    "pos_transaction_id": "POS-6547161",
+    "merchant_name": "Costco",
+    "card_last_four": "2618",
+    "amount_usd": 1128.91,
+    "timestamp": "2024-08-04T00:00:00Z",
+    "terminal_id": "TERM-823",
+    "auth_code": "3CKK3T"
+  },
+  {
+    "pos_transaction_id": "POS-6593573",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1171",
+    "amount_usd": 56.77,
+    "timestamp": "2023-02-01T00:00:00Z",
+    "terminal_id": "TERM-432",
+    "auth_code": "0S3AXJ"
+  },
+  {
+    "pos_transaction_id": "POS-1318907",
+    "merchant_name": "Apple",
+    "card_last_four": "7518",
+    "amount_usd": 1386.76,
+    "timestamp": "2023-11-23T00:00:00Z",
+    "terminal_id": "TERM-812",
+    "auth_code": "WBWQTV"
+  },
+  {
+    "pos_transaction_id": "POS-2338134",
+    "merchant_name": "Costco",
+    "card_last_four": "2649",
+    "amount_usd": 211.49,
+    "timestamp": "2024-11-05T00:00:00Z",
+    "terminal_id": "TERM-611",
+    "auth_code": "A47Q0M"
+  },
+  {
+    "pos_transaction_id": "POS-3019769",
+    "merchant_name": "McDonalds",
+    "card_last_four": "8962",
+    "amount_usd": 135.61,
+    "timestamp": "2024-06-18T00:00:00Z",
+    "terminal_id": "TERM-428",
+    "auth_code": "PBU6P3"
+  },
+  {
+    "pos_transaction_id": "POS-6534099",
+    "merchant_name": "Walmart",
+    "card_last_four": "7970",
+    "amount_usd": 1101.28,
+    "timestamp": "2025-12-31T00:00:00Z",
+    "terminal_id": "TERM-123",
+    "auth_code": "HU7NXN"
+  },
+  {
+    "pos_transaction_id": "POS-2012593",
+    "merchant_name": "Walmart",
+    "card_last_four": "6524",
+    "amount_usd": 1895.87,
+    "timestamp": "2024-09-04T00:00:00Z",
+    "terminal_id": "TERM-395",
+    "auth_code": "7DNASV"
+  },
+  {
+    "pos_transaction_id": "POS-2500598",
+    "merchant_name": "Walmart",
+    "card_last_four": "9900",
+    "amount_usd": 1106.67,
+    "timestamp": "2024-11-27T00:00:00Z",
+    "terminal_id": "TERM-193",
+    "auth_code": "CY1R4R"
+  },
+  {
+    "pos_transaction_id": "POS-9578578",
+    "merchant_name": "Amazon",
+    "card_last_four": "6249",
+    "amount_usd": 234.35,
+    "timestamp": "2024-07-10T00:00:00Z",
+    "terminal_id": "TERM-358",
+    "auth_code": "WOONXZ"
+  },
+  {
+    "pos_transaction_id": "POS-6309361",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1397",
+    "amount_usd": 282.05,
+    "timestamp": "2025-02-18T00:00:00Z",
+    "terminal_id": "TERM-196",
+    "auth_code": "991KGN"
+  },
+  {
+    "pos_transaction_id": "POS-7419416",
+    "merchant_name": "Uber",
+    "card_last_four": "6637",
+    "amount_usd": 924.32,
+    "timestamp": "2024-02-07T00:00:00Z",
+    "terminal_id": "TERM-325",
+    "auth_code": "3WWMAD"
+  },
+  {
+    "pos_transaction_id": "POS-6832460",
+    "merchant_name": "Walmart",
+    "card_last_four": "3389",
+    "amount_usd": 337.55,
+    "timestamp": "2024-08-21T00:00:00Z",
+    "terminal_id": "TERM-377",
+    "auth_code": "57GSQ7"
+  },
+  {
+    "pos_transaction_id": "POS-1742232",
+    "merchant_name": "Costco",
+    "card_last_four": "9802",
+    "amount_usd": 231.46,
+    "timestamp": "2024-01-23T00:00:00Z",
+    "terminal_id": "TERM-402",
+    "auth_code": "0O3JU5"
+  },
+  {
+    "pos_transaction_id": "POS-8088302",
+    "merchant_name": "Target",
+    "card_last_four": "3629",
+    "amount_usd": 302.09,
+    "timestamp": "2024-01-12T00:00:00Z",
+    "terminal_id": "TERM-899",
+    "auth_code": "82ZHPE"
+  },
+  {
+    "pos_transaction_id": "POS-7034246",
+    "merchant_name": "Costco",
+    "card_last_four": "3969",
+    "amount_usd": 1431.74,
+    "timestamp": "2023-01-12T00:00:00Z",
+    "terminal_id": "TERM-232",
+    "auth_code": "PE8PQ8"
+  },
+  {
+    "pos_transaction_id": "POS-7103819",
+    "merchant_name": "Uber",
+    "card_last_four": "9155",
+    "amount_usd": 428.57,
+    "timestamp": "2023-01-31T00:00:00Z",
+    "terminal_id": "TERM-116",
+    "auth_code": "ILI1N2"
+  },
+  {
+    "pos_transaction_id": "POS-9499536",
+    "merchant_name": "Home Depot",
+    "card_last_four": "9462",
+    "amount_usd": 408.29,
+    "timestamp": "2023-05-05T00:00:00Z",
+    "terminal_id": "TERM-835",
+    "auth_code": "O3US47"
+  },
+  {
+    "pos_transaction_id": "POS-5668537",
+    "merchant_name": "Uber",
+    "card_last_four": "7877",
+    "amount_usd": 976.74,
+    "timestamp": "2023-04-16T00:00:00Z",
+    "terminal_id": "TERM-697",
+    "auth_code": "KQWDVC"
+  },
+  {
+    "pos_transaction_id": "POS-8582977",
+    "merchant_name": "Home Depot",
+    "card_last_four": "9569",
+    "amount_usd": 1561.35,
+    "timestamp": "2024-03-10T00:00:00Z",
+    "terminal_id": "TERM-129",
+    "auth_code": "B1QAYT"
+  },
+  {
+    "pos_transaction_id": "POS-4583123",
+    "merchant_name": "Uber",
+    "card_last_four": "8253",
+    "amount_usd": 1125.44,
+    "timestamp": "2023-12-12T00:00:00Z",
+    "terminal_id": "TERM-985",
+    "auth_code": "2AU5R5"
+  },
+  {
+    "pos_transaction_id": "POS-3821882",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5917",
+    "amount_usd": 1372.55,
+    "timestamp": "2024-10-09T00:00:00Z",
+    "terminal_id": "TERM-373",
+    "auth_code": "KD7EU3"
+  },
+  {
+    "pos_transaction_id": "POS-1363141",
+    "merchant_name": "Costco",
+    "card_last_four": "7618",
+    "amount_usd": 944.03,
+    "timestamp": "2023-07-13T00:00:00Z",
+    "terminal_id": "TERM-973",
+    "auth_code": "JBV9M1"
+  },
+  {
+    "pos_transaction_id": "POS-3466394",
+    "merchant_name": "Apple",
+    "card_last_four": "1392",
+    "amount_usd": 1587.04,
+    "timestamp": "2024-06-23T00:00:00Z",
+    "terminal_id": "TERM-627",
+    "auth_code": "HYSETI"
+  },
+  {
+    "pos_transaction_id": "POS-4155355",
+    "merchant_name": "Amazon",
+    "card_last_four": "8486",
+    "amount_usd": 210.17,
+    "timestamp": "2024-07-24T00:00:00Z",
+    "terminal_id": "TERM-942",
+    "auth_code": "TTHBL9"
+  },
+  {
+    "pos_transaction_id": "POS-1417925",
+    "merchant_name": "Netflix",
+    "card_last_four": "3163",
+    "amount_usd": 1848.99,
+    "timestamp": "2024-12-08T00:00:00Z",
+    "terminal_id": "TERM-752",
+    "auth_code": "M5TZS9"
+  },
+  {
+    "pos_transaction_id": "POS-9274985",
+    "merchant_name": "Starbucks",
+    "card_last_four": "9294",
+    "amount_usd": 1103.71,
+    "timestamp": "2023-07-18T00:00:00Z",
+    "terminal_id": "TERM-818",
+    "auth_code": "2OPTFG"
+  },
+  {
+    "pos_transaction_id": "POS-5260876",
+    "merchant_name": "Target",
+    "card_last_four": "6483",
+    "amount_usd": 17.63,
+    "timestamp": "2025-03-27T00:00:00Z",
+    "terminal_id": "TERM-517",
+    "auth_code": "KQ7902"
+  },
+  {
+    "pos_transaction_id": "POS-3326880",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6928",
+    "amount_usd": 1630.09,
+    "timestamp": "2024-08-22T00:00:00Z",
+    "terminal_id": "TERM-657",
+    "auth_code": "T268O2"
+  },
+  {
+    "pos_transaction_id": "POS-5527994",
+    "merchant_name": "Shell",
+    "card_last_four": "1417",
+    "amount_usd": 167.74,
+    "timestamp": "2023-11-04T00:00:00Z",
+    "terminal_id": "TERM-543",
+    "auth_code": "Y3FWZ9"
+  },
+  {
+    "pos_transaction_id": "POS-2698354",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7708",
+    "amount_usd": 106.51,
+    "timestamp": "2023-08-04T00:00:00Z",
+    "terminal_id": "TERM-506",
+    "auth_code": "GDV3V6"
+  },
+  {
+    "pos_transaction_id": "POS-7856905",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3967",
+    "amount_usd": 185.63,
+    "timestamp": "2023-11-30T00:00:00Z",
+    "terminal_id": "TERM-674",
+    "auth_code": "JGABH2"
+  },
+  {
+    "pos_transaction_id": "POS-1583412",
+    "merchant_name": "Uber",
+    "card_last_four": "3142",
+    "amount_usd": 563.19,
+    "timestamp": "2023-05-19T00:00:00Z",
+    "terminal_id": "TERM-319",
+    "auth_code": "GM6KX2"
+  },
+  {
+    "pos_transaction_id": "POS-7552696",
+    "merchant_name": "Starbucks",
+    "card_last_four": "3425",
+    "amount_usd": 1898.74,
+    "timestamp": "2025-12-23T00:00:00Z",
+    "terminal_id": "TERM-927",
+    "auth_code": "OE7GJ9"
+  },
+  {
+    "pos_transaction_id": "POS-3306980",
+    "merchant_name": "Apple",
+    "card_last_four": "4418",
+    "amount_usd": 137.51,
+    "timestamp": "2025-07-26T00:00:00Z",
+    "terminal_id": "TERM-982",
+    "auth_code": "URPBJF"
+  },
+  {
+    "pos_transaction_id": "POS-8430851",
+    "merchant_name": "Starbucks",
+    "card_last_four": "5718",
+    "amount_usd": 1463.26,
+    "timestamp": "2024-03-07T00:00:00Z",
+    "terminal_id": "TERM-586",
+    "auth_code": "CWYYHZ"
+  },
+  {
+    "pos_transaction_id": "POS-5265580",
+    "merchant_name": "Target",
+    "card_last_four": "2499",
+    "amount_usd": 199.42,
+    "timestamp": "2023-06-01T00:00:00Z",
+    "terminal_id": "TERM-125",
+    "auth_code": "QUCIPN"
+  },
+  {
+    "pos_transaction_id": "POS-3212485",
+    "merchant_name": "Uber",
+    "card_last_four": "1163",
+    "amount_usd": 989.74,
+    "timestamp": "2024-10-01T00:00:00Z",
+    "terminal_id": "TERM-296",
+    "auth_code": "SHUGE0"
+  },
+  {
+    "pos_transaction_id": "POS-3398723",
+    "merchant_name": "Starbucks",
+    "card_last_four": "9019",
+    "amount_usd": 114.46,
+    "timestamp": "2024-06-26T00:00:00Z",
+    "terminal_id": "TERM-783",
+    "auth_code": "6XUEEZ"
+  },
+  {
+    "pos_transaction_id": "POS-8065933",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5764",
+    "amount_usd": 100.07,
+    "timestamp": "2023-07-19T00:00:00Z",
+    "terminal_id": "TERM-128",
+    "auth_code": "KS8U3J"
+  },
+  {
+    "pos_transaction_id": "POS-4726104",
+    "merchant_name": "Lyft",
+    "card_last_four": "5601",
+    "amount_usd": 1573.61,
+    "timestamp": "2024-06-28T00:00:00Z",
+    "terminal_id": "TERM-820",
+    "auth_code": "ZNL6HR"
+  },
+  {
+    "pos_transaction_id": "POS-1705147",
+    "merchant_name": "Walmart",
+    "card_last_four": "3284",
+    "amount_usd": 1464.47,
+    "timestamp": "2025-10-22T00:00:00Z",
+    "terminal_id": "TERM-145",
+    "auth_code": "NI7RWW"
+  },
+  {
+    "pos_transaction_id": "POS-5583286",
+    "merchant_name": "Uber",
+    "card_last_four": "8660",
+    "amount_usd": 631.57,
+    "timestamp": "2025-09-04T00:00:00Z",
+    "terminal_id": "TERM-514",
+    "auth_code": "QPNPN7"
+  },
+  {
+    "pos_transaction_id": "POS-2556516",
+    "merchant_name": "Costco",
+    "card_last_four": "5959",
+    "amount_usd": 1405.54,
+    "timestamp": "2024-06-07T00:00:00Z",
+    "terminal_id": "TERM-205",
+    "auth_code": "OV90KA"
+  },
+  {
+    "pos_transaction_id": "POS-6062632",
+    "merchant_name": "Target",
+    "card_last_four": "3644",
+    "amount_usd": 222.1,
+    "timestamp": "2023-12-07T00:00:00Z",
+    "terminal_id": "TERM-818",
+    "auth_code": "JMZ5K9"
+  },
+  {
+    "pos_transaction_id": "POS-3013181",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7538",
+    "amount_usd": 191.08,
+    "timestamp": "2023-09-30T00:00:00Z",
+    "terminal_id": "TERM-116",
+    "auth_code": "KSLW4M"
+  },
+  {
+    "pos_transaction_id": "POS-2681780",
+    "merchant_name": "Uber",
+    "card_last_four": "4144",
+    "amount_usd": 845.51,
+    "timestamp": "2025-10-25T00:00:00Z",
+    "terminal_id": "TERM-177",
+    "auth_code": "1OCVD6"
+  },
+  {
+    "pos_transaction_id": "POS-7924597",
+    "merchant_name": "Shell",
+    "card_last_four": "4350",
+    "amount_usd": 1239.27,
+    "timestamp": "2025-09-12T00:00:00Z",
+    "terminal_id": "TERM-690",
+    "auth_code": "1BQT1D"
+  },
+  {
+    "pos_transaction_id": "POS-9354013",
+    "merchant_name": "Shell",
+    "card_last_four": "1587",
+    "amount_usd": 1937.12,
+    "timestamp": "2023-04-12T00:00:00Z",
+    "terminal_id": "TERM-704",
+    "auth_code": "LX89J8"
+  },
+  {
+    "pos_transaction_id": "POS-4514561",
+    "merchant_name": "McDonalds",
+    "card_last_four": "5509",
+    "amount_usd": 75.7,
+    "timestamp": "2023-08-18T00:00:00Z",
+    "terminal_id": "TERM-842",
+    "auth_code": "Z6G0YB"
+  },
+  {
+    "pos_transaction_id": "POS-6390789",
+    "merchant_name": "Amazon",
+    "card_last_four": "4132",
+    "amount_usd": 1981.12,
+    "timestamp": "2024-11-12T00:00:00Z",
+    "terminal_id": "TERM-202",
+    "auth_code": "F14M6M"
+  },
+  {
+    "pos_transaction_id": "POS-3900066",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2148",
+    "amount_usd": 1215.57,
+    "timestamp": "2025-01-24T00:00:00Z",
+    "terminal_id": "TERM-549",
+    "auth_code": "EOL2NB"
+  },
+  {
+    "pos_transaction_id": "POS-2831648",
+    "merchant_name": "Lyft",
+    "card_last_four": "8706",
+    "amount_usd": 1534.51,
+    "timestamp": "2023-06-26T00:00:00Z",
+    "terminal_id": "TERM-309",
+    "auth_code": "EBIYHH"
+  },
+  {
+    "pos_transaction_id": "POS-5814136",
+    "merchant_name": "Starbucks",
+    "card_last_four": "2984",
+    "amount_usd": 940.02,
+    "timestamp": "2023-05-26T00:00:00Z",
+    "terminal_id": "TERM-259",
+    "auth_code": "3XML4T"
+  },
+  {
+    "pos_transaction_id": "POS-2669383",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7691",
+    "amount_usd": 1106.52,
+    "timestamp": "2023-05-10T00:00:00Z",
+    "terminal_id": "TERM-282",
+    "auth_code": "NEIAEH"
+  },
+  {
+    "pos_transaction_id": "POS-6873626",
+    "merchant_name": "Amazon",
+    "card_last_four": "4344",
+    "amount_usd": 725.68,
+    "timestamp": "2024-06-11T00:00:00Z",
+    "terminal_id": "TERM-742",
+    "auth_code": "VOQDXF"
+  },
+  {
+    "pos_transaction_id": "POS-2249935",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4025",
+    "amount_usd": 621.31,
+    "timestamp": "2024-02-20T00:00:00Z",
+    "terminal_id": "TERM-361",
+    "auth_code": "ZNZEV8"
+  },
+  {
+    "pos_transaction_id": "POS-3991958",
+    "merchant_name": "Walmart",
+    "card_last_four": "6482",
+    "amount_usd": 454.76,
+    "timestamp": "2025-02-11T00:00:00Z",
+    "terminal_id": "TERM-382",
+    "auth_code": "8J1A4K"
+  },
+  {
+    "pos_transaction_id": "POS-3199838",
+    "merchant_name": "Amazon",
+    "card_last_four": "6623",
+    "amount_usd": 1437.58,
+    "timestamp": "2023-08-20T00:00:00Z",
+    "terminal_id": "TERM-666",
+    "auth_code": "JUJQHH"
+  },
+  {
+    "pos_transaction_id": "POS-1467153",
+    "merchant_name": "Apple",
+    "card_last_four": "5853",
+    "amount_usd": 1031.92,
+    "timestamp": "2023-05-07T00:00:00Z",
+    "terminal_id": "TERM-306",
+    "auth_code": "4GI8IP"
+  },
+  {
+    "pos_transaction_id": "POS-2057139",
+    "merchant_name": "Apple",
+    "card_last_four": "6736",
+    "amount_usd": 223.0,
+    "timestamp": "2024-07-17T00:00:00Z",
+    "terminal_id": "TERM-130",
+    "auth_code": "YQMNF8"
+  },
+  {
+    "pos_transaction_id": "POS-9567454",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4911",
+    "amount_usd": 1013.02,
+    "timestamp": "2024-06-18T00:00:00Z",
+    "terminal_id": "TERM-671",
+    "auth_code": "064NF6"
+  },
+  {
+    "pos_transaction_id": "POS-9743967",
+    "merchant_name": "Apple",
+    "card_last_four": "1034",
+    "amount_usd": 1845.1,
+    "timestamp": "2024-11-28T00:00:00Z",
+    "terminal_id": "TERM-104",
+    "auth_code": "RHZVRE"
+  },
+  {
+    "pos_transaction_id": "POS-9872495",
+    "merchant_name": "Shell",
+    "card_last_four": "7330",
+    "amount_usd": 1956.59,
+    "timestamp": "2024-05-27T00:00:00Z",
+    "terminal_id": "TERM-354",
+    "auth_code": "NOG6HV"
+  },
+  {
+    "pos_transaction_id": "POS-3995078",
+    "merchant_name": "Home Depot",
+    "card_last_four": "9504",
+    "amount_usd": 793.66,
+    "timestamp": "2025-04-08T00:00:00Z",
+    "terminal_id": "TERM-309",
+    "auth_code": "TQLAYG"
+  },
+  {
+    "pos_transaction_id": "POS-4302727",
+    "merchant_name": "Home Depot",
+    "card_last_four": "6875",
+    "amount_usd": 1216.18,
+    "timestamp": "2024-08-11T00:00:00Z",
+    "terminal_id": "TERM-917",
+    "auth_code": "06IJ69"
+  },
+  {
+    "pos_transaction_id": "POS-3501388",
+    "merchant_name": "Netflix",
+    "card_last_four": "9375",
+    "amount_usd": 241.68,
+    "timestamp": "2025-11-14T00:00:00Z",
+    "terminal_id": "TERM-459",
+    "auth_code": "5NW3AB"
+  },
+  {
+    "pos_transaction_id": "POS-5724395",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8541",
+    "amount_usd": 930.11,
+    "timestamp": "2025-08-09T00:00:00Z",
+    "terminal_id": "TERM-119",
+    "auth_code": "NTHMS7"
+  },
+  {
+    "pos_transaction_id": "POS-5498605",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5652",
+    "amount_usd": 1859.36,
+    "timestamp": "2023-11-14T00:00:00Z",
+    "terminal_id": "TERM-337",
+    "auth_code": "61OSHV"
+  },
+  {
+    "pos_transaction_id": "POS-7532672",
+    "merchant_name": "Amazon",
+    "card_last_four": "7422",
+    "amount_usd": 1400.07,
+    "timestamp": "2024-04-01T00:00:00Z",
+    "terminal_id": "TERM-993",
+    "auth_code": "PTFWVV"
+  },
+  {
+    "pos_transaction_id": "POS-9427131",
+    "merchant_name": "Lyft",
+    "card_last_four": "8712",
+    "amount_usd": 557.94,
+    "timestamp": "2025-08-21T00:00:00Z",
+    "terminal_id": "TERM-909",
+    "auth_code": "JMZZAG"
+  },
+  {
+    "pos_transaction_id": "POS-7901963",
+    "merchant_name": "Netflix",
+    "card_last_four": "7316",
+    "amount_usd": 721.83,
+    "timestamp": "2023-09-07T00:00:00Z",
+    "terminal_id": "TERM-287",
+    "auth_code": "R357EW"
+  },
+  {
+    "pos_transaction_id": "POS-5946582",
+    "merchant_name": "Shell",
+    "card_last_four": "5663",
+    "amount_usd": 1039.86,
+    "timestamp": "2025-04-24T00:00:00Z",
+    "terminal_id": "TERM-233",
+    "auth_code": "QE0MCW"
+  },
+  {
+    "pos_transaction_id": "POS-2856471",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4724",
+    "amount_usd": 799.13,
+    "timestamp": "2024-06-23T00:00:00Z",
+    "terminal_id": "TERM-417",
+    "auth_code": "YQUESK"
+  },
+  {
+    "pos_transaction_id": "POS-1727629",
+    "merchant_name": "Home Depot",
+    "card_last_four": "2904",
+    "amount_usd": 1594.9,
+    "timestamp": "2024-09-27T00:00:00Z",
+    "terminal_id": "TERM-557",
+    "auth_code": "2AGHY2"
+  },
+  {
+    "pos_transaction_id": "POS-8915168",
+    "merchant_name": "Lyft",
+    "card_last_four": "3345",
+    "amount_usd": 706.41,
+    "timestamp": "2023-08-14T00:00:00Z",
+    "terminal_id": "TERM-976",
+    "auth_code": "TYSY6G"
+  },
+  {
+    "pos_transaction_id": "POS-2967127",
+    "merchant_name": "Lyft",
+    "card_last_four": "9307",
+    "amount_usd": 1692.47,
+    "timestamp": "2025-06-24T00:00:00Z",
+    "terminal_id": "TERM-370",
+    "auth_code": "MWDGT7"
+  },
+  {
+    "pos_transaction_id": "POS-2944283",
+    "merchant_name": "Target",
+    "card_last_four": "2789",
+    "amount_usd": 1272.35,
+    "timestamp": "2025-02-02T00:00:00Z",
+    "terminal_id": "TERM-790",
+    "auth_code": "961WLP"
+  },
+  {
+    "pos_transaction_id": "POS-8108775",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4754",
+    "amount_usd": 783.68,
+    "timestamp": "2025-02-05T00:00:00Z",
+    "terminal_id": "TERM-227",
+    "auth_code": "4H1AQZ"
+  },
+  {
+    "pos_transaction_id": "POS-8602613",
+    "merchant_name": "Walmart",
+    "card_last_four": "3671",
+    "amount_usd": 726.18,
+    "timestamp": "2024-01-30T00:00:00Z",
+    "terminal_id": "TERM-485",
+    "auth_code": "2G0E7H"
+  },
+  {
+    "pos_transaction_id": "POS-9629901",
+    "merchant_name": "Walmart",
+    "card_last_four": "4936",
+    "amount_usd": 1946.67,
+    "timestamp": "2025-01-23T00:00:00Z",
+    "terminal_id": "TERM-731",
+    "auth_code": "WQ9XC2"
+  },
+  {
+    "pos_transaction_id": "POS-4053906",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5324",
+    "amount_usd": 749.28,
+    "timestamp": "2025-06-04T00:00:00Z",
+    "terminal_id": "TERM-370",
+    "auth_code": "BNUG3N"
+  },
+  {
+    "pos_transaction_id": "POS-9603843",
+    "merchant_name": "Netflix",
+    "card_last_four": "6150",
+    "amount_usd": 1551.21,
+    "timestamp": "2023-05-10T00:00:00Z",
+    "terminal_id": "TERM-466",
+    "auth_code": "FGFP2G"
+  },
+  {
+    "pos_transaction_id": "POS-6958167",
+    "merchant_name": "Netflix",
+    "card_last_four": "6237",
+    "amount_usd": 1826.6,
+    "timestamp": "2024-08-03T00:00:00Z",
+    "terminal_id": "TERM-962",
+    "auth_code": "KFBK90"
+  },
+  {
+    "pos_transaction_id": "POS-3982812",
+    "merchant_name": "Uber",
+    "card_last_four": "2812",
+    "amount_usd": 372.44,
+    "timestamp": "2025-07-15T00:00:00Z",
+    "terminal_id": "TERM-616",
+    "auth_code": "X5UQIN"
+  },
+  {
+    "pos_transaction_id": "POS-8649557",
+    "merchant_name": "Amazon",
+    "card_last_four": "8019",
+    "amount_usd": 1493.0,
+    "timestamp": "2024-04-27T00:00:00Z",
+    "terminal_id": "TERM-249",
+    "auth_code": "HACD90"
+  },
+  {
+    "pos_transaction_id": "POS-9002678",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4095",
+    "amount_usd": 266.01,
+    "timestamp": "2024-12-30T00:00:00Z",
+    "terminal_id": "TERM-483",
+    "auth_code": "XE4E5Y"
+  },
+  {
+    "pos_transaction_id": "POS-5528991",
+    "merchant_name": "Netflix",
+    "card_last_four": "7167",
+    "amount_usd": 411.07,
+    "timestamp": "2025-08-26T00:00:00Z",
+    "terminal_id": "TERM-389",
+    "auth_code": "3BXHO8"
+  },
+  {
+    "pos_transaction_id": "POS-8171649",
+    "merchant_name": "Lyft",
+    "card_last_four": "1883",
+    "amount_usd": 255.82,
+    "timestamp": "2025-11-23T00:00:00Z",
+    "terminal_id": "TERM-741",
+    "auth_code": "S3YMS6"
+  },
+  {
+    "pos_transaction_id": "POS-6598171",
+    "merchant_name": "Costco",
+    "card_last_four": "2093",
+    "amount_usd": 1063.33,
+    "timestamp": "2023-02-10T00:00:00Z",
+    "terminal_id": "TERM-664",
+    "auth_code": "OTGSWO"
+  },
+  {
+    "pos_transaction_id": "POS-8484616",
+    "merchant_name": "Target",
+    "card_last_four": "8571",
+    "amount_usd": 546.04,
+    "timestamp": "2023-09-10T00:00:00Z",
+    "terminal_id": "TERM-527",
+    "auth_code": "CIKANU"
+  },
+  {
+    "pos_transaction_id": "POS-9860683",
+    "merchant_name": "Apple",
+    "card_last_four": "1459",
+    "amount_usd": 1680.97,
+    "timestamp": "2023-12-20T00:00:00Z",
+    "terminal_id": "TERM-481",
+    "auth_code": "DDVYYQ"
+  },
+  {
+    "pos_transaction_id": "POS-1253245",
+    "merchant_name": "Amazon",
+    "card_last_four": "8810",
+    "amount_usd": 100.41,
+    "timestamp": "2024-11-24T00:00:00Z",
+    "terminal_id": "TERM-373",
+    "auth_code": "89B8R9"
+  },
+  {
+    "pos_transaction_id": "POS-6374617",
+    "merchant_name": "Costco",
+    "card_last_four": "5716",
+    "amount_usd": 1936.32,
+    "timestamp": "2023-12-22T00:00:00Z",
+    "terminal_id": "TERM-208",
+    "auth_code": "D4LM4J"
+  },
+  {
+    "pos_transaction_id": "POS-3306355",
+    "merchant_name": "Apple",
+    "card_last_four": "4022",
+    "amount_usd": 108.61,
+    "timestamp": "2023-03-03T00:00:00Z",
+    "terminal_id": "TERM-470",
+    "auth_code": "TE7696"
+  },
+  {
+    "pos_transaction_id": "POS-4197257",
+    "merchant_name": "Walmart",
+    "card_last_four": "2221",
+    "amount_usd": 1537.06,
+    "timestamp": "2024-12-19T00:00:00Z",
+    "terminal_id": "TERM-752",
+    "auth_code": "WW4E2F"
+  },
+  {
+    "pos_transaction_id": "POS-5410643",
+    "merchant_name": "Shell",
+    "card_last_four": "1897",
+    "amount_usd": 1663.26,
+    "timestamp": "2024-02-25T00:00:00Z",
+    "terminal_id": "TERM-663",
+    "auth_code": "UB2RC0"
+  },
+  {
+    "pos_transaction_id": "POS-9191271",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7277",
+    "amount_usd": 1615.77,
+    "timestamp": "2024-03-20T00:00:00Z",
+    "terminal_id": "TERM-112",
+    "auth_code": "XUC1P7"
+  },
+  {
+    "pos_transaction_id": "POS-8042683",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1458",
+    "amount_usd": 710.25,
+    "timestamp": "2023-05-03T00:00:00Z",
+    "terminal_id": "TERM-190",
+    "auth_code": "TG0AZD"
+  },
+  {
+    "pos_transaction_id": "POS-5705191",
+    "merchant_name": "Amazon",
+    "card_last_four": "8443",
+    "amount_usd": 1240.98,
+    "timestamp": "2024-08-24T00:00:00Z",
+    "terminal_id": "TERM-379",
+    "auth_code": "HSU1GI"
+  },
+  {
+    "pos_transaction_id": "POS-4190182",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3399",
+    "amount_usd": 1728.55,
+    "timestamp": "2025-07-19T00:00:00Z",
+    "terminal_id": "TERM-543",
+    "auth_code": "D6MFXC"
+  },
+  {
+    "pos_transaction_id": "POS-5370628",
+    "merchant_name": "Walmart",
+    "card_last_four": "5809",
+    "amount_usd": 1757.09,
+    "timestamp": "2024-05-23T00:00:00Z",
+    "terminal_id": "TERM-943",
+    "auth_code": "7E0U5N"
+  },
+  {
+    "pos_transaction_id": "POS-6501969",
+    "merchant_name": "Lyft",
+    "card_last_four": "3858",
+    "amount_usd": 943.97,
+    "timestamp": "2024-03-24T00:00:00Z",
+    "terminal_id": "TERM-649",
+    "auth_code": "H8XW2T"
+  },
+  {
+    "pos_transaction_id": "POS-1451281",
+    "merchant_name": "Home Depot",
+    "card_last_four": "7705",
+    "amount_usd": 1938.57,
+    "timestamp": "2025-04-15T00:00:00Z",
+    "terminal_id": "TERM-725",
+    "auth_code": "J1S4P8"
+  },
+  {
+    "pos_transaction_id": "POS-2352637",
+    "merchant_name": "Uber",
+    "card_last_four": "7140",
+    "amount_usd": 983.8,
+    "timestamp": "2024-03-16T00:00:00Z",
+    "terminal_id": "TERM-781",
+    "auth_code": "VLD8I0"
+  },
+  {
+    "pos_transaction_id": "POS-5278214",
+    "merchant_name": "Uber",
+    "card_last_four": "4566",
+    "amount_usd": 10.89,
+    "timestamp": "2024-06-09T00:00:00Z",
+    "terminal_id": "TERM-767",
+    "auth_code": "ZLQ3JV"
+  },
+  {
+    "pos_transaction_id": "POS-3829248",
+    "merchant_name": "Costco",
+    "card_last_four": "1956",
+    "amount_usd": 961.15,
+    "timestamp": "2023-05-07T00:00:00Z",
+    "terminal_id": "TERM-996",
+    "auth_code": "R52X37"
+  },
+  {
+    "pos_transaction_id": "POS-3508712",
+    "merchant_name": "Netflix",
+    "card_last_four": "7912",
+    "amount_usd": 27.17,
+    "timestamp": "2023-03-06T00:00:00Z",
+    "terminal_id": "TERM-176",
+    "auth_code": "9SQ49B"
+  },
+  {
+    "pos_transaction_id": "POS-2632397",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4588",
+    "amount_usd": 946.08,
+    "timestamp": "2023-05-29T00:00:00Z",
+    "terminal_id": "TERM-156",
+    "auth_code": "EBQSXJ"
+  },
+  {
+    "pos_transaction_id": "POS-5282661",
+    "merchant_name": "Shell",
+    "card_last_four": "4773",
+    "amount_usd": 1549.59,
+    "timestamp": "2024-06-02T00:00:00Z",
+    "terminal_id": "TERM-963",
+    "auth_code": "YMQD3Y"
+  },
+  {
+    "pos_transaction_id": "POS-2272727",
+    "merchant_name": "Walmart",
+    "card_last_four": "1124",
+    "amount_usd": 1136.96,
+    "timestamp": "2024-11-10T00:00:00Z",
+    "terminal_id": "TERM-470",
+    "auth_code": "0YEM1X"
+  },
+  {
+    "pos_transaction_id": "POS-2188761",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6594",
+    "amount_usd": 714.05,
+    "timestamp": "2023-09-29T00:00:00Z",
+    "terminal_id": "TERM-407",
+    "auth_code": "2G5AAT"
+  },
+  {
+    "pos_transaction_id": "POS-9742145",
+    "merchant_name": "Lyft",
+    "card_last_four": "8724",
+    "amount_usd": 1284.66,
+    "timestamp": "2025-11-15T00:00:00Z",
+    "terminal_id": "TERM-405",
+    "auth_code": "0DI6FG"
+  },
+  {
+    "pos_transaction_id": "POS-6468248",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4111",
+    "amount_usd": 157.29,
+    "timestamp": "2025-01-25T00:00:00Z",
+    "terminal_id": "TERM-873",
+    "auth_code": "KIKU0Z"
+  },
+  {
+    "pos_transaction_id": "POS-4369193",
+    "merchant_name": "Target",
+    "card_last_four": "8592",
+    "amount_usd": 832.96,
+    "timestamp": "2025-10-05T00:00:00Z",
+    "terminal_id": "TERM-828",
+    "auth_code": "4V90I8"
+  },
+  {
+    "pos_transaction_id": "POS-5145145",
+    "merchant_name": "Walmart",
+    "card_last_four": "2595",
+    "amount_usd": 19.7,
+    "timestamp": "2025-07-13T00:00:00Z",
+    "terminal_id": "TERM-274",
+    "auth_code": "3L329L"
+  },
+  {
+    "pos_transaction_id": "POS-4496745",
+    "merchant_name": "Shell",
+    "card_last_four": "9909",
+    "amount_usd": 628.06,
+    "timestamp": "2024-03-25T00:00:00Z",
+    "terminal_id": "TERM-811",
+    "auth_code": "9YWUBA"
+  },
+  {
+    "pos_transaction_id": "POS-8240725",
+    "merchant_name": "Apple",
+    "card_last_four": "3201",
+    "amount_usd": 455.4,
+    "timestamp": "2024-06-26T00:00:00Z",
+    "terminal_id": "TERM-569",
+    "auth_code": "137S9D"
+  },
+  {
+    "pos_transaction_id": "POS-3423475",
+    "merchant_name": "Walmart",
+    "card_last_four": "1769",
+    "amount_usd": 879.03,
+    "timestamp": "2025-10-30T00:00:00Z",
+    "terminal_id": "TERM-975",
+    "auth_code": "1YL9UN"
+  },
+  {
+    "pos_transaction_id": "POS-9982510",
+    "merchant_name": "Lyft",
+    "card_last_four": "8588",
+    "amount_usd": 1988.22,
+    "timestamp": "2024-10-13T00:00:00Z",
+    "terminal_id": "TERM-146",
+    "auth_code": "JNY6OZ"
+  },
+  {
+    "pos_transaction_id": "POS-9028095",
+    "merchant_name": "Home Depot",
+    "card_last_four": "5089",
+    "amount_usd": 262.83,
+    "timestamp": "2025-04-12T00:00:00Z",
+    "terminal_id": "TERM-482",
+    "auth_code": "5VN672"
+  },
+  {
+    "pos_transaction_id": "POS-8877745",
+    "merchant_name": "Costco",
+    "card_last_four": "9117",
+    "amount_usd": 1678.44,
+    "timestamp": "2023-12-27T00:00:00Z",
+    "terminal_id": "TERM-314",
+    "auth_code": "TMEFO4"
+  },
+  {
+    "pos_transaction_id": "POS-4017955",
+    "merchant_name": "Uber",
+    "card_last_four": "7298",
+    "amount_usd": 1344.48,
+    "timestamp": "2025-06-11T00:00:00Z",
+    "terminal_id": "TERM-495",
+    "auth_code": "S1GIGU"
+  },
+  {
+    "pos_transaction_id": "POS-5455111",
+    "merchant_name": "Target",
+    "card_last_four": "7504",
+    "amount_usd": 1084.79,
+    "timestamp": "2023-05-01T00:00:00Z",
+    "terminal_id": "TERM-856",
+    "auth_code": "YK3WW8"
+  },
+  {
+    "pos_transaction_id": "POS-9492425",
+    "merchant_name": "Netflix",
+    "card_last_four": "6436",
+    "amount_usd": 1874.9,
+    "timestamp": "2025-04-05T00:00:00Z",
+    "terminal_id": "TERM-719",
+    "auth_code": "V59CC3"
+  },
+  {
+    "pos_transaction_id": "POS-4164453",
+    "merchant_name": "Home Depot",
+    "card_last_four": "1517",
+    "amount_usd": 1842.4,
+    "timestamp": "2024-04-14T00:00:00Z",
+    "terminal_id": "TERM-404",
+    "auth_code": "ERLH8T"
+  },
+  {
+    "pos_transaction_id": "POS-7984341",
+    "merchant_name": "Starbucks",
+    "card_last_four": "6735",
+    "amount_usd": 1496.4,
+    "timestamp": "2024-12-10T00:00:00Z",
+    "terminal_id": "TERM-390",
+    "auth_code": "LGA1Y1"
+  },
+  {
+    "pos_transaction_id": "POS-2619672",
+    "merchant_name": "McDonalds",
+    "card_last_four": "4534",
+    "amount_usd": 184.38,
+    "timestamp": "2024-08-19T00:00:00Z",
+    "terminal_id": "TERM-842",
+    "auth_code": "XZN14R"
+  },
+  {
+    "pos_transaction_id": "POS-2046941",
+    "merchant_name": "Costco",
+    "card_last_four": "4587",
+    "amount_usd": 881.82,
+    "timestamp": "2023-04-19T00:00:00Z",
+    "terminal_id": "TERM-116",
+    "auth_code": "J4P2E0"
+  },
+  {
+    "pos_transaction_id": "POS-8141830",
+    "merchant_name": "Lyft",
+    "card_last_four": "7466",
+    "amount_usd": 43.94,
+    "timestamp": "2023-03-22T00:00:00Z",
+    "terminal_id": "TERM-993",
+    "auth_code": "YSYTLV"
+  },
+  {
+    "pos_transaction_id": "POS-3210709",
+    "merchant_name": "Home Depot",
+    "card_last_four": "2585",
+    "amount_usd": 1255.02,
+    "timestamp": "2023-01-14T00:00:00Z",
+    "terminal_id": "TERM-153",
+    "auth_code": "SSA3J8"
+  },
+  {
+    "pos_transaction_id": "POS-6528183",
+    "merchant_name": "Costco",
+    "card_last_four": "1292",
+    "amount_usd": 1923.19,
+    "timestamp": "2025-09-04T00:00:00Z",
+    "terminal_id": "TERM-674",
+    "auth_code": "7QQF4P"
+  },
+  {
+    "pos_transaction_id": "POS-8465751",
+    "merchant_name": "Costco",
+    "card_last_four": "5569",
+    "amount_usd": 1238.95,
+    "timestamp": "2025-03-12T00:00:00Z",
+    "terminal_id": "TERM-981",
+    "auth_code": "S8PC0Z"
+  },
+  {
+    "pos_transaction_id": "POS-9878828",
+    "merchant_name": "Shell",
+    "card_last_four": "6285",
+    "amount_usd": 1517.97,
+    "timestamp": "2023-04-02T00:00:00Z",
+    "terminal_id": "TERM-689",
+    "auth_code": "CKNC62"
+  },
+  {
+    "pos_transaction_id": "POS-2853625",
+    "merchant_name": "Target",
+    "card_last_four": "8227",
+    "amount_usd": 131.26,
+    "timestamp": "2023-12-12T00:00:00Z",
+    "terminal_id": "TERM-717",
+    "auth_code": "8LORSQ"
+  },
+  {
+    "pos_transaction_id": "POS-9474876",
+    "merchant_name": "Costco",
+    "card_last_four": "8775",
+    "amount_usd": 281.5,
+    "timestamp": "2025-05-31T00:00:00Z",
+    "terminal_id": "TERM-127",
+    "auth_code": "91JXLJ"
+  },
+  {
+    "pos_transaction_id": "POS-5134725",
+    "merchant_name": "Costco",
+    "card_last_four": "3196",
+    "amount_usd": 1332.15,
+    "timestamp": "2023-06-10T00:00:00Z",
+    "terminal_id": "TERM-667",
+    "auth_code": "DVOJ5I"
+  },
+  {
+    "pos_transaction_id": "POS-6095271",
+    "merchant_name": "Lyft",
+    "card_last_four": "4961",
+    "amount_usd": 1767.92,
+    "timestamp": "2023-03-14T00:00:00Z",
+    "terminal_id": "TERM-999",
+    "auth_code": "FN7UYI"
+  },
+  {
+    "pos_transaction_id": "POS-1128277",
+    "merchant_name": "Shell",
+    "card_last_four": "2315",
+    "amount_usd": 1871.31,
+    "timestamp": "2024-05-05T00:00:00Z",
+    "terminal_id": "TERM-611",
+    "auth_code": "YFKKPD"
+  },
+  {
+    "pos_transaction_id": "POS-1585943",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2066",
+    "amount_usd": 1145.8,
+    "timestamp": "2023-05-11T00:00:00Z",
+    "terminal_id": "TERM-861",
+    "auth_code": "SCNTHF"
+  },
+  {
+    "pos_transaction_id": "POS-6439664",
+    "merchant_name": "Costco",
+    "card_last_four": "8010",
+    "amount_usd": 1981.79,
+    "timestamp": "2025-06-01T00:00:00Z",
+    "terminal_id": "TERM-892",
+    "auth_code": "EMYTUU"
+  },
+  {
+    "pos_transaction_id": "POS-4811831",
+    "merchant_name": "Apple",
+    "card_last_four": "5928",
+    "amount_usd": 1504.81,
+    "timestamp": "2023-04-27T00:00:00Z",
+    "terminal_id": "TERM-307",
+    "auth_code": "NCMK1X"
+  },
+  {
+    "pos_transaction_id": "POS-2635892",
+    "merchant_name": "Netflix",
+    "card_last_four": "2303",
+    "amount_usd": 261.73,
+    "timestamp": "2025-03-03T00:00:00Z",
+    "terminal_id": "TERM-164",
+    "auth_code": "LZCCXW"
+  },
+  {
+    "pos_transaction_id": "POS-4562316",
+    "merchant_name": "Netflix",
+    "card_last_four": "8449",
+    "amount_usd": 414.43,
+    "timestamp": "2024-05-06T00:00:00Z",
+    "terminal_id": "TERM-146",
+    "auth_code": "YBIF7S"
+  },
+  {
+    "pos_transaction_id": "POS-7017615",
+    "merchant_name": "Apple",
+    "card_last_four": "4722",
+    "amount_usd": 936.61,
+    "timestamp": "2025-06-28T00:00:00Z",
+    "terminal_id": "TERM-572",
+    "auth_code": "N8077X"
+  },
+  {
+    "pos_transaction_id": "POS-6167749",
+    "merchant_name": "Shell",
+    "card_last_four": "3259",
+    "amount_usd": 63.92,
+    "timestamp": "2023-02-14T00:00:00Z",
+    "terminal_id": "TERM-229",
+    "auth_code": "8M90GN"
+  },
+  {
+    "pos_transaction_id": "POS-2335689",
+    "merchant_name": "Costco",
+    "card_last_four": "4877",
+    "amount_usd": 1881.75,
+    "timestamp": "2024-09-04T00:00:00Z",
+    "terminal_id": "TERM-707",
+    "auth_code": "S5JLF7"
+  },
+  {
+    "pos_transaction_id": "POS-6431318",
+    "merchant_name": "Starbucks",
+    "card_last_four": "5188",
+    "amount_usd": 1618.67,
+    "timestamp": "2025-02-05T00:00:00Z",
+    "terminal_id": "TERM-273",
+    "auth_code": "S97J61"
+  },
+  {
+    "pos_transaction_id": "POS-3481396",
+    "merchant_name": "Shell",
+    "card_last_four": "6165",
+    "amount_usd": 1056.29,
+    "timestamp": "2024-02-20T00:00:00Z",
+    "terminal_id": "TERM-541",
+    "auth_code": "4I07HM"
+  },
+  {
+    "pos_transaction_id": "POS-4813104",
+    "merchant_name": "Walmart",
+    "card_last_four": "2276",
+    "amount_usd": 248.57,
+    "timestamp": "2023-07-23T00:00:00Z",
+    "terminal_id": "TERM-771",
+    "auth_code": "ZR7Z5P"
+  },
+  {
+    "pos_transaction_id": "POS-9583736",
+    "merchant_name": "Target",
+    "card_last_four": "3043",
+    "amount_usd": 1890.56,
+    "timestamp": "2023-04-21T00:00:00Z",
+    "terminal_id": "TERM-859",
+    "auth_code": "50G7CE"
+  },
+  {
+    "pos_transaction_id": "POS-9666422",
+    "merchant_name": "Uber",
+    "card_last_four": "1490",
+    "amount_usd": 1889.21,
+    "timestamp": "2023-08-01T00:00:00Z",
+    "terminal_id": "TERM-662",
+    "auth_code": "H0SVHH"
+  },
+  {
+    "pos_transaction_id": "POS-2060677",
+    "merchant_name": "Costco",
+    "card_last_four": "9458",
+    "amount_usd": 1611.05,
+    "timestamp": "2023-04-06T00:00:00Z",
+    "terminal_id": "TERM-719",
+    "auth_code": "CXU9P7"
+  },
+  {
+    "pos_transaction_id": "POS-1299973",
+    "merchant_name": "Netflix",
+    "card_last_four": "3510",
+    "amount_usd": 1124.22,
+    "timestamp": "2023-11-28T00:00:00Z",
+    "terminal_id": "TERM-516",
+    "auth_code": "XXSEEI"
+  },
+  {
+    "pos_transaction_id": "POS-9712448",
+    "merchant_name": "McDonalds",
+    "card_last_four": "3936",
+    "amount_usd": 1968.56,
+    "timestamp": "2024-10-12T00:00:00Z",
+    "terminal_id": "TERM-354",
+    "auth_code": "5NZA9S"
+  },
+  {
+    "pos_transaction_id": "POS-9153352",
+    "merchant_name": "Lyft",
+    "card_last_four": "8137",
+    "amount_usd": 1000.99,
+    "timestamp": "2025-07-14T00:00:00Z",
+    "terminal_id": "TERM-568",
+    "auth_code": "ORBKPJ"
+  },
+  {
+    "pos_transaction_id": "POS-6777704",
+    "merchant_name": "Uber",
+    "card_last_four": "9677",
+    "amount_usd": 1444.92,
+    "timestamp": "2024-02-13T00:00:00Z",
+    "terminal_id": "TERM-748",
+    "auth_code": "ZJJY8V"
+  },
+  {
+    "pos_transaction_id": "POS-1491256",
+    "merchant_name": "Target",
+    "card_last_four": "1662",
+    "amount_usd": 1615.23,
+    "timestamp": "2025-08-24T00:00:00Z",
+    "terminal_id": "TERM-481",
+    "auth_code": "JF3F6J"
+  },
+  {
+    "pos_transaction_id": "POS-2520660",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8596",
+    "amount_usd": 774.35,
+    "timestamp": "2023-03-17T00:00:00Z",
+    "terminal_id": "TERM-690",
+    "auth_code": "T4HOXV"
+  },
+  {
+    "pos_transaction_id": "POS-6634922",
+    "merchant_name": "Uber",
+    "card_last_four": "7416",
+    "amount_usd": 714.81,
+    "timestamp": "2023-08-09T00:00:00Z",
+    "terminal_id": "TERM-621",
+    "auth_code": "NYZDBI"
+  },
+  {
+    "pos_transaction_id": "POS-5230329",
+    "merchant_name": "Shell",
+    "card_last_four": "5541",
+    "amount_usd": 649.4,
+    "timestamp": "2024-07-09T00:00:00Z",
+    "terminal_id": "TERM-531",
+    "auth_code": "Q34XGO"
+  },
+  {
+    "pos_transaction_id": "POS-5371763",
+    "merchant_name": "Shell",
+    "card_last_four": "8289",
+    "amount_usd": 117.35,
+    "timestamp": "2024-03-22T00:00:00Z",
+    "terminal_id": "TERM-785",
+    "auth_code": "C7M3VO"
+  },
+  {
+    "pos_transaction_id": "POS-5888558",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7945",
+    "amount_usd": 778.59,
+    "timestamp": "2023-06-27T00:00:00Z",
+    "terminal_id": "TERM-631",
+    "auth_code": "Y7CY2Z"
+  },
+  {
+    "pos_transaction_id": "POS-3061779",
+    "merchant_name": "Amazon",
+    "card_last_four": "8919",
+    "amount_usd": 87.46,
+    "timestamp": "2025-08-21T00:00:00Z",
+    "terminal_id": "TERM-219",
+    "auth_code": "D57GHX"
+  },
+  {
+    "pos_transaction_id": "POS-1192997",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6746",
+    "amount_usd": 1042.52,
+    "timestamp": "2025-05-05T00:00:00Z",
+    "terminal_id": "TERM-974",
+    "auth_code": "MG129A"
+  },
+  {
+    "pos_transaction_id": "POS-5843634",
+    "merchant_name": "Costco",
+    "card_last_four": "8125",
+    "amount_usd": 38.14,
+    "timestamp": "2024-09-08T00:00:00Z",
+    "terminal_id": "TERM-852",
+    "auth_code": "JS9TZY"
+  },
+  {
+    "pos_transaction_id": "POS-9944385",
+    "merchant_name": "Walmart",
+    "card_last_four": "9122",
+    "amount_usd": 569.16,
+    "timestamp": "2023-05-16T00:00:00Z",
+    "terminal_id": "TERM-550",
+    "auth_code": "0PSEX2"
+  },
+  {
+    "pos_transaction_id": "POS-1609047",
+    "merchant_name": "Netflix",
+    "card_last_four": "8805",
+    "amount_usd": 1886.24,
+    "timestamp": "2023-01-25T00:00:00Z",
+    "terminal_id": "TERM-339",
+    "auth_code": "XBP8Z1"
+  },
+  {
+    "pos_transaction_id": "POS-8858366",
+    "merchant_name": "Starbucks",
+    "card_last_four": "7943",
+    "amount_usd": 875.74,
+    "timestamp": "2025-08-10T00:00:00Z",
+    "terminal_id": "TERM-356",
+    "auth_code": "HKAZQL"
+  },
+  {
+    "pos_transaction_id": "POS-1498657",
+    "merchant_name": "Walmart",
+    "card_last_four": "4268",
+    "amount_usd": 413.99,
+    "timestamp": "2024-11-21T00:00:00Z",
+    "terminal_id": "TERM-935",
+    "auth_code": "915909"
+  },
+  {
+    "pos_transaction_id": "POS-3249580",
+    "merchant_name": "Lyft",
+    "card_last_four": "8976",
+    "amount_usd": 1399.58,
+    "timestamp": "2025-08-20T00:00:00Z",
+    "terminal_id": "TERM-737",
+    "auth_code": "7ZD9M0"
+  },
+  {
+    "pos_transaction_id": "POS-3437183",
+    "merchant_name": "McDonalds",
+    "card_last_four": "3035",
+    "amount_usd": 1652.61,
+    "timestamp": "2023-02-11T00:00:00Z",
+    "terminal_id": "TERM-149",
+    "auth_code": "E048FH"
+  },
+  {
+    "pos_transaction_id": "POS-4490189",
+    "merchant_name": "Walmart",
+    "card_last_four": "1753",
+    "amount_usd": 890.43,
+    "timestamp": "2023-12-13T00:00:00Z",
+    "terminal_id": "TERM-909",
+    "auth_code": "SZ7QST"
+  },
+  {
+    "pos_transaction_id": "POS-3366173",
+    "merchant_name": "Amazon",
+    "card_last_four": "7091",
+    "amount_usd": 1678.26,
+    "timestamp": "2025-05-07T00:00:00Z",
+    "terminal_id": "TERM-237",
+    "auth_code": "AZDP5G"
+  },
+  {
+    "pos_transaction_id": "POS-7698946",
+    "merchant_name": "Costco",
+    "card_last_four": "5971",
+    "amount_usd": 93.36,
+    "timestamp": "2023-12-04T00:00:00Z",
+    "terminal_id": "TERM-899",
+    "auth_code": "SDU3PJ"
+  },
+  {
+    "pos_transaction_id": "POS-9440339",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3069",
+    "amount_usd": 926.88,
+    "timestamp": "2023-06-02T00:00:00Z",
+    "terminal_id": "TERM-762",
+    "auth_code": "M60DGD"
+  },
+  {
+    "pos_transaction_id": "POS-9820003",
+    "merchant_name": "Target",
+    "card_last_four": "9820",
+    "amount_usd": 1121.15,
+    "timestamp": "2024-07-08T00:00:00Z",
+    "terminal_id": "TERM-243",
+    "auth_code": "QZJ2JI"
+  },
+  {
+    "pos_transaction_id": "POS-2751953",
+    "merchant_name": "Netflix",
+    "card_last_four": "9661",
+    "amount_usd": 804.39,
+    "timestamp": "2025-07-03T00:00:00Z",
+    "terminal_id": "TERM-650",
+    "auth_code": "1LK84K"
+  },
+  {
+    "pos_transaction_id": "POS-2863004",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8326",
+    "amount_usd": 370.92,
+    "timestamp": "2025-08-01T00:00:00Z",
+    "terminal_id": "TERM-370",
+    "auth_code": "70VH5X"
+  },
+  {
+    "pos_transaction_id": "POS-8418843",
+    "merchant_name": "Walmart",
+    "card_last_four": "3097",
+    "amount_usd": 496.29,
+    "timestamp": "2023-02-22T00:00:00Z",
+    "terminal_id": "TERM-534",
+    "auth_code": "PDFDM7"
+  },
+  {
+    "pos_transaction_id": "POS-4681354",
+    "merchant_name": "Apple",
+    "card_last_four": "5017",
+    "amount_usd": 1178.63,
+    "timestamp": "2023-11-24T00:00:00Z",
+    "terminal_id": "TERM-705",
+    "auth_code": "QX7JD3"
+  },
+  {
+    "pos_transaction_id": "POS-9948353",
+    "merchant_name": "McDonalds",
+    "card_last_four": "2372",
+    "amount_usd": 433.93,
+    "timestamp": "2024-11-19T00:00:00Z",
+    "terminal_id": "TERM-376",
+    "auth_code": "HIU58O"
+  },
+  {
+    "pos_transaction_id": "POS-9484919",
+    "merchant_name": "Apple",
+    "card_last_four": "8401",
+    "amount_usd": 641.99,
+    "timestamp": "2023-09-19T00:00:00Z",
+    "terminal_id": "TERM-447",
+    "auth_code": "7ZSBAF"
+  },
+  {
+    "pos_transaction_id": "POS-9158613",
+    "merchant_name": "Uber",
+    "card_last_four": "9516",
+    "amount_usd": 1036.61,
+    "timestamp": "2023-01-08T00:00:00Z",
+    "terminal_id": "TERM-570",
+    "auth_code": "OAYOPX"
+  },
+  {
+    "pos_transaction_id": "POS-8419419",
+    "merchant_name": "Uber",
+    "card_last_four": "4352",
+    "amount_usd": 1645.51,
+    "timestamp": "2025-03-10T00:00:00Z",
+    "terminal_id": "TERM-679",
+    "auth_code": "0RT7NZ"
+  },
+  {
+    "pos_transaction_id": "POS-9708183",
+    "merchant_name": "Uber",
+    "card_last_four": "1680",
+    "amount_usd": 1429.44,
+    "timestamp": "2025-10-08T00:00:00Z",
+    "terminal_id": "TERM-680",
+    "auth_code": "RYTVGA"
+  },
+  {
+    "pos_transaction_id": "POS-4934690",
+    "merchant_name": "Home Depot",
+    "card_last_four": "4986",
+    "amount_usd": 1041.14,
+    "timestamp": "2025-11-13T00:00:00Z",
+    "terminal_id": "TERM-113",
+    "auth_code": "D1OEA0"
+  },
+  {
+    "pos_transaction_id": "POS-6608630",
+    "merchant_name": "Lyft",
+    "card_last_four": "3455",
+    "amount_usd": 1431.2,
+    "timestamp": "2023-06-17T00:00:00Z",
+    "terminal_id": "TERM-823",
+    "auth_code": "N1R57O"
+  },
+  {
+    "pos_transaction_id": "POS-3987058",
+    "merchant_name": "Target",
+    "card_last_four": "6389",
+    "amount_usd": 45.91,
+    "timestamp": "2024-01-31T00:00:00Z",
+    "terminal_id": "TERM-412",
+    "auth_code": "XQSSXS"
+  },
+  {
+    "pos_transaction_id": "POS-7280212",
+    "merchant_name": "Uber",
+    "card_last_four": "6426",
+    "amount_usd": 524.88,
+    "timestamp": "2023-01-24T00:00:00Z",
+    "terminal_id": "TERM-393",
+    "auth_code": "GBTUFK"
+  },
+  {
+    "pos_transaction_id": "POS-8596083",
+    "merchant_name": "Walmart",
+    "card_last_four": "5852",
+    "amount_usd": 1729.17,
+    "timestamp": "2024-03-28T00:00:00Z",
+    "terminal_id": "TERM-971",
+    "auth_code": "ZGSS2I"
+  },
+  {
+    "pos_transaction_id": "POS-3988323",
+    "merchant_name": "Lyft",
+    "card_last_four": "5465",
+    "amount_usd": 1215.48,
+    "timestamp": "2025-08-02T00:00:00Z",
+    "terminal_id": "TERM-648",
+    "auth_code": "TKB0UV"
+  },
+  {
+    "pos_transaction_id": "POS-6310271",
+    "merchant_name": "Apple",
+    "card_last_four": "4651",
+    "amount_usd": 1058.28,
+    "timestamp": "2025-05-08T00:00:00Z",
+    "terminal_id": "TERM-444",
+    "auth_code": "IQ4D7A"
+  },
+  {
+    "pos_transaction_id": "POS-2440717",
+    "merchant_name": "Shell",
+    "card_last_four": "9904",
+    "amount_usd": 1267.23,
+    "timestamp": "2023-10-08T00:00:00Z",
+    "terminal_id": "TERM-148",
+    "auth_code": "LA6FRB"
+  },
+  {
+    "pos_transaction_id": "POS-2410572",
+    "merchant_name": "Costco",
+    "card_last_four": "4125",
+    "amount_usd": 928.45,
+    "timestamp": "2023-12-12T00:00:00Z",
+    "terminal_id": "TERM-997",
+    "auth_code": "5CTAYJ"
+  },
+  {
+    "pos_transaction_id": "POS-4872168",
+    "merchant_name": "Netflix",
+    "card_last_four": "6932",
+    "amount_usd": 653.91,
+    "timestamp": "2023-10-31T00:00:00Z",
+    "terminal_id": "TERM-140",
+    "auth_code": "PVG91B"
+  },
+  {
+    "pos_transaction_id": "POS-3237856",
+    "merchant_name": "Lyft",
+    "card_last_four": "3096",
+    "amount_usd": 1602.71,
+    "timestamp": "2025-12-21T00:00:00Z",
+    "terminal_id": "TERM-406",
+    "auth_code": "J2VHW4"
+  },
+  {
+    "pos_transaction_id": "POS-9586109",
+    "merchant_name": "Shell",
+    "card_last_four": "6206",
+    "amount_usd": 1313.28,
+    "timestamp": "2023-01-01T00:00:00Z",
+    "terminal_id": "TERM-597",
+    "auth_code": "BEGJ35"
+  },
+  {
+    "pos_transaction_id": "POS-2654136",
+    "merchant_name": "Shell",
+    "card_last_four": "2787",
+    "amount_usd": 1936.68,
+    "timestamp": "2024-07-15T00:00:00Z",
+    "terminal_id": "TERM-226",
+    "auth_code": "SGKIZF"
+  },
+  {
+    "pos_transaction_id": "POS-2035717",
+    "merchant_name": "Walmart",
+    "card_last_four": "1417",
+    "amount_usd": 255.17,
+    "timestamp": "2025-02-02T00:00:00Z",
+    "terminal_id": "TERM-283",
+    "auth_code": "H0Z1EU"
+  },
+  {
+    "pos_transaction_id": "POS-6279702",
+    "merchant_name": "Netflix",
+    "card_last_four": "2972",
+    "amount_usd": 566.96,
+    "timestamp": "2023-10-06T00:00:00Z",
+    "terminal_id": "TERM-291",
+    "auth_code": "RLGDJ7"
+  },
+  {
+    "pos_transaction_id": "POS-7586121",
+    "merchant_name": "Walmart",
+    "card_last_four": "1858",
+    "amount_usd": 1381.16,
+    "timestamp": "2023-06-23T00:00:00Z",
+    "terminal_id": "TERM-186",
+    "auth_code": "V4MY8A"
+  },
+  {
+    "pos_transaction_id": "POS-9428973",
+    "merchant_name": "Lyft",
+    "card_last_four": "5868",
+    "amount_usd": 1999.95,
+    "timestamp": "2025-09-08T00:00:00Z",
+    "terminal_id": "TERM-909",
+    "auth_code": "G57T27"
+  },
+  {
+    "pos_transaction_id": "POS-6430275",
+    "merchant_name": "Walmart",
+    "card_last_four": "5991",
+    "amount_usd": 1375.67,
+    "timestamp": "2024-05-20T00:00:00Z",
+    "terminal_id": "TERM-225",
+    "auth_code": "WU725R"
+  },
+  {
+    "pos_transaction_id": "POS-1361561",
+    "merchant_name": "Lyft",
+    "card_last_four": "2738",
+    "amount_usd": 1189.58,
+    "timestamp": "2024-05-09T00:00:00Z",
+    "terminal_id": "TERM-771",
+    "auth_code": "04DM2H"
+  },
+  {
+    "pos_transaction_id": "POS-8298232",
+    "merchant_name": "Home Depot",
+    "card_last_four": "8305",
+    "amount_usd": 1998.98,
+    "timestamp": "2023-08-22T00:00:00Z",
+    "terminal_id": "TERM-180",
+    "auth_code": "YD778Y"
+  },
+  {
+    "pos_transaction_id": "POS-3301434",
+    "merchant_name": "Amazon",
+    "card_last_four": "7658",
+    "amount_usd": 525.47,
+    "timestamp": "2025-12-04T00:00:00Z",
+    "terminal_id": "TERM-456",
+    "auth_code": "NFWWWG"
+  },
+  {
+    "pos_transaction_id": "POS-9301110",
+    "merchant_name": "Costco",
+    "card_last_four": "8100",
+    "amount_usd": 1533.62,
+    "timestamp": "2023-12-28T00:00:00Z",
+    "terminal_id": "TERM-248",
+    "auth_code": "XY9VE9"
+  },
+  {
+    "pos_transaction_id": "POS-1861891",
+    "merchant_name": "Home Depot",
+    "card_last_four": "6167",
+    "amount_usd": 758.09,
+    "timestamp": "2023-09-16T00:00:00Z",
+    "terminal_id": "TERM-521",
+    "auth_code": "YQZ5P8"
+  },
+  {
+    "pos_transaction_id": "POS-3388133",
+    "merchant_name": "Apple",
+    "card_last_four": "6090",
+    "amount_usd": 1608.0,
+    "timestamp": "2023-05-27T00:00:00Z",
+    "terminal_id": "TERM-822",
+    "auth_code": "AIMUE2"
+  },
+  {
+    "pos_transaction_id": "POS-3769547",
+    "merchant_name": "Starbucks",
+    "card_last_four": "8448",
+    "amount_usd": 1611.85,
+    "timestamp": "2024-05-23T00:00:00Z",
+    "terminal_id": "TERM-569",
+    "auth_code": "YAU5S8"
+  },
+  {
+    "pos_transaction_id": "POS-2943309",
+    "merchant_name": "Uber",
+    "card_last_four": "3997",
+    "amount_usd": 1883.91,
+    "timestamp": "2025-06-13T00:00:00Z",
+    "terminal_id": "TERM-945",
+    "auth_code": "CY63FZ"
+  },
+  {
+    "pos_transaction_id": "POS-1756665",
+    "merchant_name": "Starbucks",
+    "card_last_four": "1229",
+    "amount_usd": 283.91,
+    "timestamp": "2024-08-14T00:00:00Z",
+    "terminal_id": "TERM-868",
+    "auth_code": "D52SJY"
+  },
+  {
+    "pos_transaction_id": "POS-6356389",
+    "merchant_name": "McDonalds",
+    "card_last_four": "3129",
+    "amount_usd": 332.76,
+    "timestamp": "2023-07-25T00:00:00Z",
+    "terminal_id": "TERM-916",
+    "auth_code": "TSWAAL"
+  },
+  {
+    "pos_transaction_id": "POS-8363070",
+    "merchant_name": "Netflix",
+    "card_last_four": "2064",
+    "amount_usd": 567.12,
+    "timestamp": "2024-01-16T00:00:00Z",
+    "terminal_id": "TERM-585",
+    "auth_code": "9M0K1Y"
+  },
+  {
+    "pos_transaction_id": "POS-3442482",
+    "merchant_name": "Uber",
+    "card_last_four": "3029",
+    "amount_usd": 341.34,
+    "timestamp": "2025-09-17T00:00:00Z",
+    "terminal_id": "TERM-676",
+    "auth_code": "SLIJ9I"
+  },
+  {
+    "pos_transaction_id": "POS-4496081",
+    "merchant_name": "Amazon",
+    "card_last_four": "3266",
+    "amount_usd": 835.58,
+    "timestamp": "2024-09-01T00:00:00Z",
+    "terminal_id": "TERM-564",
+    "auth_code": "SXHBZ6"
+  },
+  {
+    "pos_transaction_id": "POS-9445341",
+    "merchant_name": "Shell",
+    "card_last_four": "3502",
+    "amount_usd": 87.53,
+    "timestamp": "2023-04-13T00:00:00Z",
+    "terminal_id": "TERM-471",
+    "auth_code": "OMS9JB"
+  },
+  {
+    "pos_transaction_id": "POS-8333569",
+    "merchant_name": "Shell",
+    "card_last_four": "6973",
+    "amount_usd": 158.87,
+    "timestamp": "2025-01-03T00:00:00Z",
+    "terminal_id": "TERM-934",
+    "auth_code": "QJIVMB"
+  },
+  {
+    "pos_transaction_id": "POS-6046430",
+    "merchant_name": "Home Depot",
+    "card_last_four": "3295",
+    "amount_usd": 1510.11,
+    "timestamp": "2024-08-30T00:00:00Z",
+    "terminal_id": "TERM-117",
+    "auth_code": "VKN7D1"
+  },
+  {
+    "pos_transaction_id": "POS-2213962",
+    "merchant_name": "Walmart",
+    "card_last_four": "8417",
+    "amount_usd": 1777.67,
+    "timestamp": "2024-03-07T00:00:00Z",
+    "terminal_id": "TERM-684",
+    "auth_code": "47V66G"
+  },
+  {
+    "pos_transaction_id": "POS-4969349",
+    "merchant_name": "Target",
+    "card_last_four": "6489",
+    "amount_usd": 1334.73,
+    "timestamp": "2025-11-17T00:00:00Z",
+    "terminal_id": "TERM-570",
+    "auth_code": "9KP86V"
+  },
+  {
+    "pos_transaction_id": "POS-4683453",
+    "merchant_name": "Amazon",
+    "card_last_four": "5558",
+    "amount_usd": 1230.64,
+    "timestamp": "2025-04-20T00:00:00Z",
+    "terminal_id": "TERM-428",
+    "auth_code": "3MU2KP"
+  },
+  {
+    "pos_transaction_id": "POS-5782489",
+    "merchant_name": "Walmart",
+    "card_last_four": "8115",
+    "amount_usd": 395.28,
+    "timestamp": "2025-02-16T00:00:00Z",
+    "terminal_id": "TERM-666",
+    "auth_code": "3S7AZM"
+  },
+  {
+    "pos_transaction_id": "POS-6834105",
+    "merchant_name": "Walmart",
+    "card_last_four": "3689",
+    "amount_usd": 210.3,
+    "timestamp": "2023-11-26T00:00:00Z",
+    "terminal_id": "TERM-991",
+    "auth_code": "6V5NID"
+  },
+  {
+    "pos_transaction_id": "POS-8282419",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7048",
+    "amount_usd": 1657.76,
+    "timestamp": "2023-06-21T00:00:00Z",
+    "terminal_id": "TERM-958",
+    "auth_code": "NIW5A7"
+  },
+  {
+    "pos_transaction_id": "POS-4243991",
+    "merchant_name": "Costco",
+    "card_last_four": "6238",
+    "amount_usd": 1162.34,
+    "timestamp": "2024-08-27T00:00:00Z",
+    "terminal_id": "TERM-993",
+    "auth_code": "BM3AXW"
+  },
+  {
+    "pos_transaction_id": "POS-7766698",
+    "merchant_name": "Uber",
+    "card_last_four": "5681",
+    "amount_usd": 1698.8,
+    "timestamp": "2024-11-05T00:00:00Z",
+    "terminal_id": "TERM-370",
+    "auth_code": "7969M8"
+  },
+  {
+    "pos_transaction_id": "POS-9463079",
+    "merchant_name": "Costco",
+    "card_last_four": "7276",
+    "amount_usd": 1624.15,
+    "timestamp": "2023-10-26T00:00:00Z",
+    "terminal_id": "TERM-477",
+    "auth_code": "15JDO3"
+  },
+  {
+    "pos_transaction_id": "POS-7106123",
+    "merchant_name": "McDonalds",
+    "card_last_four": "7443",
+    "amount_usd": 1502.76,
+    "timestamp": "2025-05-17T00:00:00Z",
+    "terminal_id": "TERM-574",
+    "auth_code": "OAHNMO"
+  },
+  {
+    "pos_transaction_id": "POS-2942777",
+    "merchant_name": "Walmart",
+    "card_last_four": "1912",
+    "amount_usd": 845.43,
+    "timestamp": "2025-07-05T00:00:00Z",
+    "terminal_id": "TERM-943",
+    "auth_code": "OUVW8K"
+  },
+  {
+    "pos_transaction_id": "POS-3589029",
+    "merchant_name": "Costco",
+    "card_last_four": "6098",
+    "amount_usd": 567.48,
+    "timestamp": "2025-04-12T00:00:00Z",
+    "terminal_id": "TERM-533",
+    "auth_code": "VG6DOZ"
+  },
+  {
+    "pos_transaction_id": "POS-9332170",
+    "merchant_name": "Uber",
+    "card_last_four": "5660",
+    "amount_usd": 888.51,
+    "timestamp": "2024-02-27T00:00:00Z",
+    "terminal_id": "TERM-745",
+    "auth_code": "KRHZO7"
+  },
+  {
+    "pos_transaction_id": "POS-1892912",
+    "merchant_name": "Apple",
+    "card_last_four": "9810",
+    "amount_usd": 1886.27,
+    "timestamp": "2023-08-26T00:00:00Z",
+    "terminal_id": "TERM-589",
+    "auth_code": "NYNK9B"
+  },
+  {
+    "pos_transaction_id": "POS-2674678",
+    "merchant_name": "McDonalds",
+    "card_last_four": "6939",
+    "amount_usd": 1841.31,
+    "timestamp": "2024-11-03T00:00:00Z",
+    "terminal_id": "TERM-725",
+    "auth_code": "ZT6BYD"
+  },
+  {
+    "pos_transaction_id": "POS-7410192",
+    "merchant_name": "Starbucks",
+    "card_last_four": "9093",
+    "amount_usd": 753.42,
+    "timestamp": "2024-09-30T00:00:00Z",
+    "terminal_id": "TERM-635",
+    "auth_code": "YNQOP4"
+  },
+  {
+    "pos_transaction_id": "POS-7305408",
+    "merchant_name": "Costco",
+    "card_last_four": "3768",
+    "amount_usd": 1762.93,
+    "timestamp": "2024-02-22T00:00:00Z",
+    "terminal_id": "TERM-233",
+    "auth_code": "TPGR68"
+  },
+  {
+    "pos_transaction_id": "POS-2462709",
+    "merchant_name": "Apple",
+    "card_last_four": "4665",
+    "amount_usd": 820.79,
+    "timestamp": "2023-10-18T00:00:00Z",
+    "terminal_id": "TERM-865",
+    "auth_code": "89PIVN"
+  }
+]
