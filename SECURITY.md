@@ -1,21 +1,12 @@
 # Security Policy
 
-## Supported Versions
+If you find a security hole in **BabelLayer**, please don't open a public issue. 
 
-Only the latest `main` branch is currently supported for security updates.
+Email me directly at **[INSERT EMAIL]** with:
+1.  **What you found.**
+2.  **How you found it.**
+3.  **Its potential impact.**
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.x     | ✅                |
-| < 1.0   | ❌                |
+I'll try to respond within 48 hours and we'll work on a fix as soon as possible.
 
-## Reporting a Vulnerability
-
-If you discover a security vulnerability within **BabelLayer**, please follow these steps:
-
-1.  **Do not** disclose the vulnerability publicly. This includes creating GitHub issues or pull requests that expose the vulnerability.
-2.  Email the vulnerability details to **[INSERT EMAIL]**.
-3.  Include a detailed description of the vulnerability, steps to reproduce it, and its potential impact.
-4.  Wait for a response from the maintainers. We aim to acknowledge reports within 48 hours and provide a timeline for resolution as soon as possible.
-
-We appreciate your help in keeping **BabelLayer** secure.
+Thanks for helping keep BabelLayer safe!

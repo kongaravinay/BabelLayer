@@ -1,92 +1,31 @@
-![BabelLayer Banner](docs/assets/banner.png)
+# BabelLayer
 
-# 🌐 BabelLayer
+**BabelLayer** handles the boring work of mapping data between different formats and schemas. It's for anyone who's ever had to manually rename columns in Excel or write scripts to move data from one dataset to another.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kongaravinay/BabelLayer)
-
-**BabelLayer** is a sophisticated desktop data translation and transformation engine designed to bridge the gap between disparate datasets. Built with a focus on data integrity and user-friendly mapping, it provides a comprehensive suite for ingestion, validation, and reporting.
-
----
-
-## ✨ Key Features
-
-- **🎨 Intuitive GUI**: A streamlined PyQt6 interface that guides you through the complex data lifecycle.
-- **🛡️ Secure Access**: Role-based authentication system ensuring data governance.
-- **🔌 Multi-format Ingestion**: Native support for **CSV**, **JSON**, **XML**, and **Excel**.
-- **🧠 Smart Mapping**: Confidence-scored schema mapping suggestions to minimize manual efforts.
-- **🔍 Quality Analysis**: Integrated data profiling and anomaly detection for reliable transformations.
-- **🛠️ Robust Transformations**: Execute complex rules and export to your format of choice.
-- **📊 Professional Reporting**: Generate detailed PDF quality reports with embedded visualizations.
+### What it does:
+- **Field Matching**: Automatically guesses column mappings.
+- **Transformation**: Moves data between CSV, JSON, XML, or Excel.
+- **Data Quality**: Flags missing values or weird anomalies.
+- **PDF Reports**: Quick summaries of what's in your data.
 
 ---
 
-## 🚀 Quick Start
+### How to use it:
 
-### 1. Prerequisites
-- Python 3.10 or higher
-- `pip` package manager
-
-### 2. Installation
-
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/kongaravinay/BabelLayer.git
-    cd BabelLayer
-    ```
-
-2.  **Environment Setup**:
-    ```bash
-    # Create virtual environment
-    python -m venv .venv
-    # Activate (Windows)
-    .venv\Scripts\activate
-    ```
-
-3.  **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### 3. Database Initialization
-Prepare the internal storage for configurations and roles:
-```bash
-python src/database/init_db.py
-```
-
-### 4. Launch Application
-```bash
-python src/main.py
-```
+1.  **Clone it**: `git clone https://github.com/kongaravinay/BabelLayer.git`
+2.  **Environment**: `python -m venv .venv` and activate it.
+3.  **Install**: `pip install -r requirements.txt`
+4.  **Database**: `python src/database/init_db.py`
+5.  **Run**: `python src/main.py`
 
 ---
 
-## 📂 Project Structure
+### Why this exists:
+I built this because I got tired of manually mapping fields across files. It's meant to be a simple tool that actually saves time.
 
-| Directory | Purpose |
-| :--- | :--- |
-| `src/` | Core application logic and GUI components. |
-| `tests/` | Comprehensive test suite for data integrity. |
-| `data/samples/` | Example datasets for testing and simulation. |
-| `docs/` | In-depth technical guides and compliance docs. |
+- [Check the TODO list](docs/TODO.md) for what's coming next.
+- [License is MIT](LICENSE).
 
 ---
-
-## 📚 Documentation
-
-Dive deeper into the project with our specialized guides:
-- [新手指南 (Beginner's Guide)](docs/BEGINNER_GUIDE.md)
-- [代码库之旅 (Codebase Tour)](docs/CODEBASE_TOUR.md)
-- [数据溯源 (Data Provenance)](docs/DATA_PROVENANCE.md)
-
----
-
-## ⚖️ License
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-## 📧 Contact
-Developed by **Kongara Vinay**.
-Project Link: [https://github.com/kongaravinay/BabelLayer](https://github.com/kongaravinay/BabelLayer)
+**Author: Kongara Vinay**
+[Project GitHub](https://github.com/kongaravinay/BabelLayer)

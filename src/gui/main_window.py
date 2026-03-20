@@ -763,13 +763,14 @@ class MainWindow(QMainWindow):
         QMessageBox.about(self, f"About {APP_TITLE}", f"""
         <h2>{APP_TITLE}</h2>
         <p>Version {APP_VERSION}</p>
-                <p>Data Translation Platform</p>
+        <p>A simple tool for data mapping and transformation.</p>
         <ul>
-                    <li>Schema Mapping</li>
-          <li>Multi-Format Ingestion</li>
-          <li>Anomaly Detection</li>
-          <li>PDF Reporting</li>
+            <li>Fields: automated schema matching</li>
+            <li>Logic: rules-based engine</li>
+            <li>QA: data quality and anomaly checks</li>
+            <li>Reports: PDF export</li>
         </ul>
+        <p>Built by Kongara Vinay.</p>
         """)
 
     def _is_admin(self) -> bool:
