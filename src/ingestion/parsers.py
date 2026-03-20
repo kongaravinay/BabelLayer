@@ -16,6 +16,14 @@ import pandas as pd
 
 log = logging.getLogger(__name__)
 
+SUPPORTED_READERS = {
+    ".csv": "csv",
+    ".json": "json",
+    ".xml": "xml",
+    ".xlsx": "excel",
+    ".xls": "excel",
+}
+
 
 # ---------------------------------------------------------------------------
 # Public entry point
@@ -23,8 +31,8 @@ log = logging.getLogger(__name__)
 
 def load_file(path: str) -> pd.DataFrame:
     """Load a data file into a DataFrame.  Raises on unsupported formats."""
-    p = Path(path)
-    ext = p.suffix.lower()
+    file_path = Path(path)
+    extension = file_path.suffix.lower()
     readers = {
         ".csv": _read_csv,
         ".json": _read_json,
@@ -32,11 +40,13 @@ def load_file(path: str) -> pd.DataFrame:
         ".xlsx": _read_excel,
         ".xls": _read_excel,
     }
-    reader = readers.get(ext)
+    reader = readers.get(extension)
     if reader is None:
-        raise ValueError(f"Unsupported file type: {ext}")
-    df = reader(p)
-    log.info("Loaded %s: %d rows × %d cols", p.name, len(df), len(df.columns))
+        supported = ", ".join(sorted(SUPPORTED_READERS.keys()))
+        raise ValueError(f"Unsupported file type: {extension}. Supported: {supported}")
+
+    df = reader(file_path)
+    log.info("Loaded %s: %d rows x %d cols", file_path.name, len(df), len(df.columns))
     return df
 
 

@@ -78,39 +78,49 @@ class LoginDialog(QDialog):
         self.setLayout(layout)
 
     def _on_login(self):
-        name = self.username.text().strip()
-        pw = self.password.text()
+        username = self.username.text().strip()
+        password = self.password.text()
 
-        if not name or not pw:
+        if not username or not password:
             QMessageBox.warning(self, "Missing Input", "Enter both username and password.")
             return
 
         try:
-            with db_session() as s:
-                user = s.query(User).filter_by(username=name).first()
+            user_info = self._authenticate_user(username=username, password=password)
+            if user_info is None:
+                return
 
-                if not user or not verify_password(pw, user.password_hash):
-                    QMessageBox.warning(self, "Login Failed", "Invalid credentials.")
-                    return
-
-                if not user.is_active:
-                    QMessageBox.warning(self, "Disabled", "Account is disabled.")
-                    return
-
-                user.last_login = datetime.now(timezone.utc)
-
-                current_session.login(user.id, user.username, user.is_admin)
-
-                self.user_info = {
-                    "id": user.id,
-                    "username": user.username,
-                    "full_name": user.full_name,
-                    "email": user.email,
-                    "is_admin": user.is_admin,
-                }
-                log.info("Login: %s", name)
-                self.accept()
+            self.user_info = user_info
+            log.info("Login: %s", username)
+            self.accept()
 
         except Exception as exc:
             log.error("Login error: %s", exc)
             QMessageBox.critical(self, "Error", f"Login failed:\n{exc}")
+
+    def _authenticate_user(self, *, username: str, password: str) -> dict | None:
+        """Validate credentials, update last-login timestamp, and start session."""
+        with db_session() as s:
+            user = s.query(User).filter_by(username=username).first()
+
+            if not user or not verify_password(password, user.password_hash):
+                QMessageBox.warning(self, "Login Failed", "Invalid credentials.")
+                return None
+
+            if not user.is_active:
+                QMessageBox.warning(self, "Disabled", "Account is disabled.")
+                return None
+
+            # Snapshot values before commit/close to avoid detached-instance access.
+            is_admin = user.is_admin
+            user_info = {
+                "id": user.id,
+                "username": user.username,
+                "full_name": user.full_name,
+                "email": user.email,
+                "is_admin": is_admin,
+            }
+
+            user.last_login = datetime.now(timezone.utc)
+            current_session.login(user.id, user.username, is_admin)
+            return user_info

@@ -1,14 +1,14 @@
-"""Tests for AI schema mapper."""
+"""Tests for schema mapper."""
 import pytest
-from ai.schema_mapper import SchemaMapper
+from ai.schema_mapper import FieldMatcher
 
 
 @pytest.fixture(scope="module")
 def mapper():
-    return SchemaMapper()
+    return FieldMatcher()
 
 
-class TestSchemaMapper:
+class TestFieldMatcher:
 
     def test_similar_fields(self, mapper):
         score = mapper.field_similarity("customer_name", "client_name")

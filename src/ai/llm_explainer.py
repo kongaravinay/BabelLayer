@@ -1,11 +1,11 @@
 """
-LLM integration for generating human-readable explanations.
+Text explanation service for mapping and anomaly summaries.
 
 Supports two backends:
-  - Ollama (local, free, offline)
-  - OpenAI (cloud, paid, higher quality)
+    - Ollama (local, free, offline)
+    - OpenAI (cloud, paid)
 
-The backend is chosen in config via LLM_BACKEND.
+The backend is selected using config value LLM_BACKEND.
 """
 import requests
 import logging
@@ -17,7 +17,7 @@ log = logging.getLogger(__name__)
 
 
 class Explainer:
-    """Wraps an LLM to explain schema mappings and anomalies in plain English."""
+    """Generates concise explanations for mappings and anomalies."""
 
     def __init__(self):
         self._backend = LLM_BACKEND
@@ -30,21 +30,30 @@ class Explainer:
             f"Explain why the data field '{source}' maps to '{target}' "
             f"with {confidence:.0%} confidence. Keep it to 1–2 sentences."
         )
-        return self._ask(prompt)
+        response = self._ask(prompt)
+        if response:
+            return response
+        return self._fallback_mapping(source, target, confidence)
 
     def explain_transformation(self, source: str, target: str, rule: str) -> Optional[str]:
         prompt = (
             f"Explain this data transformation in plain English:\n"
             f"  Source: {source}\n  Target: {target}\n  Rule: {rule}"
         )
-        return self._ask(prompt)
+        response = self._ask(prompt)
+        if response:
+            return response
+        return self._fallback_transformation(source, target, rule)
 
     def explain_anomaly(self, field: str, value: str, normal_range: str) -> Optional[str]:
         prompt = (
             f"Why is '{value}' anomalous for the field '{field}'?\n"
             f"Normal range: {normal_range}. One sentence."
         )
-        return self._ask(prompt)
+        response = self._ask(prompt)
+        if response:
+            return response
+        return self._fallback_anomaly(field, value, normal_range)
 
     # -- Backend dispatch -----------------------------------------------------
 
@@ -55,10 +64,10 @@ class Explainer:
             elif self._backend == "openai":
                 return self._ask_openai(prompt)
             else:
-                log.error("Unknown LLM backend: %s", self._backend)
+                log.error("Unknown explanation backend: %s", self._backend)
                 return None
         except Exception as exc:
-            log.error("LLM call failed: %s", exc)
+            log.error("Explanation call failed: %s", exc)
             return None
 
     def _ask_ollama(self, prompt: str) -> Optional[str]:
@@ -92,3 +101,31 @@ class Explainer:
             temperature=0.7,
         )
         return resp.choices[0].message.content.strip()
+
+    @staticmethod
+    def _fallback_mapping(source: str, target: str, confidence: float) -> str:
+        if confidence >= 0.8:
+            level = "high"
+        elif confidence >= 0.6:
+            level = "moderate"
+        else:
+            level = "low"
+
+        return (
+            f"'{source}' and '{target}' appear semantically related based on token and naming similarity. "
+            f"The current match confidence is {confidence:.0%} ({level}), so review field values before finalizing."
+        )
+
+    @staticmethod
+    def _fallback_transformation(source: str, target: str, rule: str) -> str:
+        return (
+            f"The transformation copies data from '{source}' into '{target}' and applies rule '{rule}' "
+            "to normalize format so downstream reporting stays consistent."
+        )
+
+    @staticmethod
+    def _fallback_anomaly(field: str, value: str, normal_range: str) -> str:
+        return (
+            f"Value '{value}' in field '{field}' is flagged because it deviates from the expected range "
+            f"({normal_range}) relative to the rest of the dataset."
+        )

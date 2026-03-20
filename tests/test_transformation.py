@@ -1,14 +1,14 @@
 """Tests for data transformation engine."""
 import pandas as pd
-from transformation.engine import TransformEngine
+from transformation.engine import Transformer
 from transformation.validator import Validator
 
 
-class TestTransformEngine:
+class TestTransformer:
 
     def test_direct_mapping(self):
         src = pd.DataFrame({"name": ["Alice", "Bob"], "age": [30, 25]})
-        engine = TransformEngine()
+        engine = Transformer()
         engine.add("name", "full_name")
         engine.add("age", "years")
         result = engine.run(src)
@@ -18,21 +18,21 @@ class TestTransformEngine:
 
     def test_missing_source_field(self):
         src = pd.DataFrame({"name": ["Alice"]})
-        engine = TransformEngine()
+        engine = Transformer()
         engine.add("missing_field", "target")
         result = engine.run(src)
         assert len(engine.errors) > 0
 
     def test_upper_rule(self):
         src = pd.DataFrame({"name": ["alice", "bob"]})
-        engine = TransformEngine()
+        engine = Transformer()
         engine.add("name", "NAME", "transform", "upper")
         result = engine.run(src)
         assert result["NAME"].tolist() == ["ALICE", "BOB"]
 
     def test_stats(self):
         src = pd.DataFrame({"x": [1, 2]})
-        engine = TransformEngine()
+        engine = Transformer()
         engine.add("x", "y")
         engine.run(src)
         assert engine.stats["total_mappings"] == 1

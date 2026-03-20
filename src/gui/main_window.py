@@ -3,7 +3,7 @@ Main application window.
 
 The 980-line original has been broken down by responsibility:
   - Tab construction (each tab is a private method returning a QWidget)
-  - Business logic is delegated to service modules (ai/, transformation/, etc.)
+    - Business logic is delegated to service modules (mapping/, transformation/, etc.)
   - Styling lives in theme.py
   - File loading uses ingestion.load_file()
 """
@@ -23,6 +23,7 @@ from pathlib import Path
 
 from gui.login_dialog import LoginDialog
 from gui.theme import app_stylesheet, COLORS
+from gui.helpers import render_mapping_table, render_quality_report, render_anomaly_report
 from auth import current_session
 from config import APP_TITLE, APP_VERSION, ROOT_DIR
 from database import db_session
@@ -89,7 +90,8 @@ class MainWindow(QMainWindow):
         tabs.addTab(self._tab_mapping(),     "Mapping")
         tabs.addTab(self._tab_transform(),   "Transform")
         tabs.addTab(self._tab_reports(),     "Reports")
-        tabs.addTab(self._tab_audit(),       "Audit")
+        if self._is_admin():
+            tabs.addTab(self._tab_audit(), "Audit")
         layout.addWidget(tabs)
 
         self._status = QStatusBar()
@@ -124,7 +126,7 @@ class MainWindow(QMainWindow):
 
         # Stat cards
         cards = QHBoxLayout()
-        proj_n, ds_n = 0, 0
+        proj_n = 0
         try:
             with db_session() as s:
                 proj_n = s.query(Project).filter_by(owner_id=self._user["id"]).count()
@@ -148,7 +150,7 @@ class MainWindow(QMainWindow):
         <ol>
           <li><b>Projects</b> — Create a project to organize your work</li>
           <li><b>Data</b> — Upload source &amp; target files (CSV, JSON, XML, Excel)</li>
-          <li><b>Mapping</b> — Use AI to suggest field mappings between datasets</li>
+                    <li><b>Mapping</b> — Generate suggested field mappings between datasets</li>
           <li><b>Transform</b> — Execute mappings and export transformed data</li>
           <li><b>Reports</b> — Analyze data quality and export PDF reports</li>
         </ol>
@@ -246,6 +248,10 @@ class MainWindow(QMainWindow):
             log.error("Failed to load projects: %s", exc)
 
     def _delete_project(self):
+        if not self._is_admin():
+            QMessageBox.warning(self, "Permission Denied", "Only admin users can delete projects.")
+            return
+
         row = self._proj_table.currentRow()
         if row < 0:
             QMessageBox.warning(self, "Error", "Select a project first.")
@@ -357,14 +363,14 @@ class MainWindow(QMainWindow):
     def _tab_mapping(self) -> QWidget:
         w = QWidget()
         lay = QVBoxLayout(w)
-        lay.addWidget(self._heading("AI Schema Mapping"))
+        lay.addWidget(self._heading("Schema Mapping"))
 
-        info = QLabel("Load source & target datasets in the Data tab, then generate AI mappings.")
+        info = QLabel("Load source and target datasets in the Data tab, then generate mappings.")
         info.setWordWrap(True)
         lay.addWidget(info)
 
         btns = QHBoxLayout()
-        btns.addWidget(self._btn("Generate AI Mappings", self._gen_mappings, "success"))
+        btns.addWidget(self._btn("Generate Mappings", self._gen_mappings, "success"))
         btns.addWidget(self._btn("Explain Selected", self._explain_mapping))
         btns.addWidget(self._btn("Clear", self._clear_mappings))
         btns.addStretch()
@@ -381,7 +387,7 @@ class MainWindow(QMainWindow):
         self._explain_box = QTextEdit()
         self._explain_box.setReadOnly(True)
         self._explain_box.setMaximumHeight(110)
-        self._explain_box.setPlaceholderText("Select a row and click 'Explain Selected' for an LLM explanation…")
+        self._explain_box.setPlaceholderText("Select a row and click 'Explain Selected' to view the mapping rationale.")
         lay.addWidget(self._explain_box)
 
         return w
@@ -391,40 +397,23 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "Error", "Load both source and target files first.")
             return
 
-        self._map_progress.setVisible(True)
-        self._map_progress.setRange(0, 0)
-        self._status.showMessage("Computing AI mappings…")
+        self._set_mapping_busy(True)
 
         try:
-            from ai.schema_mapper import SchemaMapper
-            mapper = SchemaMapper()
+            from ai.schema_mapper import FieldMatcher
+            mapper = FieldMatcher()
             suggestions = mapper.suggest_mappings(
                 list(self._source_df.columns),
                 list(self._target_df.columns),
             )
             self._mappings = suggestions
 
-            self._map_table.setRowCount(len(suggestions))
-            for i, s in enumerate(suggestions):
-                self._map_table.setItem(i, 0, QTableWidgetItem(s["source_field"]))
-                self._map_table.setItem(i, 1, QTableWidgetItem(s["target_field"]))
-
-                conf = s["confidence"]
-                ci = QTableWidgetItem(f"{conf:.0%}")
-                if conf >= 0.8:
-                    ci.setBackground(QColor(COLORS["highlight_green"]))
-                elif conf >= 0.6:
-                    ci.setBackground(QColor(COLORS["highlight_yellow"]))
-                else:
-                    ci.setBackground(QColor(COLORS["highlight_red"]))
-                self._map_table.setItem(i, 2, ci)
-                self._map_table.setItem(i, 3, QTableWidgetItem("AI"))
-
-            self._map_progress.setVisible(False)
+            self._render_mapping_rows(suggestions)
             self._status.showMessage(f"{len(suggestions)} mappings generated")
         except Exception as exc:
-            self._map_progress.setVisible(False)
             QMessageBox.critical(self, "Error", f"Mapping failed:\n{exc}")
+        finally:
+            self._set_mapping_busy(False)
 
     def _explain_mapping(self):
         row = self._map_table.currentRow()
@@ -458,6 +447,15 @@ class MainWindow(QMainWindow):
         self._mappings.clear()
         self._explain_box.clear()
         self._status.showMessage("Mappings cleared")
+
+    def _set_mapping_busy(self, busy: bool):
+        self._map_progress.setVisible(busy)
+        if busy:
+            self._map_progress.setRange(0, 0)
+            self._status.showMessage("Computing mappings...")
+
+    def _render_mapping_rows(self, suggestions: list[dict]):
+        render_mapping_table(self._map_table, suggestions, COLORS)
 
     # ======================================================================
     # Transform tab
@@ -499,8 +497,8 @@ class MainWindow(QMainWindow):
             return
 
         try:
-            from transformation.engine import TransformEngine
-            engine = TransformEngine()
+            from transformation.engine import Transformer
+            engine = Transformer()
 
             self._txn_log.clear()
             ts = datetime.now().strftime("%H:%M:%S")
@@ -581,35 +579,11 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "Error", "Load a file first.")
             return
         try:
-            from ai.anomaly_detector import QualityAnalyzer
-            report = QualityAnalyzer().quality_report(self._source_df)
+            from ai.anomaly_detector import DataQualityChecker
+            report = DataQualityChecker().quality_report(self._source_df)
             self._quality_data = report
 
-            out = self._report_box
-            out.clear()
-            out.append("=" * 50)
-            out.append("DATA QUALITY REPORT")
-            out.append("=" * 50)
-            name = Path(self._source_path).name if self._source_path else "?"
-            out.append(f"\nDataset: {name}")
-            out.append(f"Rows: {report['total_rows']}  |  Columns: {report['total_columns']}")
-            out.append(f"Duplicates: {report['duplicates']}")
-
-            score = report["overall_quality_score"]
-            rating = "EXCELLENT" if score >= 90 else "GOOD" if score >= 75 else "FAIR" if score >= 60 else "POOR"
-            out.append(f"\nQuality Score: {score:.1f}/100  ({rating})")
-
-            out.append("\n--- COMPLETENESS ---")
-            for field, d in report["completeness"].items():
-                pct = d["completeness_pct"]
-                bar = "█" * int(pct / 5) + "░" * (20 - int(pct / 5))
-                out.append(f"  {field:25s} [{bar}] {pct:.0f}%  (nulls: {d['null_count']})")
-
-            if report["statistics"]:
-                out.append("\n--- NUMERIC STATS ---")
-                for field, st in report["statistics"].items():
-                    out.append(f"  {field}: mean={st['mean']:.1f}, std={st['std']:.1f}, "
-                               f"range=[{st['min']:.1f}, {st['max']:.1f}]")
+            render_quality_report(self._report_box, report, self._source_path)
 
             self._status.showMessage("Quality analysis complete")
         except Exception as exc:
@@ -620,28 +594,11 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "Error", "Load a file first.")
             return
         try:
-            from ai.anomaly_detector import QualityAnalyzer
-            results = QualityAnalyzer().detect_anomalies(self._source_df)
+            from ai.anomaly_detector import DataQualityChecker
+            results = DataQualityChecker().detect_anomalies(self._source_df)
             self._anomaly_data = results
 
-            out = self._report_box
-            out.clear()
-            out.append("=" * 50)
-            out.append("ANOMALY DETECTION")
-            out.append("=" * 50)
-            out.append(f"\nRows analyzed: {results['total_rows']}")
-            out.append(f"Anomalies found: {results['anomalies_found']}")
-
-            rate = results["anomalies_found"] / max(results["total_rows"], 1) * 100
-            out.append(f"Anomaly rate: {rate:.1f}%")
-
-            if results.get("anomaly_indices"):
-                out.append(f"\nAnomalous rows (first 20): {results['anomaly_indices'][:20]}")
-
-            for col, det in results.get("column_anomalies", {}).items():
-                out.append(f"\n  {col}: {det.get('anomaly_count', 0)} anomalies")
-                if det.get("normal_mean") is not None:
-                    out.append(f"    Normal range: {det['normal_min']:.1f}–{det['normal_max']:.1f}")
+            render_anomaly_report(self._report_box, results)
 
             self._status.showMessage(f"Found {results['anomalies_found']} anomalies")
         except Exception as exc:
@@ -806,14 +763,17 @@ class MainWindow(QMainWindow):
         QMessageBox.about(self, f"About {APP_TITLE}", f"""
         <h2>{APP_TITLE}</h2>
         <p>Version {APP_VERSION}</p>
-        <p>AI-Powered Data Translation Platform</p>
+                <p>Data Translation Platform</p>
         <ul>
-          <li>AI Schema Mapping</li>
+                    <li>Schema Mapping</li>
           <li>Multi-Format Ingestion</li>
           <li>Anomaly Detection</li>
           <li>PDF Reporting</li>
         </ul>
         """)
+
+    def _is_admin(self) -> bool:
+        return bool(self._user and self._user.get("is_admin"))
 
     # ======================================================================
     # Widget factories — reduce boilerplate in tab builders

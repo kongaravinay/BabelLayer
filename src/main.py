@@ -1,12 +1,7 @@
-"""
-BabelLayer — AI Data Translation Platform
-
-Entry point: sets up logging, creates the Qt app, shows the main window.
-"""
 import sys
 from pathlib import Path
 
-# Let imports work from src/ (e.g. `from config import ...`)
+# Make imports from src/ work without installation
 sys.path.insert(0, str(Path(__file__).parent))
 
 from PyQt6.QtWidgets import QApplication
@@ -15,6 +10,7 @@ import logging
 from config import LOG_FILE, LOG_LEVEL, APP_TITLE, APP_VERSION
 from gui.main_window import MainWindow
 
+# Set up logging to file and console
 logging.basicConfig(
     level=getattr(logging, LOG_LEVEL, logging.INFO),
     format="%(asctime)s  %(name)-20s  %(levelname)-7s  %(message)s",

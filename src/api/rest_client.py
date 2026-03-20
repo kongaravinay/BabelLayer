@@ -22,9 +22,9 @@ class RestClient:
     def get_json(self, endpoint: str = "", params: dict = None) -> Optional[Any]:
         url = f"{self._url}/{endpoint.lstrip('/')}" if endpoint else self._url
         try:
-            r = requests.get(url, headers=self._headers, params=params, timeout=self._timeout)
-            r.raise_for_status()
-            return r.json()
+            response = requests.get(url, headers=self._headers, params=params, timeout=self._timeout)
+            response.raise_for_status()
+            return response.json()
         except requests.RequestException as exc:
             log.error("GET %s failed: %s", url, exc)
             return None
@@ -38,8 +38,9 @@ class RestClient:
             return None
 
         if records_path:
-            for key in records_path.split("."):
-                data = data[key]
+            data = self._extract_path(data, records_path)
+            if data is None:
+                return None
 
         if isinstance(data, list):
             return pd.DataFrame(data)
@@ -48,6 +49,17 @@ class RestClient:
 
         log.error("Response is not a list or dict")
         return None
+
+    @staticmethod
+    def _extract_path(payload: Any, records_path: str) -> Any:
+        """Resolve a dot-path (for example: data.results.items) inside JSON."""
+        current = payload
+        for key in records_path.split("."):
+            if not isinstance(current, dict) or key not in current:
+                log.error("records_path '%s' not found at key '%s'", records_path, key)
+                return None
+            current = current[key]
+        return current
 
     def ping(self) -> bool:
         try:
